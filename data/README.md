@@ -1,5 +1,14 @@
 # Koree content data
 
+## The content pipeline: 4 agents, 4 jobs
+
+- **koree-content-collector** — gathers content (user-supplied or researched) → writes `verified:false` drafts.
+- **koree-content-reviewer** — QAs, dedupes, fact-checks, cleans up → moves entries to `verified:true` (only with your confirmation).
+- **koree-content-publisher** — takes `verified:true` content and wires it into the right pages/sections on the live site.
+- **koree-web-builder** — everything else about the site's code (layout, styling, nav, bug fixes) — not content data.
+
+Ask for the stage you need ("카드 모아줘" → collector, "검수해줘" → reviewer, "사이트에 반영해줘" → publisher); each agent hands off rather than doing another's job.
+
 ## For the user: reviewing data as a spreadsheet
 
 `.json` files are what the site code reads — not meant for hand-browsing. Alongside each one is a **CSV mirror** you can open in Excel/Numbers/Google Sheets to review, sort, filter, and mark things up:
@@ -26,11 +35,9 @@ Content source for Play/Discover's learning-card & question-bank features. Each 
 | `category` | no | tag used for filtering (nuance, slang, idiom, grammar, ...) |
 | `difficulty` | no | `beginner` / `intermediate` / `advanced` |
 | `audio_text` | no | text passed to the TTS player (`data-audio` in script.js); defaults to `korean` if omitted |
-| `verified` | no | `true` once a human has confirmed the expression/meaning/nuance is accurate. Agent-drafted cards (from koree-card-writer) are added as `false` — flip to `true` after reviewing. Absent = also treat as unverified. |
+| `verified` | no | `true` once `koree-content-reviewer` + you have confirmed the expression/meaning/nuance is accurate. `koree-content-collector` always adds new entries as `false`. Absent = also treat as unverified. |
 
-Two ways cards get added:
-- **You already have the data** (list, table, screenshots-as-text, spreadsheet export) → paste it to Claude, `koree-web-builder` normalizes it into this schema and appends.
-- **You want new content researched/drafted** (e.g. "카드 몇 개 만들어줘", expressions from a specific drama/song) → `koree-card-writer` researches and drafts cards, marks them `verified: false`, and appends — review and confirm accuracy before treating them as final.
+Cards get added by `koree-content-collector` (whether you hand it raw data or ask it to research/draft new content), always as `verified: false`. `koree-content-reviewer` then checks the batch and flips entries to `true` once you confirm. Only `verified: true` cards get wired onto the live site by `koree-content-publisher`.
 
 ## `quiz.json` — Play "what kind of Korean learner are you" quiz
 
@@ -39,4 +46,4 @@ Two top-level keys:
 - `types` — the 5 result personas (`id`, `name`, `description`). Fixed set, taken from the type-cards already on `play/index.html`; only edit if the user explicitly wants to change the personas themselves.
 - `questions` — array of `{ id, text, options: [{ text, type }] }`. Each option's `type` must match a `types[].id` — that's how an answer counts toward a result. The prototype currently ships only `q1`; the quiz UI implies 5 questions total (2-3 options each), so more need to be collected.
 
-To add quiz questions: paste raw data (question + its answer choices, and which persona each choice should point to) — the koree-web-builder agent appends to `questions` in this schema, then commits/pushes. If an option's persona isn't specified, ask rather than guessing — it directly drives the quiz result.
+To add quiz questions: paste raw data (question + its answer choices, and which persona each choice should point to), or ask `koree-content-collector` to draft new ones — it appends to `questions` in this schema. If an option's persona isn't specified, it asks rather than guessing, since that mapping drives the actual quiz result. `koree-content-reviewer` checks new questions before they're treated as final; `koree-content-publisher` wires the confirmed set into `play/index.html`'s actual quiz logic.
