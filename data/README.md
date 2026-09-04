@@ -19,6 +19,26 @@ Ask for a single stage directly ("카드 모아줘" → collector, "검수해줘
 
 The JSON stays the source of truth the site actually uses; the CSV is regenerated from it every time an agent adds/changes cards or questions, so it's always safe to just re-open and re-check. If you edit the CSV directly (e.g. correct a typo, flip `verified` to `TRUE`), tell Claude to "sync the CSV changes back into the JSON" and the agent will reconcile them.
 
+### Live view in Google Sheets
+
+There's no Google account connected to this project, so there's no fully automatic two-way sync — but since this repo is public, Google Sheets can pull the CSVs directly with `IMPORTDATA`, refreshing automatically without any manual re-upload:
+
+```
+=IMPORTDATA("https://raw.githubusercontent.com/kayla-koree/koree-multipage-v0.2/main/data/cards.csv")
+```
+
+Put that in cell A1 of one sheet/tab, and the same pattern with `quiz-questions.csv` in another tab:
+
+```
+=IMPORTDATA("https://raw.githubusercontent.com/kayla-koree/koree-multipage-v0.2/main/data/quiz-questions.csv")
+```
+
+Notes:
+- This is **read-only from Sheets' side** — it re-pulls from GitHub, it doesn't push edits back. Google Sheets refreshes `IMPORTDATA` automatically every couple hours, or force it sooner via the sheet's *Data → Data connectors → Refresh all* (or delete/retype the formula).
+- The CSVs are saved with a UTF-8 BOM specifically so Korean text renders correctly through `IMPORTDATA` (plain UTF-8 without BOM can show as mojibake in Sheets).
+- If you edit values in the Sheet, those edits live only in Sheets until you tell Claude about them — paste/describe the change and ask to "sync the CSV changes back," same as editing the local CSV directly.
+- If a first-party Google Sheets/Drive connector is ever added to this Claude account, true two-way sync (Claude writing directly into a Sheet) becomes possible — none was available when this was set up.
+
 ## `cards.json` — learning cards
 
 Content source for Play/Discover's learning-card & question-bank features. Each entry:

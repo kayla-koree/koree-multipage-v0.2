@@ -1,4 +1,4 @@
-question_id,question_text,option_text,maps_to_type
+﻿question_id,question_text,option_text,maps_to_type
 q1,You hear a Korean phrase in a drama. What do you do?,Screenshot it because I need to know what it really means.,curious-fan
 q1,,Look up the grammar and try to make my own sentence.,frustrated-learner
 q1,,Save it for later… then accidentally watch three more episodes.,context-collector

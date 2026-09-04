@@ -1,4 +1,4 @@
-id,korean,romanization,meaning,nuance,example_ko,example_en,source,category,difficulty,audio_text,verified
+﻿id,korean,romanization,meaning,nuance,example_ko,example_en,source,category,difficulty,audio_text,verified
 gwaenchanha-01,괜찮아,gwaenchanha,It's okay / I'm fine — but the emotional temperature depends entirely on tone and context.,"Can mean genuine reassurance, a polite deflection, or a quiet 'I'm not okay but don't push it.' Listen to the pause before it.","정말 괜찮아? ...응, 괜찮아.","Are you really okay? ...Yeah, I'm fine.",K-drama,nuance,beginner,괜찮아,FALSE
 daebak-01,대박,daebak,Jackpot / no way! / that's amazing — an all-purpose exclamation of surprise.,Used for both great news and shocking news. Tone and face tell you which.,"대박, 진짜야?","No way, seriously?",K-pop / slang,slang,beginner,대박,FALSE
 gaseulaiting-01,가스라이팅,gaseulaiting,Gaslighting — psychological manipulation where someone deliberately distorts facts so the other person doubts their own memory or judgment.,Korean adoption of the English term; used the same way as in English pop-psychology discourse.,,,Naver 오픈사전 (신조어),neologism,intermediate,,FALSE
