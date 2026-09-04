@@ -1,13 +1,14 @@
 # Koree content data
 
-## The content pipeline: 4 agents, 4 jobs
+## The pipeline: 5 agents
 
+- **koree-orchestrator** — entry point for anything that spans multiple stages ("카드 만들어서 사이트에 올려줘"). Never does the work itself — only delegates to the four specialists below and reports one-line progress per step.
 - **koree-content-collector** — gathers content (user-supplied or researched) → writes `verified:false` drafts.
 - **koree-content-reviewer** — QAs, dedupes, fact-checks, cleans up → moves entries to `verified:true` (only with your confirmation).
 - **koree-content-publisher** — takes `verified:true` content and wires it into the right pages/sections on the live site.
 - **koree-web-builder** — everything else about the site's code (layout, styling, nav, bug fixes) — not content data.
 
-Ask for the stage you need ("카드 모아줘" → collector, "검수해줘" → reviewer, "사이트에 반영해줘" → publisher); each agent hands off rather than doing another's job.
+Ask for a single stage directly ("카드 모아줘" → collector, "검수해줘" → reviewer, "사이트에 반영해줘" → publisher), or hand a multi-step request to the orchestrator and let it route.
 
 ## For the user: reviewing data as a spreadsheet
 
