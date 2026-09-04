@@ -1,0 +1,28 @@
+[
+  {
+    "id": "gwaenchanha-01",
+    "korean": "괜찮아",
+    "romanization": "gwaenchanha",
+    "meaning": "It's okay / I'm fine — but the emotional temperature depends entirely on tone and context.",
+    "nuance": "Can mean genuine reassurance, a polite deflection, or a quiet 'I'm not okay but don't push it.' Listen to the pause before it.",
+    "example_ko": "정말 괜찮아? ...응, 괜찮아.",
+    "example_en": "Are you really okay? ...Yeah, I'm fine.",
+    "source": "K-drama",
+    "category": "nuance",
+    "difficulty": "beginner",
+    "audio_text": "괜찮아"
+  },
+  {
+    "id": "daebak-01",
+    "korean": "대박",
+    "romanization": "daebak",
+    "meaning": "Jackpot / no way! / that's amazing — an all-purpose exclamation of surprise.",
+    "nuance": "Used for both great news and shocking news. Tone and face tell you which.",
+    "example_ko": "대박, 진짜야?",
+    "example_en": "No way, seriously?",
+    "source": "K-pop / slang",
+    "category": "slang",
+    "difficulty": "beginner",
+    "audio_text": "대박"
+  }
+]
