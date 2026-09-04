@@ -31,14 +31,15 @@ For each new card, fill the `data/cards.json` schema (`id`, `korean`, `romanizat
 Workflow:
 1. Draft the batch and show it to the user in chat (Korean expression + meaning + why it's interesting) before or right after writing — content accuracy matters here since it's learner-facing language material.
 2. Append to `data/cards.json` (never overwrite/drop existing entries), using kebab-case ids with numeric suffixes on collision.
-3. Commit + push (standard Koree workflow — no confirmation needed for the git step itself):
+3. Regenerate `data/cards.csv` from the updated `cards.json` (same columns, one row per card) — this is the file the user actually reviews/checks off in a spreadsheet app.
+4. Commit + push (standard Koree workflow — no confirmation needed for the git step itself):
    ```
    git add -A && git commit -m "<concise description>" && git push
    ```
-4. Tell the user how many cards were added, their ids, and remind them they're `verified: false` until reviewed.
+5. Tell the user how many cards were added, their ids, and remind them they're `verified: false` until reviewed in `cards.csv`.
 
 ## Quiz question brainstorming
-If asked to write new Play quiz questions (not just structure existing ones), draft the question + 2-3 answer options AND propose which of the 5 fixed personas (`data/quiz.json` → `types`) each option maps to, explaining your reasoning briefly — the user should confirm or correct the persona mapping since it drives the actual quiz result, then append to `questions` in `data/quiz.json` and push.
+If asked to write new Play quiz questions (not just structure existing ones), draft the question + 2-3 answer options AND propose which of the 5 fixed personas (`data/quiz.json` → `types`) each option maps to, explaining your reasoning briefly — the user should confirm or correct the persona mapping since it drives the actual quiz result, then append to `questions` in `data/quiz.json`, regenerate `data/quiz-questions.csv` to match, and push.
 
 ## Boundaries
 - You don't do general site engineering (layout, CSS, page structure, bug fixes) — hand that off / defer to `koree-web-builder`.

@@ -40,10 +40,12 @@ You're also responsible for ongoing upkeep, not just new features:
 
 When the user pastes or hands you raw learning-card material (a list, table, spreadsheet export, screenshots-as-text, or loose notes about Korean expressions):
 1. Normalize each item into the `cards.json` schema. Infer `id` as a kebab-case slug from the Korean term (+ a numeric suffix if it collides with an existing id). Leave optional fields out rather than guessing content that wasn't given (don't invent nuance/example text the user didn't provide).
-2. Append to the existing array in `data/cards.json` — never overwrite or drop existing entries.
+2. Append to the existing array in `data/cards.json` — never overwrite or drop existing entries. Include `"verified": false` on new entries (see `data/README.md`).
 3. If the raw data is ambiguous or missing required fields (`korean`, `meaning`), ask the user rather than fabricating content — this is learner-facing language content and needs to be accurate.
-4. Commit + push per the standard workflow above. Mention how many cards were added and their ids.
-5. If asked to actually wire cards into a page (e.g. render them in Play/Discover instead of the current static placeholder content), read the relevant page + script.js first and match the existing vanilla-JS style (no framework, no build step).
+4. Regenerate `data/cards.csv` from the updated `cards.json` so it stays in sync (same columns as the JSON fields, one row per card) — this is the file the user actually reviews in a spreadsheet app.
+5. Commit + push per the standard workflow above. Mention how many cards were added and their ids.
+6. If asked to actually wire cards into a page (e.g. render them in Play/Discover instead of the current static placeholder content), read the relevant page + script.js first and match the existing vanilla-JS style (no framework, no build step).
+7. If the user says they edited `cards.csv` directly and asks to sync it back, read the CSV, diff it against `cards.json`, and apply the user's edits into the JSON (don't silently overwrite JSON-only fields the CSV might be missing).
 
 ## Play quiz data
 `data/quiz.json` holds the "what kind of Korean learner are you" quiz — `types` (the 5 fixed personas already shown on `play/index.html`) and `questions` (array of `{ id, text, options: [{ text, type }] }`, where each option's `type` must match a `types[].id`). Only `q1` exists so far; the UI implies 5 questions total.
@@ -52,5 +54,6 @@ When the user hands you raw quiz material (a question plus its answer choices):
 1. Assign the next sequential `id` (`q2`, `q3`, ...).
 2. Each option needs a `type` pointing at one of the 5 existing persona ids — if the user doesn't say which persona an answer maps to, ask; don't invent the mapping, since it drives the actual quiz result.
 3. Append to `questions` in `data/quiz.json` — never overwrite existing questions or the `types` list.
-4. Commit + push per the standard workflow. Mention which question id(s) were added.
-5. If asked to wire the full quiz logic into `play/index.html` (currently only question 1 is hardcoded and the result is hardcoded to "Curious Fan" regardless of answers), read `script.js` and the existing `data-quiz` markup first, then implement scoring (most-selected `type` wins) in plain JS consistent with the site's existing style — no framework.
+4. Regenerate `data/quiz-questions.csv` from the updated `questions` array (one row per option: `question_id, question_text, option_text, maps_to_type` — leave `question_text` blank on repeated rows for the same question, matching the existing file).
+5. Commit + push per the standard workflow. Mention which question id(s) were added.
+6. If asked to wire the full quiz logic into `play/index.html` (currently only question 1 is hardcoded and the result is hardcoded to "Curious Fan" regardless of answers), read `script.js` and the existing `data-quiz` markup first, then implement scoring (most-selected `type` wins) in plain JS consistent with the site's existing style — no framework.

@@ -1,5 +1,14 @@
 # Koree content data
 
+## For the user: reviewing data as a spreadsheet
+
+`.json` files are what the site code reads — not meant for hand-browsing. Alongside each one is a **CSV mirror** you can open in Excel/Numbers/Google Sheets to review, sort, filter, and mark things up:
+
+- `cards.csv` ↔ `cards.json`
+- `quiz-questions.csv` ↔ `quiz.json` (`questions` only — `types`, the 5 fixed personas, rarely change and are listed in the table below)
+
+The JSON stays the source of truth the site actually uses; the CSV is regenerated from it every time an agent adds/changes cards or questions, so it's always safe to just re-open and re-check. If you edit the CSV directly (e.g. correct a typo, flip `verified` to `TRUE`), tell Claude to "sync the CSV changes back into the JSON" and the agent will reconcile them.
+
 ## `cards.json` — learning cards
 
 Content source for Play/Discover's learning-card & question-bank features. Each entry:
