@@ -17,8 +17,11 @@ Content source for Play/Discover's learning-card & question-bank features. Each 
 | `category` | no | tag used for filtering (nuance, slang, idiom, grammar, ...) |
 | `difficulty` | no | `beginner` / `intermediate` / `advanced` |
 | `audio_text` | no | text passed to the TTS player (`data-audio` in script.js); defaults to `korean` if omitted |
+| `verified` | no | `true` once a human has confirmed the expression/meaning/nuance is accurate. Agent-drafted cards (from koree-card-writer) are added as `false` — flip to `true` after reviewing. Absent = also treat as unverified. |
 
-To add cards: paste raw data (list, table, screenshots-as-text, spreadsheet export) to Claude — the koree-web-builder agent normalizes it into this schema and appends to `cards.json`, then commits/pushes.
+Two ways cards get added:
+- **You already have the data** (list, table, screenshots-as-text, spreadsheet export) → paste it to Claude, `koree-web-builder` normalizes it into this schema and appends.
+- **You want new content researched/drafted** (e.g. "카드 몇 개 만들어줘", expressions from a specific drama/song) → `koree-card-writer` researches and drafts cards, marks them `verified: false`, and appends — review and confirm accuracy before treating them as final.
 
 ## `quiz.json` — Play "what kind of Korean learner are you" quiz
 
