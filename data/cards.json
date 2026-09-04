@@ -2054,5 +2054,2795 @@
     "category": "idiom",
     "difficulty": "intermediate",
     "verified": false
+  },
+  {
+    "id": "hansumigipda-01",
+    "korean": "한숨(이) 깊다",
+    "romanization": "hansum(i) gipda",
+    "meaning": "To sigh deeply from heavy worry and sorrow.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "ngwisin-01",
+    "korean": "N 귀신",
+    "romanization": "N-gwisin",
+    "meaning": "A \"ghost for N\" — someone who's obsessively fond of a particular thing.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "hantangeulnorida-01",
+    "korean": "한탕(을) 노리다",
+    "romanization": "hantang(eul) norida",
+    "meaning": "To hope for one big illegal or improper score/payoff.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "bakwibeollehanssang-01",
+    "korean": "바퀴벌레 한 쌍",
+    "romanization": "bakwibeolle han ssang",
+    "meaning": "A mocking term for a couple who suit each other a little too well — \"a pair of cockroaches.\"",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "soreumidotda-01",
+    "korean": "소름(이) 돋다",
+    "romanization": "soreum(i) dotda",
+    "meaning": "To get goosebumps from being amazed or startled.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "baekpalsipdorobyeonhada-01",
+    "korean": "백팔십도(로) 변하다",
+    "romanization": "baekpalsipdo(ro) byeonhada",
+    "meaning": "For someone's personality, attitude, or a situation to completely flip — \"change 180 degrees.\"",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "teotsereulburida-01",
+    "korean": "텃세(를) 부리다",
+    "romanization": "teotse(reul) burida",
+    "meaning": "For an established member of a group to look down on or make things hard for a newcomer.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "jalkiunn1hanayeoln2anburupda-01",
+    "korean": "잘 키운 N1 하나 열 N2 안 부럽다",
+    "romanization": "jal kiun N1 hana yeol N2 an burupda",
+    "meaning": "\"One well-raised N1 beats ten N2\" — one great thing or person is worth more than many lesser ones.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "joeunmaldohandubeonida-01",
+    "korean": "좋은 말도 한두 번이다",
+    "romanization": "joeun maldo handu beonida",
+    "meaning": "Even good, helpful advice gets tiresome if repeated too many times.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "hyeonjangeuldeopchida-01",
+    "korean": "현장(을) 덮치다",
+    "romanization": "hyeonjang(eul) deopchida",
+    "meaning": "To swoop in right at the scene where something is happening.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "ipijjaejida-01",
+    "korean": "입(이) 째지다",
+    "romanization": "ip(i) jjaejida",
+    "meaning": "Informally, to grin from ear to ear with joy.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "mareunbarohada-01",
+    "korean": "말은 바로 하다",
+    "romanization": "mareun baro hada",
+    "meaning": "To state the truth precisely, without spin.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "dakeuseokeuriteokkkajinaeryeooda-01",
+    "korean": "다크서클이 턱까지 내려오다",
+    "romanization": "dakeuseokeuri teokkkaji naeryeooda",
+    "meaning": "Exaggerating being so exhausted that dark circles reach all the way down to your chin.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "jeonsaengenararaeulguhada-01",
+    "korean": "전생에 나라를 구하다",
+    "romanization": "jeonsaenge narareul guhada",
+    "meaning": "Figuratively, to have earned such great merit in a past life (like saving the country) that you're now enjoying huge good fortune as a reward.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "haneullogada-01",
+    "korean": "하늘로 가다",
+    "romanization": "haneullo gada",
+    "meaning": "A euphemism for dying — \"to go to the sky.\"",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "mworalkka-01",
+    "korean": "뭐랄까",
+    "romanization": "mworalkka",
+    "meaning": "\"How should I put it...\" — used when searching for the right words.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "useumgigappajida-01",
+    "korean": "웃음기(가) 빠지다",
+    "romanization": "useumgi(ga) ppajida",
+    "meaning": "For the smile or humor to drain from someone's expression, usually as things turn serious.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "pungeulmatda-01",
+    "korean": "풍(을) 맞다",
+    "romanization": "pung(eul) matda",
+    "meaning": "To suffer a stroke.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "bunwigireulikkeulda-01",
+    "korean": "분위기(를) 이끌다",
+    "romanization": "bunwigi(reul) ikkeulda",
+    "meaning": "To steer or set the mood or direction of a situation.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "pibugadwijipida-01",
+    "korean": "피부(가) 뒤집히다",
+    "romanization": "pibu(ga) dwijipida",
+    "meaning": "For one's skin condition to get much worse.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "darigapullida-01",
+    "korean": "다리(가) 풀리다",
+    "romanization": "dari(ga) pullida",
+    "meaning": "For one's legs to go weak and give out.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "patureulnota-01",
+    "korean": "파투(를) 놓다",
+    "romanization": "patu(reul) nota",
+    "meaning": "To spoil or ruin a plan, making it fall through.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "mentaeoleuljapda-01",
+    "korean": "멘탈(을) 잡다",
+    "romanization": "mentaeol(eul) japda",
+    "meaning": "To pull yourself together mentally after being shaken.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "meorireulchida-01",
+    "korean": "머리(를) 치다",
+    "romanization": "meori(reul) chida",
+    "meaning": "To get a haircut and have it neatly trimmed.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "jalhaneunjisida-01",
+    "korean": "잘하는 짓이다",
+    "romanization": "jalhaneun jisida",
+    "meaning": "Sarcastic — \"what a great thing to do\" — mocking someone's ill-advised behavior.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "piltoringeopsi-01",
+    "korean": "필터링 없이",
+    "romanization": "piltoring eopsi",
+    "meaning": "Bluntly, without filtering — saying or doing something without considering how it lands.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "banjjokjjarin-01",
+    "korean": "반쪽짜리 N",
+    "romanization": "banjjokjjari N",
+    "meaning": "A \"half-baked N\" — something insufficient or unsatisfying.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "maeumeulmatchuda-01",
+    "korean": "마음(을) 맞추다",
+    "romanization": "maeum(eul) matchuda",
+    "meaning": "To be considerate of and align with each other's feelings.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "malsseummanideureosseumnida-01",
+    "korean": "말씀 많이 들었습니다",
+    "romanization": "malsseum mani deureosseumnida",
+    "meaning": "\"I've heard a lot about you\" — a polite greeting on first meeting someone.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "eopdeonillohada-01",
+    "korean": "없던 일로 하다",
+    "romanization": "eopdeon illo hada",
+    "meaning": "To treat something that happened or was said as if it never occurred.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "naebireuljjikda-01",
+    "korean": "내비(를) 찍다",
+    "romanization": "naebi(reul) jjikda",
+    "meaning": "To enter a destination into a car's navigation system.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "chulgeundojangeuljjikda-01",
+    "korean": "출근 도장(을) 찍다",
+    "romanization": "chulgeun dojang(eul) jjikda",
+    "meaning": "Figuratively, to visit somewhere regularly, as if clocking in for work.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "nunemwogasseuida-01",
+    "korean": "눈에 뭐가 씌다",
+    "romanization": "nune mwoga sseuida",
+    "meaning": "To be so infatuated with something that you neglect what's actually important.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "haksamoreulsseuda-01",
+    "korean": "학사모(를) 쓰다",
+    "romanization": "haksamo(reul) sseuda",
+    "meaning": "To finish college — literally \"wear the graduation cap.\"",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "insaengsyaseulgeonjida-01",
+    "korean": "인생 샷을 건지다",
+    "romanization": "insaeng syaseul geonjida",
+    "meaning": "To get a truly great photo of yourself — \"the photo of your life.\"",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "eopneunmalhada-01",
+    "korean": "없는 말(을) 하다",
+    "romanization": "eopneun mal(eul) hada",
+    "meaning": "To lie or make up something untrue.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "ibetteomeogida-01",
+    "korean": "입에 떠먹이다",
+    "romanization": "ibe tteomeogida",
+    "meaning": "Figuratively, to hand someone an answer or help on a silver platter instead of letting them figure it out.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "chunggyeokyobeop-01",
+    "korean": "충격 요법",
+    "romanization": "chunggyeok yobeop",
+    "meaning": "\"Shock therapy\" — deliberately provoking or startling someone to snap them out of something.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "nuneseokkulitteoreojida-01",
+    "korean": "눈에서 꿀(이) 떨어지다",
+    "romanization": "nuneseo kkul(i) tteoreojida",
+    "meaning": "To gaze at someone lovingly, eyes overflowing with affection.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "nuneulttelsueopda-01",
+    "korean": "눈(을) 뗄 수 없다",
+    "romanization": "nun(eul) ttel su eopda",
+    "meaning": "Unable to look away because something stands out so much.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "chung-01",
+    "korean": "-충",
+    "romanization": "-chung",
+    "meaning": "A derogatory suffix (\"-bug\") tacked onto a label for \"a person with that particular bad trait.\"",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "ttongpomeuljapda-01",
+    "korean": "똥폼(을) 잡다",
+    "romanization": "ttongpom(eul) japda",
+    "meaning": "To strike an exaggerated, showy pose or attitude — mockingly.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "natbiteulheurida-01",
+    "korean": "낯빛(을) 흐리다",
+    "romanization": "natbit(eul) heurida",
+    "meaning": "For a shadow to cross someone's face from a dark emotion or worry.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "jeonhwagiebulinada-01",
+    "korean": "전화기에 불(이) 나다",
+    "romanization": "jeonhwagie bul(i) nada",
+    "meaning": "For the phone to \"catch fire\" from ringing nonstop.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "saeoteulipda-01",
+    "korean": "새 옷(을) 입다",
+    "romanization": "sae ot(eul) ipda",
+    "meaning": "Figuratively, for something to get a new look or structure.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "chijeu-01",
+    "korean": "치즈",
+    "romanization": "chijeu",
+    "meaning": "\"Cheese\" — what you say to get someone to smile for a photo.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "kkeopjilkkajibeotgyeomeokda-01",
+    "korean": "껍질까지 벗겨 먹다",
+    "romanization": "kkeopjilkkaji beotgyeo meokda",
+    "meaning": "Informally, to strip someone of every last bit of their money or labor.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "mibangbun-01",
+    "korean": "미방분",
+    "romanization": "mibangbun",
+    "meaning": "Footage or content that didn't make it into the final broadcast.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "mikkireulmulda-01",
+    "korean": "미끼(를) 물다",
+    "romanization": "mikki(reul) mulda",
+    "meaning": "Figuratively, to fall for a trap or lure.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "twinggida-01",
+    "korean": "튕기다",
+    "romanization": "twinggida",
+    "meaning": "For more people to want in than a limited system can hold, so some get bounced out.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "sajangnim-01",
+    "korean": "사장님",
+    "romanization": "sajangnim",
+    "meaning": "\"Boss\" — a polite way to address an adult man working somewhere like a parking lot or restaurant.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "meorigajjubyeotseoda-01",
+    "korean": "머리가 쭈뼛 서다",
+    "romanization": "meoriga jjubyeot seoda",
+    "meaning": "For your hair to stand on end from fright.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "baejjangiseda-01",
+    "korean": "배짱(이) 세다",
+    "romanization": "baejjang(i) seda",
+    "meaning": "To have strong nerve and confidence to push your own way through.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "ttalranggeorida-01",
+    "korean": "딸랑거리다",
+    "romanization": "ttalranggeorida",
+    "meaning": "To flatter and suck up to someone to win their favor.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "maleuljaruda-01",
+    "korean": "말(을) 자르다",
+    "romanization": "mal(eul) jaruda",
+    "meaning": "To interrupt someone while they're speaking.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "eolmananeunjimoreunda-01",
+    "korean": "얼마나 V-는지 모른다",
+    "romanization": "eolmana -neunji moreunda",
+    "meaning": "\"You have no idea how much...\" — emphasizing the extreme degree of something.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "michyeosseo-01",
+    "korean": "미쳤어",
+    "romanization": "michyeosseo",
+    "meaning": "\"That's insane\" — said about something so impressive it seems unreasonable.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "ppyongichaoreuda-01",
+    "korean": "뿅(이) 차오르다",
+    "romanization": "ppyong(i) chaoreuda",
+    "meaning": "Informally, for a feeling of pride or excitement to keep welling up.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "neulgaekoroalda-01",
+    "korean": "N을 개코로 알다",
+    "romanization": "N-eul gaekoro alda",
+    "meaning": "To regard something as utterly worthless.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "bungeoeomneunbungeoppang-01",
+    "korean": "붕어 없는 붕어빵",
+    "romanization": "bungeo eomneun bungeoppang",
+    "meaning": "\"A fish-bread with no fish inside\" — something missing its essential core.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "akbalibatda-01",
+    "korean": "악발(이) 받다",
+    "romanization": "akbal(i) batda",
+    "meaning": "To get good results after doing something evil or wrong (ironic).",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "nunkkeopulimugeopda-01",
+    "korean": "눈꺼풀(이) 무겁다",
+    "romanization": "nunkkeopul(i) mugeopda",
+    "meaning": "Figuratively, to feel very sleepy.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "balgaragekkinttaemandomotada-01",
+    "korean": "발가락에 낀 때만도 못하다",
+    "romanization": "balgarage kkin ttaemando motada",
+    "meaning": "To be utterly worthless — \"not even as good as the dirt between someone's toes.\"",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "kkojajuda-01",
+    "korean": "꽂아 주다",
+    "romanization": "kkoja juda",
+    "meaning": "To use connections or power to get someone a good job or position.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "majimageutda-01",
+    "korean": "마지막에 웃다",
+    "romanization": "majimage utda",
+    "meaning": "No matter how things go along the way, to end up with a good result in the end.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "ttaemgi-01",
+    "korean": "땜기",
+    "romanization": "ttaemgi",
+    "meaning": "The exact degree of spiciness you feel while eating.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "mitneunguseogiitda-01",
+    "korean": "믿는 구석이 있다",
+    "romanization": "mitneun guseogi itda",
+    "meaning": "To have something or someone to rely on.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "sijangieoreobutda-01",
+    "korean": "시장(이) 얼어붙다",
+    "romanization": "sijang(i) eoreobutda",
+    "meaning": "For a market to freeze up, with trading barely happening.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "homgada-01",
+    "korean": "홈 가다",
+    "romanization": "hom gada",
+    "meaning": "For someone's mood or a situation to sour within moments.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "mileuldakda-01",
+    "korean": "밀(을) 닦다",
+    "romanization": "mil(eul) dakda",
+    "meaning": "Informally, to help someone with their work while secretly handling it for them.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "nugabolsera-01",
+    "korean": "누가 볼세라",
+    "romanization": "nuga bolsera",
+    "meaning": "\"As if afraid someone might see\" — doing something while worrying about others noticing.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "bissanbapmeokgo-01",
+    "korean": "비싼 밥 먹고",
+    "romanization": "bissan bap meokgo",
+    "meaning": "Figuratively, said when someone's words or actions turn out pointless.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "eolmaandoeda-01",
+    "korean": "얼마 안 되다",
+    "romanization": "eolma an doeda",
+    "meaning": "To be a relatively small amount.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "ibadageseosaranamda-01",
+    "korean": "이 바닥에서 살아남다",
+    "romanization": "i badageseo saranamda",
+    "meaning": "To keep surviving and staying relevant in the field you work in.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "eopseotdeonillohada-01",
+    "korean": "없었던 일로 하다",
+    "romanization": "eopseotdeon illo hada",
+    "meaning": "To roll back an already-decided matter to how things were before.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "almanhansaramendadalda-01",
+    "korean": "알 만한 사람은 다 알다",
+    "romanization": "al manhan sarameun da alda",
+    "meaning": "Anyone remotely connected already knows about it.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "bulgachihwareulnaeda-01",
+    "korean": "불같이 화(를) 내다",
+    "romanization": "bulgachi hwa(reul) naeda",
+    "meaning": "To suddenly explode in anger.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "nhansepun-01",
+    "korean": "N 한 스푼",
+    "romanization": "N han sepun",
+    "meaning": "\"A spoonful of N\" — an expression adding a touch of a certain feeling or quality.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "eopneunjip-01",
+    "korean": "없는 집",
+    "romanization": "eopneun jip",
+    "meaning": "A poor household.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "gogumareulkaedeut-01",
+    "korean": "고구마(를) 캐듯",
+    "romanization": "goguma(reul) kaedeut",
+    "meaning": "Like digging up sweet potatoes — one thing leads to another in a chain.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "myeotsuapeulnaedaboda-01",
+    "korean": "몇 수 앞을 내다보다",
+    "romanization": "myeot su apeul naedaboda",
+    "meaning": "To think several moves ahead, as in a game or match.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "chojeomeulheurida-01",
+    "korean": "초점(을) 흐리다",
+    "romanization": "chojeom(eul) heurida",
+    "meaning": "To lose focus, straying from the key point that deserves attention.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "jiroebat-01",
+    "korean": "지뢰밭",
+    "romanization": "jiroebat",
+    "meaning": "A \"minefield\" — figuratively, a situation with a lot of hidden problems.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "geotmeotideulda-01",
+    "korean": "겉멋(이) 들다",
+    "romanization": "geotmeot(i) deulda",
+    "meaning": "To put on style or attitude for show with no real substance behind it.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "kkunida-01",
+    "korean": "꾼이다",
+    "romanization": "kkunida",
+    "meaning": "\"A pro\" — someone remarkably skilled at handling something.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "hanjulpyeong-01",
+    "korean": "한 줄 평",
+    "romanization": "han jul pyeong",
+    "meaning": "A one-line review or verdict.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "neomeulsanimanta-01",
+    "korean": "넘을 산(이) 많다",
+    "romanization": "neomeul san(i) manta",
+    "meaning": "Figuratively, there are still many difficult obstacles ahead.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "hyeonyeogeurottwida-01",
+    "korean": "현역으로 뛰다",
+    "romanization": "hyeonyeogeuro ttwida",
+    "meaning": "To be currently active and engaged in a role or field.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "saengnigateojida-01",
+    "korean": "생리(가) 터지다",
+    "romanization": "saengni(ga) teojida",
+    "meaning": "To start one's period.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "gomakinagada-01",
+    "korean": "고막(이) 나가다",
+    "romanization": "gomak(i) nagada",
+    "meaning": "To hear a sound so loud/jarring it feels like it could burst your eardrums.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "nchugedomotv-01",
+    "korean": "N 축에도 못 V",
+    "romanization": "N chuge do mot V",
+    "meaning": "To not even qualify as belonging to a certain category or level.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "singyeongeulgeondeurida-01",
+    "korean": "신경(을) 건드리다",
+    "romanization": "singyeong(eul) geondeurida",
+    "meaning": "Figuratively, to say or do something that irritates or sets someone off.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "ajikanjugeotda-01",
+    "korean": "아직 안 죽었다",
+    "romanization": "ajik an jugeotda",
+    "meaning": "\"Still got it\" — saying your ability or energy hasn't faded yet.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "ndonijiman-01",
+    "korean": "N도 N(이)지만",
+    "romanization": "N-do N(i)jiman",
+    "meaning": "\"N matters, but...\" — emphasizing that what comes next matters even more.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "ibetteoneota-01",
+    "korean": "입에 떠 넣다",
+    "romanization": "ibe tteo neota",
+    "meaning": "Figuratively, to spoon-feed someone help instead of making them work for it.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "sesangdoragan-uniyagi-01",
+    "korean": "세상 돌아가는 이야기",
+    "romanization": "sesang doragaeneun iyagi",
+    "meaning": "News and talk about what's happening in society.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "apeurobeolgodwiromiljida-01",
+    "korean": "앞으로 벌고 뒤로 밀지다",
+    "romanization": "apeuro beolgo dwiro miljida",
+    "meaning": "To lose money on the back end even while clearly profiting up front.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "bingguuseum-01",
+    "korean": "빙구 웃음",
+    "romanization": "binggu useum",
+    "meaning": "A silly, dopey-looking smile — mildly mocking.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "emeseujireulchida-01",
+    "korean": "엠에스지를 치다",
+    "romanization": "emeseujireul chida",
+    "meaning": "Figuratively, to exaggerate a story to make it sound more dramatic.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "nundoragan-unsorideullida-01",
+    "korean": "눈 돌아가는 소리 들리다",
+    "romanization": "nun doragaeneun sori deullida",
+    "meaning": "Exaggeration for showing extremely strong interest — \"you can hear their eyes spinning.\"",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "motaljisieulhada-01",
+    "korean": "못 할 짓(을) 하다",
+    "romanization": "mot hal jis(eul) hada",
+    "meaning": "To do something you really shouldn't have.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "gagereulnaeda-01",
+    "korean": "가게(를) 내다",
+    "romanization": "gage(reul) naeda",
+    "meaning": "To open up a shop or business.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "hojeogeollida-01",
+    "korean": "호적에 올리다",
+    "romanization": "hojeoge ollida",
+    "meaning": "To legally register someone in the family registry.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "nechwimigaeopda-01",
+    "korean": "N에 취미(가) 없다",
+    "romanization": "N-e chwimi(ga) eopda",
+    "meaning": "To have no interest or enjoyment in doing N.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "sokeulteuda-01",
+    "korean": "속(을) 트다",
+    "romanization": "sok(eul) teuda",
+    "meaning": "To open up and share one's true thoughts without holding back.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "mugyehoegigyehoek-01",
+    "korean": "무계획이 계획",
+    "romanization": "mugyehoegi gyehoek",
+    "meaning": "\"Having no plan is the plan\" — being deliberately spontaneous.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "bigyeoteulnallida-01",
+    "korean": "빅엿(을) 날리다",
+    "romanization": "bigyeot(eul) nallida",
+    "meaning": "Informally, to throw someone into a huge, disastrous situation.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "insangeulpyeoda-01",
+    "korean": "인상(을) 펴다",
+    "romanization": "insang(eul) pyeoda",
+    "meaning": "To stop frowning and relax your expression.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "akkidamwodoeda-01",
+    "korean": "아끼다 뭐 되다",
+    "romanization": "akkida mwo doeda",
+    "meaning": "Warns that being too stingy with something can end up leaving it unused entirely.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "saengsanseongieopda-01",
+    "korean": "생산성(이) 없다",
+    "romanization": "saengsanseong(i) eopda",
+    "meaning": "To produce no tangible result or output.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "saengeulmagamhada-01",
+    "korean": "생을 마감하다",
+    "romanization": "saengeul magamhada",
+    "meaning": "A formal expression meaning to pass away.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "nugaanppaeseomeokda-01",
+    "korean": "누가 안 뺏어 먹다",
+    "romanization": "nuga an ppaeseo meokda",
+    "meaning": "\"No one's going to steal it from you\" — telling someone there's no rush.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "nbyeong-01",
+    "korean": "N병",
+    "romanization": "N-byeong",
+    "meaning": "A term for someone who obsessively favors and keeps bringing up a particular person or thing.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "eumakeulkalda-01",
+    "korean": "음악(을) 깔다",
+    "romanization": "eumak(eul) kalda",
+    "meaning": "To play background music to set a mood.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "saenggageulikda-01",
+    "korean": "생각을 읽다",
+    "romanization": "saenggageul ikda",
+    "meaning": "To figure out what someone else is thinking.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "mworeuljalmotmeogeona-01",
+    "korean": "뭐(를) 잘못 먹었나",
+    "romanization": "mwo(reul) jalmot meogeona",
+    "meaning": "\"Did you eat something wrong?\" — asked when someone's acting out of character.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "oneurinarida-01",
+    "korean": "오늘이 날이다",
+    "romanization": "oneuri narida",
+    "meaning": "\"Today's the day\" — the right day to do something.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "saramisaneunjip-01",
+    "korean": "사람(이) 사는 집",
+    "romanization": "saram(i) saneun jip",
+    "meaning": "A home that feels lively and full of life.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "nuijeonhwabeonhoreulttada-01",
+    "korean": "N의 전화번호(를) 따다",
+    "romanization": "N-ui jeonhwabeonho(reul) ttada",
+    "meaning": "To get the phone number of someone you don't know well.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "apmanbogogeotda-01",
+    "korean": "앞만 보고 걷다",
+    "romanization": "apman bogo geotda",
+    "meaning": "To focus solely on reaching a goal, without distraction.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "honeulssotda-01",
+    "korean": "혼(을) 쏟다",
+    "romanization": "hon(eul) ssotda",
+    "meaning": "To pour your whole spirit and focus into one thing.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "hanchiapeulmoreuda-01",
+    "korean": "한 치 앞을 모르다",
+    "romanization": "han chi apeul moreuda",
+    "meaning": "Not to know what's coming even in the very near future.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "ibeonsaengeunteullida-01",
+    "korean": "이번 생은 틀리다",
+    "romanization": "ibeon saengeun teullida",
+    "meaning": "A self-deprecating way of saying \"this life is a lost cause.\"",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "jujulibienna-01",
+    "korean": "줄줄이 비엔나",
+    "romanization": "jujuli bienna",
+    "meaning": "Like a string of little Vienna sausages — bad events happening one right after another.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "paitingineomchida-01",
+    "korean": "파이팅(이) 넘치다",
+    "romanization": "paiting(i) neomchida",
+    "meaning": "To be bursting with energy and drive.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "sangtareulchida-01",
+    "korean": "상타(를) 치다",
+    "romanization": "sangta(reul) chida",
+    "meaning": "To achieve results well beyond the average.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "bunwigireultada-01",
+    "korean": "분위기(를) 타다",
+    "romanization": "bunwigi(reul) tada",
+    "meaning": "To be swept along by the mood of the moment.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "tteoksaljapgokaerihada-01",
+    "korean": "떡살 잡고 캐리하다",
+    "romanization": "tteoksal japgo kaerihada",
+    "meaning": "Gaming slang: to take firm decisive control at a key moment and carry the match.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "motmeokneunttteogechimbaetgi-01",
+    "korean": "못 먹는 떡에 침 뱉기",
+    "romanization": "mot meokneun tteoge chim baetgi",
+    "meaning": "Figuratively, to spitefully ruin something for others just because you can't have it yourself.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "chulbalseonidareuda-01",
+    "korean": "출발선이 다르다",
+    "romanization": "chulbalseoni dareuda",
+    "meaning": "To start from a very different position or advantage than someone else.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "bigannaerida-01",
+    "korean": "비(가) 내리다",
+    "romanization": "bi(ga) naerida",
+    "meaning": "Figuratively, to fail a test badly.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "gosaenghaesseumnida-01",
+    "korean": "고생했습니다",
+    "romanization": "gosaenghaesseumnida",
+    "meaning": "A polite phrase thanking someone for their hard work, once it's done.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "eolguleulpyeoda-01",
+    "korean": "얼굴(을) 펴다",
+    "romanization": "eolgul(eul) pyeoda",
+    "meaning": "To brighten up your expression.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "innaesimteseuteu-01",
+    "korean": "인내심 테스트",
+    "romanization": "innaesim teseuteu",
+    "meaning": "A \"patience test\" — a situation designed to see how long your patience holds.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "gagereulyeolda-01",
+    "korean": "가게(를) 열다",
+    "romanization": "gage(reul) yeolda",
+    "meaning": "To open up a shop or business.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "panidwijipida-01",
+    "korean": "판(이) 뒤집히다",
+    "romanization": "pan(i) dwijipida",
+    "meaning": "For a situation to completely flip and turn out the opposite of before.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "moreumyeonmollatji-01",
+    "korean": "모르면 몰랐지",
+    "romanization": "moreumyeon mollatji",
+    "meaning": "\"If you didn't know, fine, but now that you do...\" — a lead-in to something one can no longer overlook.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "yugiottaenallineunnallidoanida-01",
+    "korean": "육이오 때 난리는 난리도 아니다",
+    "romanization": "yugio ttae nallineun nallido anida",
+    "meaning": "\"The chaos of the Korean War was nothing\" — describing an absolutely huge uproar.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "kkomjjakma-01",
+    "korean": "꼼짝 마",
+    "romanization": "kkomjjak ma",
+    "meaning": "\"Freeze, don't move\" — usually said in jest, mimicking a cop/robber standoff.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "sipwonjjarimal-01",
+    "korean": "십 원짜리 말",
+    "romanization": "sip wonjjari mal",
+    "meaning": "A crude way to refer to cursing.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "nehanpyo-01",
+    "korean": "N에 한 표",
+    "romanization": "N-e han pyo",
+    "meaning": "\"One vote for N\" — casually agreeing that a particular option is right.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "geunyanghaebonsori-01",
+    "korean": "그냥 해 본 소리",
+    "romanization": "geunyang hae bon sori",
+    "meaning": "Something said with no particular meaning behind it, just idle talk.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "pyeonghaengseoneulgeurida-01",
+    "korean": "평행선(을) 그리다",
+    "romanization": "pyeonghaengseon(eul) geurida",
+    "meaning": "For two sides' opinions to stay parallel forever, never meeting.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "hogangegyeopda-01",
+    "korean": "호강에 겹다",
+    "romanization": "hogange gyeopda",
+    "meaning": "To be so well-off or comfortable it's almost too much.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "maedallida-01",
+    "korean": "매달리다",
+    "romanization": "maedallida",
+    "meaning": "To keep pestering or pleading with someone to get closer to them.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "hoemreoneulnallida-01",
+    "korean": "홈런(을) 날리다",
+    "romanization": "hoemreon(eul) nallida",
+    "meaning": "Figuratively, to hit a big success — a \"home run.\"",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "hyeonjangjapda-01",
+    "korean": "현장(을) 잡다",
+    "romanization": "hyeonjang(eul) japda",
+    "meaning": "To catch a situation red-handed as soon as it happens.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "choemyeoneulgeolda-01",
+    "korean": "최면(을) 걸다",
+    "romanization": "choemyeon(eul) geolda",
+    "meaning": "To put someone under hypnosis.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "beireulbeotda-01",
+    "korean": "베일을 벗다",
+    "romanization": "beireul beotda",
+    "meaning": "For something that had been kept secret to come to light.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "majimakganeungil-01",
+    "korean": "마지막 가는 길",
+    "romanization": "majimak ganeun gil",
+    "meaning": "A euphemism for someone's passing — \"the final road.\"",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "gobbireulnotchida-01",
+    "korean": "고삐(를) 놓치다",
+    "romanization": "gobbi(reul) notchida",
+    "meaning": "To lose control over something or someone you were meant to be managing.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "paneulheundeulda-01",
+    "korean": "판(을) 흔들다",
+    "romanization": "pan(eul) heundeulda",
+    "meaning": "To shake up a situation and cause a big change.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "gihoereulsallida-01",
+    "korean": "기회(를) 살리다",
+    "romanization": "gihoe(reul) sallida",
+    "meaning": "To seize and make the most of an opportunity at just the right time.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "motaemeokgetda-01",
+    "korean": "못 해 먹겠다",
+    "romanization": "mot hae meokgetda",
+    "meaning": "\"I can't do this anymore\" — reaching your limit.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "geureondemarida-01",
+    "korean": "그런데 말이다",
+    "romanization": "geureonde marida",
+    "meaning": "\"But here's the thing\" — pivoting the conversation.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "useumkkocheulpiuda-01",
+    "korean": "웃음꽃을 피우다",
+    "romanization": "useumkkocheul piuda",
+    "meaning": "For a cheerful, laughter-filled mood to bloom in a place.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "marinamotamyeon-01",
+    "korean": "말이나 못하면",
+    "romanization": "marina motamyeon",
+    "meaning": "Implies you could say a lot more critical things but are holding back.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "chingumeokda-01",
+    "korean": "친구 먹다",
+    "romanization": "chingu meokda",
+    "meaning": "Informally, to become friends with someone.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "meorireuljaruda-01",
+    "korean": "머리를 자르다",
+    "romanization": "meorireul jaruda",
+    "meaning": "To get a haircut.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "dwitjeoneuromiruda-01",
+    "korean": "뒷전으로 미루다",
+    "romanization": "dwitjeoneuro miruda",
+    "meaning": "To push something to the back burner, deprioritizing it.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "tteumnikka-01",
+    "korean": "뜸니까",
+    "romanization": "tteumnikka",
+    "meaning": "Deliberately pausing before finishing a sentence to make the listener think it over. (Reading uncertain — possibly related to 뜸(을) 들이다.)",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "hapuminaoda-01",
+    "korean": "하품(이) 나오다",
+    "romanization": "hapum(i) naoda",
+    "meaning": "Figuratively, for something to be boring enough to make you yawn.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "buneneomchida-01",
+    "korean": "분에 넘치다",
+    "romanization": "bune neomchida",
+    "meaning": "To go beyond what one's own status/position warrants.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "giganullida-01",
+    "korean": "기(가) 눌리다",
+    "romanization": "gi(ga) nullida",
+    "meaning": "For someone's energy or spirit to be overwhelmed by someone else's.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "jaemigassolssolhada-01",
+    "korean": "재미(가) 쏠쏠하다",
+    "romanization": "jaemi(ga) ssolssolhada",
+    "meaning": "To find a decent, satisfying amount of fun or benefit in something.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "gamananduda-01",
+    "korean": "가만 안 두다",
+    "romanization": "gaman an duda",
+    "meaning": "To not let a wrongdoing slide — to hold someone accountable.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "baegajakda-01",
+    "korean": "배(가) 작다",
+    "romanization": "bae(ga) jakda",
+    "meaning": "To not be able to eat much food.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "maeummanbatda-01",
+    "korean": "마음만 받다",
+    "romanization": "maeumman batda",
+    "meaning": "To politely decline a gift while still accepting the kind intention behind it.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "yeorimyeonahop-01",
+    "korean": "열이면 아홉",
+    "romanization": "yeorimyeon ahop",
+    "meaning": "\"Nine times out of ten\" — almost always.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "gagyeokeuljapda-01",
+    "korean": "가격(을) 잡다",
+    "romanization": "gagyeok(eul) japda",
+    "meaning": "To fix an item's price at an appropriate level.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "eolguleuldeuriminda-01",
+    "korean": "얼굴(을) 들이밀다",
+    "romanization": "eolgul(eul) deuriminda",
+    "meaning": "For an unwelcome presence to show up somewhere.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "hanmokeulchaenggida-01",
+    "korean": "한몫(을) 챙기다",
+    "romanization": "hanmok(eul) chaenggida",
+    "meaning": "To grab a hefty share of profit for yourself.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "soniangada-01",
+    "korean": "손(이) 안 가다",
+    "romanization": "son(i) an gada",
+    "meaning": "To not feel like reaching for or using something.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "byeolkkoribanjjok-01",
+    "korean": "별꼴이 반쪽",
+    "romanization": "byeolkkori banjjok",
+    "meaning": "A mocking remark toward someone acting out of character.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "myeonjokketda-01",
+    "korean": "V-면 좋겠다",
+    "romanization": "-myeon jokketda",
+    "meaning": "\"It'd be nice if...\" — expressing a hope.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "gyesanaeeopda-01",
+    "korean": "계산에 없다",
+    "romanization": "gyesanae eopda",
+    "meaning": "To not have anticipated something happening, catching you off guard.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "meokgosaljagohaneunirida-01",
+    "korean": "먹고 살자고 하는 일이다",
+    "romanization": "meokgo saljago haneun irida",
+    "meaning": "\"It's all done just to make a living.\"",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "kkorigamomtongeulheundeulda-01",
+    "korean": "꼬리가 몸통을 흔들다",
+    "romanization": "kkoriga momtongeul heundeulda",
+    "meaning": "Figuratively, for a small part to end up controlling something much bigger — \"the tail wagging the dog.\"",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "heogabantomakinada-01",
+    "korean": "허(가) 반토막(이) 나다",
+    "romanization": "heo(ga) bantomak(i) nada",
+    "meaning": "To be caught completely off guard, \"sliced clean in half.\"",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "sulgeim-01",
+    "korean": "술 게임",
+    "romanization": "sul geim",
+    "meaning": "A game played while drinking, for fun with friends.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "hwajangitteuda-01",
+    "korean": "화장(이) 뜨다",
+    "romanization": "hwajang(i) tteuda",
+    "meaning": "For makeup to not sit well on the skin and look patchy.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "yoryeongeulburida-01",
+    "korean": "요령(을) 부리다",
+    "romanization": "yoryeong(eul) burida",
+    "meaning": "To cut corners cleverly to avoid properly finishing a task.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "sarigassahida-01",
+    "korean": "사리(가) 쌓이다",
+    "romanization": "sari(ga) ssahida",
+    "meaning": "Figuratively, to accumulate a lot of pent-up stress from hardship.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "chaeksangeulppaeda-01",
+    "korean": "책상(을) 빼다",
+    "romanization": "chaeksang(eul) ppaeda",
+    "meaning": "To be laid off from work.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "yakbalitteoreojida-01",
+    "korean": "약발(이) 떨어지다",
+    "romanization": "yakbal(i) tteoreojida",
+    "meaning": "For a short-term fix's effect to wear off.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "ttik-01",
+    "korean": "띡",
+    "romanization": "ttik",
+    "meaning": "Informal way of saying \"as usual\" or \"the whole thing,\" used dismissively.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "saneungesaneungeanida-01",
+    "korean": "사는 게 사는 게 아니다",
+    "romanization": "saneun ge saneun ge anida",
+    "meaning": "\"This isn't living\" — life feels unbearably hard right now.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "geureomgeureochi-01",
+    "korean": "그럼 그렇지",
+    "romanization": "geureom geureochi",
+    "meaning": "\"Of course, I knew it\" — said when a result comes out exactly as expected.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "nmeokneunhama-01",
+    "korean": "N 먹는 하마",
+    "romanization": "N meokneun hama",
+    "meaning": "Something that keeps endlessly disappearing into a bottomless pit — \"a hippo that eats N.\"",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "gunghapijota-01",
+    "korean": "궁합(이) 좋다",
+    "romanization": "gunghap(i) jota",
+    "meaning": "For two things or people to go well together.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "napdeukigada-01",
+    "korean": "납득(이) 가다",
+    "romanization": "napdeuk(i) gada",
+    "meaning": "To find someone's words or actions understandable.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "nunchireulbapmarameokda-01",
+    "korean": "눈치(를) 밥 말아 먹다",
+    "romanization": "nunchi(reul) bap mara meokda",
+    "meaning": "Informally, to have absolutely no tact or social awareness.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "juknesane-01",
+    "korean": "죽네 사네",
+    "romanization": "jukne sane",
+    "meaning": "Exaggerated dramatics — \"acting like it's life or death\" over something minor.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "singyeongegeoseullida-01",
+    "korean": "신경에 거슬리다",
+    "romanization": "singyeonge geoseullida",
+    "meaning": "For something to nag at and mildly irritate you.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "maeumuijunbi-01",
+    "korean": "마음의 준비",
+    "romanization": "maeumui junbi",
+    "meaning": "Mental or emotional preparation, especially for bad news.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "geunomuin-01",
+    "korean": "그놈의 N",
+    "romanization": "geunomui N",
+    "meaning": "\"That darn N\" — expressing exasperation with something that keeps causing trouble.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "maeumebuljiruda-01",
+    "korean": "마음에 불(을) 지르다",
+    "romanization": "maeume bul(eul) jiruda",
+    "meaning": "Figuratively, to stir up strong feelings in someone.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "meorireulollida-01",
+    "korean": "머리(를) 올리다",
+    "romanization": "meori(reul) ollida",
+    "meaning": "Golf slang: to play your very first round of golf.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "beoreusuiganeulppaemeokda-01",
+    "korean": "버릇의 간을 빼먹다",
+    "romanization": "beoreusui ganeul ppaemeokda",
+    "meaning": "Figuratively, for a bad habit to be indulged so much it \"eats the liver out of\" the person allowing it.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "iyangbana-01",
+    "korean": "이 양반아",
+    "romanization": "i yangbana",
+    "meaning": "An informal, slightly rude way to address someone — \"hey, you.\"",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "geeureumeulpiuda-01",
+    "korean": "게으름(을) 피우다",
+    "romanization": "ge-eureum(eul) piuda",
+    "meaning": "To laze around, avoiding work or study.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "sesangikkeutnada-01",
+    "korean": "세상(이) 끝나다",
+    "romanization": "sesang(i) kkeutnada",
+    "meaning": "Figuratively, to be utterly devastated, as if it were the end of the world.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "hansureuljeopda-01",
+    "korean": "한 수(를) 접다",
+    "romanization": "han su(reul) jeopda",
+    "meaning": "In games like baduk, for a stronger player to deliberately give a weaker opponent a handicap.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "geopumikkida-01",
+    "korean": "거품(이) 끼다",
+    "romanization": "geopum(i) kkida",
+    "meaning": "For a price or evaluation to be inflated far beyond actual worth.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "chaseoneulmulda-01",
+    "korean": "차선(을) 물다",
+    "romanization": "chaseon(eul) mulda",
+    "meaning": "To drive while straddling a lane, not staying properly within it.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "saenggireulburoeneota-01",
+    "korean": "생기(를) 불어넣다",
+    "romanization": "saenggi(reul) buroeneota",
+    "meaning": "To breathe fresh life and vitality into something.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "gongjiebulibutda-01",
+    "korean": "공지에 불(이) 붙다",
+    "romanization": "gongjie bul(i) butda",
+    "meaning": "For a notice board or thread to suddenly blow up with urgent activity.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "eoseonameuljuda-01",
+    "korean": "V-어서 남(을) 주다",
+    "romanization": "-eoseo nam(eul) juda",
+    "meaning": "Sarcastically implying an effort's benefit is wasted on someone else instead of yourself.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "geureonmarieodiitna-01",
+    "korean": "그런 말이 어디 있나",
+    "romanization": "geureon mari eodi itna",
+    "meaning": "A humble reply deflecting a compliment or thanks.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "geugeeodiya-01",
+    "korean": "그게 어디야",
+    "romanization": "geuge eodiya",
+    "meaning": "\"That's already something!\" — appreciating a partial success as still meaningful.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "jangnanieopda-01",
+    "korean": "장난(이) 없다",
+    "romanization": "jangnan(i) eopda",
+    "meaning": "Informally, to be far beyond what's normal — impressively over the top.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "yeongjangeulchida-01",
+    "korean": "영장(을) 치다",
+    "romanization": "yeongjang(eul) chida",
+    "meaning": "Informally, to issue a military draft notice.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "dangmyeonmandu-01",
+    "korean": "당면만두",
+    "romanization": "dangmyeonmandu",
+    "meaning": "A dumpling filled with glass noodles instead of the usual filling.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "heumpaseojangsahana-01",
+    "korean": "흠 파서 장사하나",
+    "romanization": "heum paseo jangsahana",
+    "meaning": "Rhetorically asking if someone is deliberately nitpicking flaws just to profit from it.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "mesijireuldamda-01",
+    "korean": "메시지(를) 담다",
+    "romanization": "mesiji(reul) damda",
+    "meaning": "To convey or embed a particular message in something.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "eulmasiannada-01",
+    "korean": "V-을 맛이 안 나다",
+    "romanization": "-eul masi an nada",
+    "meaning": "To not feel satisfying or rewarding to do.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "neulnakkomiyeokgugeulmeogeotda-01",
+    "korean": "N(을) 낳고 미역국을 먹었다",
+    "romanization": "N(eul) nakko miyeokgugeul meogeotda",
+    "meaning": "A sarcastic remark blaming one's bad luck on whoever \"gave birth\" to the person who caused it.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "mareuljalhaejuda-01",
+    "korean": "말을 잘 해 주다",
+    "romanization": "mareul jal hae juda",
+    "meaning": "To speak well of someone to others, vouching for them.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "nunmulimareuda-01",
+    "korean": "눈물(이) 마르다",
+    "romanization": "nunmul(i) mareuda",
+    "meaning": "To have cried so much there are no tears left.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "malkkeuteulmulda-01",
+    "korean": "말끝(을) 물다",
+    "romanization": "malkkeut(eul) mulda",
+    "meaning": "To seize on a small slip in what someone said and pick a fight over it.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "dumalhamyeongaesori-01",
+    "korean": "두말하면 개소리",
+    "romanization": "dumalhamyeon gaesori",
+    "meaning": "\"Saying it twice would be nonsense\" — emphasizing something is obviously true.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "geureokogeureonsai-01",
+    "korean": "그렇고 그런 사이",
+    "romanization": "geureoko geureon sai",
+    "meaning": "A euphemism for a romantic relationship between two people.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "manrepeuljjikda-01",
+    "korean": "만렙(을) 찍다",
+    "romanization": "manrep(eul) jjikda",
+    "meaning": "To reach max level — figuratively, to become extremely skilled at something.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "malsseummangamsahibatgetseumnida-01",
+    "korean": "말씀만 감사히 받겠습니다",
+    "romanization": "malsseumman gamsahi batgetseumnida",
+    "meaning": "A polite way to decline an offer while thanking the person for the gesture.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "kalgatijaruda-01",
+    "korean": "칼같이 자르다",
+    "romanization": "kalgati jaruda",
+    "meaning": "To firmly and decisively refuse or cut something off.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "sarampaljjamoreunda-01",
+    "korean": "사람 팔자 모른다",
+    "romanization": "saram paljja moreunda",
+    "meaning": "\"You never know what fate holds for a person.\"",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "beollemeokda-01",
+    "korean": "벌레 먹다",
+    "romanization": "beolle meokda",
+    "meaning": "For fruit or crops to be damaged by insects.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "meoriwamomittarononolda-01",
+    "korean": "머리와 몸이 따로 놀다",
+    "romanization": "meoriwa momi ttaro nolda",
+    "meaning": "When your mind knows what to do but your body can't follow through.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "isangdoihadoanida-01",
+    "korean": "이상도 이하도 아니다",
+    "romanization": "isangdo ihado anida",
+    "meaning": "\"Neither more nor less\" — exactly matching a certain standard.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "dambaereultaeuda-01",
+    "korean": "담배(를) 태우다",
+    "romanization": "dambae(reul) taeuda",
+    "meaning": "To smoke a cigarette.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "uldagauseumyeoneongdeongieppulnanda-01",
+    "korean": "울다가 웃으면 엉덩이에 뿔 난다",
+    "romanization": "uldaga useumyeon eongdeongie ppul nanda",
+    "meaning": "A playful superstition warning that crying and then laughing right after makes horns grow on your bottom.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "budongsangonghwaguk-01",
+    "korean": "부동산 공화국",
+    "romanization": "budongsan gonghwaguk",
+    "meaning": "A \"real-estate republic\" — a critique of how disproportionately income and assets are tied up in real estate.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "tteuteulbatdeulda-01",
+    "korean": "뜻(을) 받들다",
+    "romanization": "tteut(eul) batdeulda",
+    "meaning": "To respectfully follow and honor someone's wishes.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "yeojaroboida-01",
+    "korean": "여자로 보이다",
+    "romanization": "yeojaro boida",
+    "meaning": "For a man to notice a woman as having romantic appeal.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "meorineunjangsiginya-01",
+    "korean": "머리는 장식이냐",
+    "romanization": "meorineun jangsiginya",
+    "meaning": "\"Is your head just decoration?\" — mocking someone for a foolish decision.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "keungeo-01",
+    "korean": "큰 거",
+    "romanization": "keun geo",
+    "meaning": "A euphemism for a bowel movement.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "gureongteongieppajida-01",
+    "korean": "구렁텅이에 빠지다",
+    "romanization": "gureongteong-ie ppajida",
+    "meaning": "To fall into a deep pit of hardship that's difficult to escape.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "mworyo-01",
+    "korean": "뭘요",
+    "romanization": "mworyo",
+    "meaning": "\"Oh, it's nothing\" — a modest reply brushing off thanks or praise.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "maeumeulullida-01",
+    "korean": "마음(을) 울리다",
+    "romanization": "maeum(eul) ullida",
+    "meaning": "To move someone emotionally.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "gyesanaeneota-01",
+    "korean": "계산에 넣다",
+    "romanization": "gyesanae neota",
+    "meaning": "To factor something into your planning in advance.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "neobakkeeopda-01",
+    "korean": "너밖에 없다",
+    "romanization": "neobakke eopda",
+    "meaning": "\"There's no one but you\" — someone is uniquely irreplaceable.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "neunmuseun-01",
+    "korean": "N은 무슨",
+    "romanization": "N-eun museun",
+    "meaning": "\"N, my foot\" — dismissively denying the truth of a claim.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "gyejwareulteuda-01",
+    "korean": "계좌(를) 트다",
+    "romanization": "gyejwa(reul) teuda",
+    "meaning": "To open a new bank account.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "nbyeongeulkkada-01",
+    "korean": "N 병(을) 까다",
+    "romanization": "N byeong(eul) kkada",
+    "meaning": "Informally, to open and drink a bottle that comes with N.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "nmoreumyeongancheop-01",
+    "korean": "N(을) 모르면 간첩",
+    "romanization": "N(eul) moreumyeon gancheop",
+    "meaning": "\"If you don't know N, you must be a spy\" — used when something is so famous everyone should know it.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "mudaereuldwijipda-01",
+    "korean": "무대(를) 뒤집다",
+    "romanization": "mudae(reul) dwijipda",
+    "meaning": "Informally, for a performance to be so impressive it \"flips the stage.\"",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "butdeulgoneureojida-01",
+    "korean": "붙들고 늘어지다",
+    "romanization": "butdeulgo neureojida",
+    "meaning": "To cling stubbornly onto a matter and keep dwelling on it too long.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "danmulippajida-01",
+    "korean": "단물(이) 빠지다",
+    "romanization": "danmul(i) ppajida",
+    "meaning": "For a person to lose all further value once squeezed dry.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "matgokkeunneungebunmyeonghada-01",
+    "korean": "맺고 끊는 게 분명하다",
+    "romanization": "matgo kkeunneun ge bunmyeonghada",
+    "meaning": "To be decisive and clear-cut in words and actions.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "geunyanggeureota-01",
+    "korean": "그냥 그렇다",
+    "romanization": "geunyang geureota",
+    "meaning": "\"It's just so-so\" — quite ordinary.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "gamanbomyeon-01",
+    "korean": "가만 보면",
+    "romanization": "gaman bomyeon",
+    "meaning": "\"Now that I think about it\" — a lead-in to an observation.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "parannunuihangugin-01",
+    "korean": "파란 눈의 한국인",
+    "romanization": "paran nunui hangugin",
+    "meaning": "A \"blue-eyed Korean\" — a foreigner with deep interest and affection for Korea.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "eodomojaralpane-01",
+    "korean": "V-어도 모자랄 판에",
+    "romanization": "-eodo mojaral pane",
+    "meaning": "\"When even doing that wouldn't be enough\" — describing a dire situation.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "inmuljukda-01",
+    "korean": "인물(이) 죽다",
+    "romanization": "inmul(i) jukda",
+    "meaning": "For someone's looks to seem far less appealing than expected, due to their surroundings.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "wenmal-01",
+    "korean": "웬 말",
+    "romanization": "wen mal",
+    "meaning": "\"What on earth\" — reacting with surprise to something unexpected.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "sogimundeureojida-01",
+    "korean": "속이 문드러지다",
+    "romanization": "sogi mundeureojida",
+    "meaning": "For one's insides to feel like they're rotting from unbearable frustration.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "mureppajimyeonipmandongdongtteunda-01",
+    "korean": "물에 빠지면 입만 동동 뜬다",
+    "romanization": "mure ppajimyeon ipman dongdong tteunda",
+    "meaning": "A biting remark describing a chatterbox who never stops talking even in crisis.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "nrain-01",
+    "korean": "N 라인",
+    "romanization": "N rain",
+    "meaning": "A \"N line\" — a clique or network of people closely connected through N.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "nyumongmin-01",
+    "korean": "N 유목민",
+    "romanization": "N yumongmin",
+    "meaning": "\"N nomad\" — someone who keeps switching between different N's without settling.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "ilbeontaja-01",
+    "korean": "일 번 타자",
+    "romanization": "il beon taja",
+    "meaning": "The \"leadoff batter\" — whoever's first to try or start something new.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "hogisimcheonguk-01",
+    "korean": "호기심 천국",
+    "romanization": "hogisim cheonguk",
+    "meaning": "\"Curiosity heaven\" — someone endlessly curious about anything unfamiliar.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "jotkejotke-01",
+    "korean": "좋게 좋게",
+    "romanization": "jotke jotke",
+    "meaning": "\"Nice and easy\" — handling things amicably rather than harshly.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "oraesalgobolirida-01",
+    "korean": "오래 살고 볼 일이다",
+    "romanization": "orae salgo bol irida",
+    "meaning": "\"Guess it pays to live long\" — said upon experiencing something rare.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "useumgigadolda-01",
+    "korean": "웃음기(가) 돌다",
+    "romanization": "useumgi(ga) dolda",
+    "meaning": "For a smile to spread across someone's face as the mood lightens.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "naesajeoneniraneopda-01",
+    "korean": "내 사전에 N(이)란 없다",
+    "romanization": "nae sajeone N(i)ran eopda",
+    "meaning": "\"There's no such thing as N in my dictionary\" — firmly declaring you'll never allow N.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "singyeongeulkkeuda-01",
+    "korean": "신경(을) 끄다",
+    "romanization": "singyeong(eul) kkeuda",
+    "meaning": "To stop paying attention to or caring about something.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "simgireulgeondeurida-01",
+    "korean": "심기(를) 건드리다",
+    "romanization": "simgi(reul) geondeurida",
+    "meaning": "To upset or offend someone's mood.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "doneulmeogida-01",
+    "korean": "돈(을) 먹이다",
+    "romanization": "don(eul) meogida",
+    "meaning": "Informally and corruptly, to bribe someone in a position of power.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "maeumeulgaraanchida-01",
+    "korean": "마음을 가라앉히다",
+    "romanization": "maeumeul garaanchida",
+    "meaning": "To calm yourself down from excitement or strong emotion.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "dugeunbansegeunban-01",
+    "korean": "두 근 반 세 근 반",
+    "romanization": "du geun ban se geun ban",
+    "meaning": "Describes a heart pounding hard from nervousness or fright.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "isseumyeonnaoragurae-01",
+    "korean": "있으면 나오라 그래",
+    "romanization": "isseumyeon naora geurae",
+    "meaning": "A challenge implying someone should step up and prove it if they have proof or ability.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "jeonsaengenararaeulpalda-01",
+    "korean": "전생에 나라를 팔다",
+    "romanization": "jeonsaenge narareul palda",
+    "meaning": "Figuratively, to have committed such a grave sin in a past life that current bad luck is punishment for it.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "tongikeuda-01",
+    "korean": "통(이) 크다",
+    "romanization": "tong(i) keuda",
+    "meaning": "To be generous and bold in decisions or spending.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "munidatchida-01",
+    "korean": "문(이) 닫히다",
+    "romanization": "mun(i) datchida",
+    "meaning": "For an opportunity or path to close off.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "nhalgeoteopsi-01",
+    "korean": "N 할 것 없이",
+    "romanization": "N hal geot eopsi",
+    "meaning": "\"Not limited to N\" — everyone or everything, without exception.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "mwohaneuninganinga-01",
+    "korean": "뭐 하는 인간인가",
+    "romanization": "mwo haneun in-ganinga",
+    "meaning": "A harsh rebuke questioning someone's poor behavior.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "dapinaoda-01",
+    "korean": "답(이) 나오다",
+    "romanization": "dap(i) naoda",
+    "meaning": "For a solution or answer to a problem to become clear.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "nuibaramibulda-01",
+    "korean": "N(의) 바람(이) 불다",
+    "romanization": "N(ui) baram(i) bulda",
+    "meaning": "For a particular trend or craze to sweep through.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "neuntonge-01",
+    "korean": "V-는 통에",
+    "romanization": "-neun tonge",
+    "meaning": "\"Because of [the chaos of]...\" — explaining a negative result caused by a disruptive situation.",
+    "source": "KNU 한국어 일상 표현 사전 (Naver 오픈사전)",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
   }
 ]
