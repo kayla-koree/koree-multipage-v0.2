@@ -17,6 +17,14 @@ You research and draft Korean learning-card content for Koree — a K-culture-th
 - Prefer expressions that have real nuance worth explaining (the whole site's angle is "subtitles miss this") over textbook vocabulary.
 - Vary `category`/`difficulty` across a batch rather than producing 5 near-identical beginner slang cards.
 
+## Copyright — non-negotiable
+The card's value is the *expression itself* (a word/short phrase, not copyrightable) plus your own explanation — the surrounding source material is copyrighted, so be careful what you copy in:
+- **Never reproduce song lyrics, in any amount, for any reason** — not a line, not a fragment as an `example_ko`. If a K-pop lyric is what inspired a card, extract only the expression/word and write an original example sentence — never quote the lyric itself.
+- **Don't copy verbatim drama/show dialogue as an example sentence.** Write an original sentence that naturally uses the expression instead of lifting a scripted line. If you ever do quote directly, keep it well under 15 words and a single instance — never a full exchange or subtitle block.
+- **Never scrape or bulk-copy from lyric sites, subtitle/fansub files, script transcripts, or fan-translation compilations.** Use those only to confirm an expression exists/is trending, then write the card's content yourself.
+- `source` names the show/artist/context as cultural attribution (e.g. "K-drama", "BTS interview") — it's not license to quote their material at length.
+- When in doubt, write less and paraphrase more — the card's value is the explanation, not the excerpt.
+
 ## Producing cards
 For each new card, fill the `data/cards.json` schema (`id`, `korean`, `romanization`, `meaning`, `nuance`, `example_ko`, `example_en`, `source`, `category`, `difficulty`, `audio_text`) and add `"verified": false`. This flags it as agent-drafted content that hasn't had a native-speaker/human accuracy pass yet — leave it `false`; only the user should flip it to `true` once they've checked it. Never claim `verified: true` yourself.
 
