@@ -1,3 +1,85 @@
 id,korean,romanization,meaning,nuance,example_ko,example_en,source,category,difficulty,audio_text,verified
 gwaenchanha-01,괜찮아,gwaenchanha,It's okay / I'm fine — but the emotional temperature depends entirely on tone and context.,"Can mean genuine reassurance, a polite deflection, or a quiet 'I'm not okay but don't push it.' Listen to the pause before it.","정말 괜찮아? ...응, 괜찮아.","Are you really okay? ...Yeah, I'm fine.",K-drama,nuance,beginner,괜찮아,FALSE
 daebak-01,대박,daebak,Jackpot / no way! / that's amazing — an all-purpose exclamation of surprise.,Used for both great news and shocking news. Tone and face tell you which.,"대박, 진짜야?","No way, seriously?",K-pop / slang,slang,beginner,대박,FALSE
+gaseulaiting-01,가스라이팅,gaseulaiting,Gaslighting — psychological manipulation where someone deliberately distorts facts so the other person doubts their own memory or judgment.,Korean adoption of the English term; used the same way as in English pop-psychology discourse.,,,Naver 오픈사전 (신조어),neologism,intermediate,,FALSE
+eokka-01,억까,eokka,"To criticize or hate on something unfairly, for reasons that don't really hold up.",,,,Naver 오픈사전 (신조어),neologism,intermediate,,FALSE
+700-01,700,,"Cute! — the digits ""700"" visually resemble ㄱㅇㅇ, the initial consonants of 귀여워 (""cute""), so it's typed as a quick reaction to something adorable.","Part of a family of consonant/number code-slang; the reverse ""0700"" is used to mean ""not cute.""",,,Naver 오픈사전 (신조어),neologism,advanced,,FALSE
+ohiryeojoa-01,오히려좋아,ohiryeojoa,"""Actually, this is better"" — spinning a setback into a silver lining, sincerely or ironically.","Popularized around 2018 from internet broadcast (BJ) culture. Note: the source PDF's OCR rendered this headword as ""52려좋아"" — verified online as 오히려좋아.",,,Naver 오픈사전 (신조어),neologism,beginner,,FALSE
+aljaldakkalsen-01,알잘딱깔센,aljaldakkalsen,"Shorthand for ""just handle it well, cleanly, and with good sense"" — trusting someone to get something right without detailed instructions.",,,,Naver 오픈사전 (신조어),neologism,advanced,,FALSE
+junggkkeokma-01,중꺾마,junggkkeokma,"""What matters is a heart that doesn't break"" — shorthand for staying resilient no matter the outcome.",Popularized from esports commentary as a mantra for not giving up after a loss.,,,Naver 오픈사전 (신조어),neologism,intermediate,,FALSE
+iwaejin-01,이왜진,iwaejin,"""Wait, why is this actually true?!"" — reacting to a surprising twist that turns out to be real.",,,,Naver 오픈사전 (신조어),neologism,intermediate,,FALSE
+wikku-01,위꾸,wikku,"""Stomach dress-up"" — slang for eating (dressing up your stomach with food).",,,,Naver 오픈사전 (신조어),neologism,advanced,,FALSE
+noekku-01,뇌꾸,noekku,"""Brain dress-up"" — slang for studying (dressing up your brain).",,,,Naver 오픈사전 (신조어),neologism,advanced,,FALSE
+himsumjjin-01,힘숨찐,himsumjjin,"Someone hiding real strength or skill behind an unassuming appearance — looks ordinary, is secretly impressive.",,,,Naver 오픈사전 (신조어),neologism,intermediate,,FALSE
+hyeonta-01,현타,hyeonta,"Short for ""reality-check time"" — the sudden moment you're forced to face an uncomfortable truth about your situation.",,,,Naver 오픈사전 (신조어),neologism,beginner,,FALSE
+ingeupdong-01,인급동,ingeupdong,"Short for ""trending video"" (인기 급상승 동영상) — a video blowing up on YouTube.",,,,Naver 오픈사전 (신조어),neologism,beginner,,FALSE
+tongmojjahotdogeu-01,통모짜핫도그,tongmojjahotdogeu,"Punning on a hot dog brand name to mean ""so sleep-deprived you're exhausted"" — from 통 못 자 (""couldn't sleep a wink""), which sounds like 통모짜.","Has a joke ""opposite"": 요즘잘자쿨냥이 (well-rested/cool).",,,Naver 오픈사전 (신조어),neologism,advanced,,FALSE
+boksepyeonsal-01,복세편살,boksepyeonsal,"""Let's live comfortably in this complicated world"" — a laid-back life motto.",,,,Naver 오픈사전 (신조어),neologism,intermediate,,FALSE
+neomwodwae-01,너뭐돼,neomwodwae,"""Who even are you [to say that]?"" — a sharp pushback when someone acts self-important.",,,,Naver 오픈사전 (신조어),neologism,intermediate,,FALSE
+sbn-01,sbn,,"Short for ""sunbae-nim"" (respected senior) — often tacked onto a crush's name.",,,,Naver 오픈사전 (신조어),neologism,intermediate,,FALSE
+eokten-01,억텐,eokten,"""Forced tension"" — the fake-cheerful reaction you put on in an awkward group or situation.",,,,Naver 오픈사전 (신조어),neologism,intermediate,,FALSE
+eomgeunjin-01,엄근진,eomgeunjin,"Shorthand for ""strict, stern, and serious"" — describing an overly no-nonsense mood or person.",,,,Naver 오픈사전 (신조어),neologism,intermediate,,FALSE
+choechoechacha-01,최최차차,choechoechacha,"""My bias is my bias, and [actor] Cha Eun-woo is Cha Eun-woo"" — admitting someone else is objectively good-looking without betraying your own favorite.",,,,Naver 오픈사전 (신조어),neologism,advanced,,FALSE
+sikjipsa-01,식집사,sikjipsa,"""Plant butler"" — someone who keeps and cares for houseplants.",,,,Naver 오픈사전 (신조어),neologism,beginner,,FALSE
+godabi-01,고답이,godabi,"Someone who acts as frustratingly slow or unclear as if they'd eaten too much sweet potato (고구마) — the opposite of a quick, satisfying reaction.",,,,Naver 오픈사전 (신조어),neologism,intermediate,,FALSE
+kkabanggwon-01,까방권,kkabanggwon,"""Immunity pass from criticism"" — earned after doing something impressive enough that people stop calling you out.",,,,Naver 오픈사전 (신조어),neologism,intermediate,,FALSE
+eojjeoltibi-01,어쩔티비,eojjeoltibi,"A dismissive ""so what, go watch TV"" — a mock-childish comeback to a complaint.",,,,Naver 오픈사전 (신조어),neologism,beginner,,FALSE
+jagangducheon-01,자강두천,jagangducheon,"Short for ""a clash of two proud geniuses"" — used for a matchup between two evenly matched, highly confident rivals.",Originated from esports/game-commentary meme culture.,,,Naver 오픈사전 (신조어),neologism,advanced,,FALSE
+bunjoka-01,분조카,bunjoka,"A café with ""good vibes"" — a pun blending 분위기 좋은 (good atmosphere) and 카페 (café).",,,,Naver 오픈사전 (신조어),neologism,intermediate,,FALSE
+chubereup-01,츄베릅,chubereup,An expression evoking the sound of savoring or drooling over delicious food.,Popularized by the mukbang YouTuber '상윤쓰' as a catchphrase.,,,Naver 오픈사전 (신조어),neologism,advanced,,FALSE
+eosa-01,어사,eosa,"Short for ""awkward relationship"" (어색한 사이).",,,,Naver 오픈사전 (신조어),neologism,beginner,,FALSE
+kaenggeorujok-01,캥거루족,kaenggeorujok,"""Kangaroo tribe"" — young adults who are old enough (or even employed) but still financially dependent on their parents.",,,,Naver 오픈사전 (신조어),neologism,intermediate,,FALSE
+ojeochigo-01,오저치고,ojeochigo,"Short for ""chicken for dinner tonight?"" — a casual invite to order fried chicken.",,,,Naver 오픈사전 (신조어),neologism,beginner,,FALSE
+dolbapdolbap-01,돌밥돌밥,dolbapdolbap,"""Turn around, cook rice, turn around, cook rice"" — the endless cycle of meal-prepping for a household.",,,,Naver 오픈사전 (신조어),neologism,intermediate,,FALSE
+worabael-01,워라밸,worabael,Work-life balance.,,,,Naver 오픈사전 (신조어),neologism,beginner,,FALSE
+gungsamulsa-01,궁사물사,gungsamulsa,"Short for ""were you curious, or did you actually ask?"" — calling out someone for asking an unnecessary question.",,,,Naver 오픈사전 (신조어),neologism,intermediate,,FALSE
+pommichyeotda-01,폼미쳤다,pommichyeotda,"""Your form/skill is insane"" — usually a compliment on someone's performance, occasionally used sarcastically.",,,,Naver 오픈사전 (신조어),neologism,intermediate,,FALSE
+yeonggeul-01,영끌,yeonggeul,"""Dragging up every last bit of your soul"" — scraping together every possible source of money, often for a big investment like real estate or stocks.",,,,Naver 오픈사전 (신조어),neologism,intermediate,,FALSE
+solkkamal-01,솔까말,solkkamal,"Short for ""honestly speaking"" (솔직히 까놓고 말해서).",,,,Naver 오픈사전 (신조어),neologism,beginner,,FALSE
+goinmul-01,고인물,goinmul,"""Stagnant water"" — someone who's played the same game for so long they're a veteran fixture of it.",,,,Naver 오픈사전 (신조어),neologism,beginner,,FALSE
+inssa-01,인싸,inssa,"Short for ""insider"" — someone actively involved and well-liked within their social group.",,,,Naver 오픈사전 (신조어),neologism,beginner,,FALSE
+jotdaetgual-01,좋댓구알,jotdaetgual,"Shorthand YouTubers use asking viewers for ""likes, comments, subscribe, and notifications on.""",,,,Naver 오픈사전 (신조어),neologism,beginner,,FALSE
+geotbasokchok-01,겉바속촉,geotbasokchok,"""Crispy outside, moist inside"" — the ideal texture for fried or baked food.",,,,Naver 오픈사전 (신조어),neologism,beginner,,FALSE
+kebake-01,케바케,kebake,"""Case by case"" — it depends on the situation.",,,,Naver 오픈사전 (신조어),neologism,beginner,,FALSE
+eoljuka-01,얼죽아,eoljuka,"""I'd rather freeze to death than give up iced coffee"" — someone who drinks iced coffee even in freezing winter.",,,,Naver 오픈사전 (신조어),neologism,beginner,,FALSE
+wannaeseu-01,완내스,wannaeseu,"""Completely my style"" — something that's exactly your taste.",,,,Naver 오픈사전 (신조어),neologism,intermediate,,FALSE
+masang-01,마상,masang,"Short for ""emotional wound"" (마음의 상처).",,,,Naver 오픈사전 (신조어),neologism,beginner,,FALSE
+kagong-01,카공,kagong,Studying at a café.,,,,Naver 오픈사전 (신조어),neologism,beginner,,FALSE
+jjeopjjeopbaksa-01,쩝쩝박사,jjeopjjeopbaksa,"""Lip-smacking PhD"" — someone who really knows their food.",,,,Naver 오픈사전 (신조어),neologism,intermediate,,FALSE
+seubuljae-01,스불재,seubuljae,"""A disaster you brought on yourself"" — self-inflicted trouble.",,,,Naver 오픈사전 (신조어),neologism,intermediate,,FALSE
+halmalhaanh-01,할말하않,halmalhaanh,"""I have plenty to say, but I won't"" — biting your tongue instead of arguing back.",,,,Naver 오픈사전 (신조어),neologism,intermediate,,FALSE
+meoseon129-01,머선129,meoseon129,"Gyeongsang-dialect meme for ""what's going on?"" (무슨 일이고).",,,,Naver 오픈사전 (신조어),neologism,advanced,,FALSE
+anmulangung-01,안물안궁,anmulangung,"""Didn't ask, don't care"" — a blunt dismissal of unsolicited information.",,,,Naver 오픈사전 (신조어),neologism,beginner,,FALSE
+tmi-01,TMI,,"""Too Much Information"" — used when someone shares more detail than anyone wanted to know.",,,,Naver 오픈사전 (신조어),neologism,beginner,,FALSE
+magikkun-01,마기꾼,magikkun,"""Mask scammer"" — someone who looks much more attractive with a mask on than without one.",,,,Naver 오픈사전 (신조어),neologism,intermediate,,FALSE
+bobae-01,보배,bobae,"Short for ""portable battery"" (보조 배터리) — a pun on the standard word 보배 (""treasure"").",,,,Naver 오픈사전 (신조어),neologism,intermediate,,FALSE
+seongdeok-01,성덕,seongdeok,"""A successful fan"" — someone whose obsessive fandom (덕후) actually pays off, e.g. meeting or working with their idol.",,,,Naver 오픈사전 (신조어),neologism,intermediate,,FALSE
+manbanjalbu-01,만반잘부,manbanjalbu,"Short for ""nice to meet you, please treat me well"" (만나서 반가워, 잘 부탁해).",,,,Naver 오픈사전 (신조어),neologism,beginner,,FALSE
+ounwan-01,오운완,ounwan,"""Today's workout: complete"" — a fitness-culture hashtag.",,,,Naver 오픈사전 (신조어),neologism,beginner,,FALSE
+naeronambul-01,내로남불,naeronambul,"""If I do it, it's romance; if someone else does it, it's an affair"" — calling out a double standard.",,,,Naver 오픈사전 (신조어),neologism,intermediate,,FALSE
+sohoekhoeng-01,소확횡,sohoekhoeng,"A pun on ""small but certain happiness"" (소확행) — ""small but certain embezzlement,"" joking about skimming a little extra for yourself.",,,,Naver 오픈사전 (신조어),neologism,advanced,,FALSE
+jjeomjjeomttari-01,쩜쩜따리,jjeomjjeomttari,Describes doing something bit by bit — gathering a very small amount at a time.,"Could not independently confirm this term/definition online — lowest-confidence entry in this batch, flagged for extra scrutiny.",,,Naver 오픈사전 (신조어),neologism,intermediate,,FALSE
+gaebokchi-01,개복치,gaebokchi,"""Sunfish"" — a person who's easily startled or mentally fragile, referencing the (exaggerated) idea that ocean sunfish die from minor stress.",,,,Naver 오픈사전 (신조어),neologism,intermediate,,FALSE
+katokpeusa-01,카톡프사,katokpeusa,"Short for ""KakaoTalk profile picture.""",,,,Naver 오픈사전 (신조어),neologism,beginner,,FALSE
+danggeuniseyo-01,당근이세요,danggeuniseyo,"""Are you the carrot?"" — the greeting strangers use to identify each other for a Danggeun Market (당근마켓) resale meetup.",,,,Naver 오픈사전 (신조어),neologism,intermediate,,FALSE
+jegotnae-01,제곧내,jegotnae,"Short for ""the title is the content"" (제목이 곧 내용) — a post where the title says it all.",,,,Naver 오픈사전 (신조어),neologism,intermediate,,FALSE
+jeomechu-01,저메추,jeomechu,"Short for ""dinner menu recommendation"" (저녁 메뉴 추천).",,,,Naver 오픈사전 (신조어),neologism,beginner,,FALSE
+iseonjwa-01,이선좌,iseonjwa,"Short for ""already-selected seat"" — the frustrating message when a concert/ticket seat you wanted is already taken.",,,,Naver 오픈사전 (신조어),neologism,intermediate,,FALSE
+bangbangbwa-01,방방봐,bangbangbwa,"""Watch a broadcast as just a broadcast"" — a reminder not to take a streamer or TV persona's on-air behavior as who they really are.",Associated with AfreecaTV streamer 염보성.,,,Naver 오픈사전 (신조어),neologism,advanced,,FALSE
+saengseon-01,생선,saengseon,"A playful pun using the word for ""fish"" to mean ""birthday present"" (생일 선물).",,,,Naver 오픈사전 (신조어),neologism,intermediate,,FALSE
+nonghyeobeunhaeng-01,농협은행,nonghyeobeunhaeng,"A pun where the bank name ""NongHyup Bank,"" said with an accent, sounds like ""so pretty"" (너무 예쁘네요) — now used as a compliment.","Origin story: a non-native Korean speaker's mispronunciation was misheard as a compliment, and it stuck as a meme.",,,Naver 오픈사전 (신조어),neologism,advanced,,FALSE
+guchwi-01,구취,guchwi,"Short for ""unsubscribe"" (구독 취소).",,,,Naver 오픈사전 (신조어),neologism,beginner,,FALSE
+ilsaengga-01,일생가,ilsaengga,"Short, often sarcastic, for ""can you even function in daily life?"" (일상생활 가능?).",,,,Naver 오픈사전 (신조어),neologism,intermediate,,FALSE
+jamanchu-01,자만추,jamanchu,"Short for ""pursuing a natural (non-arranged) meeting"" — preferring to meet a partner organically rather than through setups or apps.",,,,Naver 오픈사전 (신조어),neologism,intermediate,,FALSE
+gapbunssa-01,갑분싸,gapbunssa,"""Suddenly the mood turns cold"" — when a joke or comment kills the room's vibe.",,,,Naver 오픈사전 (신조어),neologism,beginner,,FALSE
+kingbatne-01,킹받네,kingbatne,"An exaggerated ""royally annoyed"" — using ""King"" as an intensifier for irritation.",,,,Naver 오픈사전 (신조어),neologism,beginner,,FALSE
+daetmangjinchang-01,댓망진창,daetmangjinchang,"""The comments are a total mess"" — a comment section that's descended into chaos.",,,,Naver 오픈사전 (신조어),neologism,intermediate,,FALSE
+sabasa-01,사바사,sabasa,"""Person by person"" — it varies depending on who you ask.",,,,Naver 오픈사전 (신조어),neologism,beginner,,FALSE
+kkuankku-01,꾸안꾸,kkuankku,"""Looks done-up, but not done-up"" — an effortless-looking style that actually took effort.",,,,Naver 오픈사전 (신조어),neologism,intermediate,,FALSE
+mumul-01,무물,mumul,"Short for ""ask me anything"" (무엇이든 물어보세요).",,,,Naver 오픈사전 (신조어),neologism,beginner,,FALSE
+gilmak-01,길막,gilmak,Blocking a path or road.,,,,Naver 오픈사전 (신조어),neologism,beginner,,FALSE
+jogalnada-01,조갈나다,jogalnada,To be parched — your throat or mouth feels dry as if burning.,"Unlike most entries in this batch, this is a standard dictionary word (조갈/燥渴), not internet-coined slang — included as-is since it was part of the source list.",,,Naver 오픈사전,neologism,intermediate,,FALSE
+ttingeon-01,띵언,ttingeon,"A stylized misspelling of ""명언"" (famous/wise quote), popular in meme captions.",,,,Naver 오픈사전 (신조어),neologism,beginner,,FALSE
+mangwanbu-01,많관부,mangwanbu,"Short for ""please give this a lot of attention"" (많은 관심 부탁드립니다).",,,,Naver 오픈사전 (신조어),neologism,beginner,,FALSE
+byeoldajul-01,별다줄,byeoldajul,"""Abbreviating even the most random things"" — poking fun at how much modern slang shortens phrases.",,,,Naver 오픈사전 (신조어),neologism,intermediate,,FALSE
+jeommechu-01,점메추,jeommechu,"Short for ""lunch menu recommendation"" (점심 메뉴 추천).",,,,Naver 오픈사전 (신조어),neologism,beginner,,FALSE

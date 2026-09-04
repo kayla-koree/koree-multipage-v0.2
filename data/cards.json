@@ -26,5 +26,833 @@
     "difficulty": "beginner",
     "audio_text": "대박",
     "verified": false
+  },
+  {
+    "id": "gaseulaiting-01",
+    "korean": "가스라이팅",
+    "romanization": "gaseulaiting",
+    "meaning": "Gaslighting — psychological manipulation where someone deliberately distorts facts so the other person doubts their own memory or judgment.",
+    "nuance": "Korean adoption of the English term; used the same way as in English pop-psychology discourse.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "eokka-01",
+    "korean": "억까",
+    "romanization": "eokka",
+    "meaning": "To criticize or hate on something unfairly, for reasons that don't really hold up.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "700-01",
+    "korean": "700",
+    "meaning": "Cute! — the digits \"700\" visually resemble ㄱㅇㅇ, the initial consonants of 귀여워 (\"cute\"), so it's typed as a quick reaction to something adorable.",
+    "nuance": "Part of a family of consonant/number code-slang; the reverse \"0700\" is used to mean \"not cute.\"",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "ohiryeojoa-01",
+    "korean": "오히려좋아",
+    "romanization": "ohiryeojoa",
+    "meaning": "\"Actually, this is better\" — spinning a setback into a silver lining, sincerely or ironically.",
+    "nuance": "Popularized around 2018 from internet broadcast (BJ) culture. Note: the source PDF's OCR rendered this headword as \"52려좋아\" — verified online as 오히려좋아.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "beginner",
+    "verified": false
+  },
+  {
+    "id": "aljaldakkalsen-01",
+    "korean": "알잘딱깔센",
+    "romanization": "aljaldakkalsen",
+    "meaning": "Shorthand for \"just handle it well, cleanly, and with good sense\" — trusting someone to get something right without detailed instructions.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "junggkkeokma-01",
+    "korean": "중꺾마",
+    "romanization": "junggkkeokma",
+    "meaning": "\"What matters is a heart that doesn't break\" — shorthand for staying resilient no matter the outcome.",
+    "nuance": "Popularized from esports commentary as a mantra for not giving up after a loss.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "iwaejin-01",
+    "korean": "이왜진",
+    "romanization": "iwaejin",
+    "meaning": "\"Wait, why is this actually true?!\" — reacting to a surprising twist that turns out to be real.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "wikku-01",
+    "korean": "위꾸",
+    "romanization": "wikku",
+    "meaning": "\"Stomach dress-up\" — slang for eating (dressing up your stomach with food).",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "noekku-01",
+    "korean": "뇌꾸",
+    "romanization": "noekku",
+    "meaning": "\"Brain dress-up\" — slang for studying (dressing up your brain).",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "himsumjjin-01",
+    "korean": "힘숨찐",
+    "romanization": "himsumjjin",
+    "meaning": "Someone hiding real strength or skill behind an unassuming appearance — looks ordinary, is secretly impressive.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "hyeonta-01",
+    "korean": "현타",
+    "romanization": "hyeonta",
+    "meaning": "Short for \"reality-check time\" — the sudden moment you're forced to face an uncomfortable truth about your situation.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "beginner",
+    "verified": false
+  },
+  {
+    "id": "ingeupdong-01",
+    "korean": "인급동",
+    "romanization": "ingeupdong",
+    "meaning": "Short for \"trending video\" (인기 급상승 동영상) — a video blowing up on YouTube.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "beginner",
+    "verified": false
+  },
+  {
+    "id": "tongmojjahotdogeu-01",
+    "korean": "통모짜핫도그",
+    "romanization": "tongmojjahotdogeu",
+    "meaning": "Punning on a hot dog brand name to mean \"so sleep-deprived you're exhausted\" — from 통 못 자 (\"couldn't sleep a wink\"), which sounds like 통모짜.",
+    "nuance": "Has a joke \"opposite\": 요즘잘자쿨냥이 (well-rested/cool).",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "boksepyeonsal-01",
+    "korean": "복세편살",
+    "romanization": "boksepyeonsal",
+    "meaning": "\"Let's live comfortably in this complicated world\" — a laid-back life motto.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "neomwodwae-01",
+    "korean": "너뭐돼",
+    "romanization": "neomwodwae",
+    "meaning": "\"Who even are you [to say that]?\" — a sharp pushback when someone acts self-important.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "sbn-01",
+    "korean": "sbn",
+    "meaning": "Short for \"sunbae-nim\" (respected senior) — often tacked onto a crush's name.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "eokten-01",
+    "korean": "억텐",
+    "romanization": "eokten",
+    "meaning": "\"Forced tension\" — the fake-cheerful reaction you put on in an awkward group or situation.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "eomgeunjin-01",
+    "korean": "엄근진",
+    "romanization": "eomgeunjin",
+    "meaning": "Shorthand for \"strict, stern, and serious\" — describing an overly no-nonsense mood or person.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "choechoechacha-01",
+    "korean": "최최차차",
+    "romanization": "choechoechacha",
+    "meaning": "\"My bias is my bias, and [actor] Cha Eun-woo is Cha Eun-woo\" — admitting someone else is objectively good-looking without betraying your own favorite.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "sikjipsa-01",
+    "korean": "식집사",
+    "romanization": "sikjipsa",
+    "meaning": "\"Plant butler\" — someone who keeps and cares for houseplants.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "beginner",
+    "verified": false
+  },
+  {
+    "id": "godabi-01",
+    "korean": "고답이",
+    "romanization": "godabi",
+    "meaning": "Someone who acts as frustratingly slow or unclear as if they'd eaten too much sweet potato (고구마) — the opposite of a quick, satisfying reaction.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "kkabanggwon-01",
+    "korean": "까방권",
+    "romanization": "kkabanggwon",
+    "meaning": "\"Immunity pass from criticism\" — earned after doing something impressive enough that people stop calling you out.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "eojjeoltibi-01",
+    "korean": "어쩔티비",
+    "romanization": "eojjeoltibi",
+    "meaning": "A dismissive \"so what, go watch TV\" — a mock-childish comeback to a complaint.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "beginner",
+    "verified": false
+  },
+  {
+    "id": "jagangducheon-01",
+    "korean": "자강두천",
+    "romanization": "jagangducheon",
+    "meaning": "Short for \"a clash of two proud geniuses\" — used for a matchup between two evenly matched, highly confident rivals.",
+    "nuance": "Originated from esports/game-commentary meme culture.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "bunjoka-01",
+    "korean": "분조카",
+    "romanization": "bunjoka",
+    "meaning": "A café with \"good vibes\" — a pun blending 분위기 좋은 (good atmosphere) and 카페 (café).",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "chubereup-01",
+    "korean": "츄베릅",
+    "romanization": "chubereup",
+    "meaning": "An expression evoking the sound of savoring or drooling over delicious food.",
+    "nuance": "Popularized by the mukbang YouTuber '상윤쓰' as a catchphrase.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "eosa-01",
+    "korean": "어사",
+    "romanization": "eosa",
+    "meaning": "Short for \"awkward relationship\" (어색한 사이).",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "beginner",
+    "verified": false
+  },
+  {
+    "id": "kaenggeorujok-01",
+    "korean": "캥거루족",
+    "romanization": "kaenggeorujok",
+    "meaning": "\"Kangaroo tribe\" — young adults who are old enough (or even employed) but still financially dependent on their parents.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "ojeochigo-01",
+    "korean": "오저치고",
+    "romanization": "ojeochigo",
+    "meaning": "Short for \"chicken for dinner tonight?\" — a casual invite to order fried chicken.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "beginner",
+    "verified": false
+  },
+  {
+    "id": "dolbapdolbap-01",
+    "korean": "돌밥돌밥",
+    "romanization": "dolbapdolbap",
+    "meaning": "\"Turn around, cook rice, turn around, cook rice\" — the endless cycle of meal-prepping for a household.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "worabael-01",
+    "korean": "워라밸",
+    "romanization": "worabael",
+    "meaning": "Work-life balance.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "beginner",
+    "verified": false
+  },
+  {
+    "id": "gungsamulsa-01",
+    "korean": "궁사물사",
+    "romanization": "gungsamulsa",
+    "meaning": "Short for \"were you curious, or did you actually ask?\" — calling out someone for asking an unnecessary question.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "pommichyeotda-01",
+    "korean": "폼미쳤다",
+    "romanization": "pommichyeotda",
+    "meaning": "\"Your form/skill is insane\" — usually a compliment on someone's performance, occasionally used sarcastically.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "yeonggeul-01",
+    "korean": "영끌",
+    "romanization": "yeonggeul",
+    "meaning": "\"Dragging up every last bit of your soul\" — scraping together every possible source of money, often for a big investment like real estate or stocks.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "solkkamal-01",
+    "korean": "솔까말",
+    "romanization": "solkkamal",
+    "meaning": "Short for \"honestly speaking\" (솔직히 까놓고 말해서).",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "beginner",
+    "verified": false
+  },
+  {
+    "id": "goinmul-01",
+    "korean": "고인물",
+    "romanization": "goinmul",
+    "meaning": "\"Stagnant water\" — someone who's played the same game for so long they're a veteran fixture of it.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "beginner",
+    "verified": false
+  },
+  {
+    "id": "inssa-01",
+    "korean": "인싸",
+    "romanization": "inssa",
+    "meaning": "Short for \"insider\" — someone actively involved and well-liked within their social group.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "beginner",
+    "verified": false
+  },
+  {
+    "id": "jotdaetgual-01",
+    "korean": "좋댓구알",
+    "romanization": "jotdaetgual",
+    "meaning": "Shorthand YouTubers use asking viewers for \"likes, comments, subscribe, and notifications on.\"",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "beginner",
+    "verified": false
+  },
+  {
+    "id": "geotbasokchok-01",
+    "korean": "겉바속촉",
+    "romanization": "geotbasokchok",
+    "meaning": "\"Crispy outside, moist inside\" — the ideal texture for fried or baked food.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "beginner",
+    "verified": false
+  },
+  {
+    "id": "kebake-01",
+    "korean": "케바케",
+    "romanization": "kebake",
+    "meaning": "\"Case by case\" — it depends on the situation.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "beginner",
+    "verified": false
+  },
+  {
+    "id": "eoljuka-01",
+    "korean": "얼죽아",
+    "romanization": "eoljuka",
+    "meaning": "\"I'd rather freeze to death than give up iced coffee\" — someone who drinks iced coffee even in freezing winter.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "beginner",
+    "verified": false
+  },
+  {
+    "id": "wannaeseu-01",
+    "korean": "완내스",
+    "romanization": "wannaeseu",
+    "meaning": "\"Completely my style\" — something that's exactly your taste.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "masang-01",
+    "korean": "마상",
+    "romanization": "masang",
+    "meaning": "Short for \"emotional wound\" (마음의 상처).",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "beginner",
+    "verified": false
+  },
+  {
+    "id": "kagong-01",
+    "korean": "카공",
+    "romanization": "kagong",
+    "meaning": "Studying at a café.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "beginner",
+    "verified": false
+  },
+  {
+    "id": "jjeopjjeopbaksa-01",
+    "korean": "쩝쩝박사",
+    "romanization": "jjeopjjeopbaksa",
+    "meaning": "\"Lip-smacking PhD\" — someone who really knows their food.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "seubuljae-01",
+    "korean": "스불재",
+    "romanization": "seubuljae",
+    "meaning": "\"A disaster you brought on yourself\" — self-inflicted trouble.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "halmalhaanh-01",
+    "korean": "할말하않",
+    "romanization": "halmalhaanh",
+    "meaning": "\"I have plenty to say, but I won't\" — biting your tongue instead of arguing back.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "meoseon129-01",
+    "korean": "머선129",
+    "romanization": "meoseon129",
+    "meaning": "Gyeongsang-dialect meme for \"what's going on?\" (무슨 일이고).",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "anmulangung-01",
+    "korean": "안물안궁",
+    "romanization": "anmulangung",
+    "meaning": "\"Didn't ask, don't care\" — a blunt dismissal of unsolicited information.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "beginner",
+    "verified": false
+  },
+  {
+    "id": "tmi-01",
+    "korean": "TMI",
+    "meaning": "\"Too Much Information\" — used when someone shares more detail than anyone wanted to know.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "beginner",
+    "verified": false
+  },
+  {
+    "id": "magikkun-01",
+    "korean": "마기꾼",
+    "romanization": "magikkun",
+    "meaning": "\"Mask scammer\" — someone who looks much more attractive with a mask on than without one.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "bobae-01",
+    "korean": "보배",
+    "romanization": "bobae",
+    "meaning": "Short for \"portable battery\" (보조 배터리) — a pun on the standard word 보배 (\"treasure\").",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "seongdeok-01",
+    "korean": "성덕",
+    "romanization": "seongdeok",
+    "meaning": "\"A successful fan\" — someone whose obsessive fandom (덕후) actually pays off, e.g. meeting or working with their idol.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "manbanjalbu-01",
+    "korean": "만반잘부",
+    "romanization": "manbanjalbu",
+    "meaning": "Short for \"nice to meet you, please treat me well\" (만나서 반가워, 잘 부탁해).",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "beginner",
+    "verified": false
+  },
+  {
+    "id": "ounwan-01",
+    "korean": "오운완",
+    "romanization": "ounwan",
+    "meaning": "\"Today's workout: complete\" — a fitness-culture hashtag.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "beginner",
+    "verified": false
+  },
+  {
+    "id": "naeronambul-01",
+    "korean": "내로남불",
+    "romanization": "naeronambul",
+    "meaning": "\"If I do it, it's romance; if someone else does it, it's an affair\" — calling out a double standard.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "sohoekhoeng-01",
+    "korean": "소확횡",
+    "romanization": "sohoekhoeng",
+    "meaning": "A pun on \"small but certain happiness\" (소확행) — \"small but certain embezzlement,\" joking about skimming a little extra for yourself.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "jjeomjjeomttari-01",
+    "korean": "쩜쩜따리",
+    "romanization": "jjeomjjeomttari",
+    "meaning": "Describes doing something bit by bit — gathering a very small amount at a time.",
+    "nuance": "Could not independently confirm this term/definition online — lowest-confidence entry in this batch, flagged for extra scrutiny.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "gaebokchi-01",
+    "korean": "개복치",
+    "romanization": "gaebokchi",
+    "meaning": "\"Sunfish\" — a person who's easily startled or mentally fragile, referencing the (exaggerated) idea that ocean sunfish die from minor stress.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "katokpeusa-01",
+    "korean": "카톡프사",
+    "romanization": "katokpeusa",
+    "meaning": "Short for \"KakaoTalk profile picture.\"",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "beginner",
+    "verified": false
+  },
+  {
+    "id": "danggeuniseyo-01",
+    "korean": "당근이세요",
+    "romanization": "danggeuniseyo",
+    "meaning": "\"Are you the carrot?\" — the greeting strangers use to identify each other for a Danggeun Market (당근마켓) resale meetup.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "jegotnae-01",
+    "korean": "제곧내",
+    "romanization": "jegotnae",
+    "meaning": "Short for \"the title is the content\" (제목이 곧 내용) — a post where the title says it all.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "jeomechu-01",
+    "korean": "저메추",
+    "romanization": "jeomechu",
+    "meaning": "Short for \"dinner menu recommendation\" (저녁 메뉴 추천).",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "beginner",
+    "verified": false
+  },
+  {
+    "id": "iseonjwa-01",
+    "korean": "이선좌",
+    "romanization": "iseonjwa",
+    "meaning": "Short for \"already-selected seat\" — the frustrating message when a concert/ticket seat you wanted is already taken.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "bangbangbwa-01",
+    "korean": "방방봐",
+    "romanization": "bangbangbwa",
+    "meaning": "\"Watch a broadcast as just a broadcast\" — a reminder not to take a streamer or TV persona's on-air behavior as who they really are.",
+    "nuance": "Associated with AfreecaTV streamer 염보성.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "saengseon-01",
+    "korean": "생선",
+    "romanization": "saengseon",
+    "meaning": "A playful pun using the word for \"fish\" to mean \"birthday present\" (생일 선물).",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "nonghyeobeunhaeng-01",
+    "korean": "농협은행",
+    "romanization": "nonghyeobeunhaeng",
+    "meaning": "A pun where the bank name \"NongHyup Bank,\" said with an accent, sounds like \"so pretty\" (너무 예쁘네요) — now used as a compliment.",
+    "nuance": "Origin story: a non-native Korean speaker's mispronunciation was misheard as a compliment, and it stuck as a meme.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "guchwi-01",
+    "korean": "구취",
+    "romanization": "guchwi",
+    "meaning": "Short for \"unsubscribe\" (구독 취소).",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "beginner",
+    "verified": false
+  },
+  {
+    "id": "ilsaengga-01",
+    "korean": "일생가",
+    "romanization": "ilsaengga",
+    "meaning": "Short, often sarcastic, for \"can you even function in daily life?\" (일상생활 가능?).",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "jamanchu-01",
+    "korean": "자만추",
+    "romanization": "jamanchu",
+    "meaning": "Short for \"pursuing a natural (non-arranged) meeting\" — preferring to meet a partner organically rather than through setups or apps.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "gapbunssa-01",
+    "korean": "갑분싸",
+    "romanization": "gapbunssa",
+    "meaning": "\"Suddenly the mood turns cold\" — when a joke or comment kills the room's vibe.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "beginner",
+    "verified": false
+  },
+  {
+    "id": "kingbatne-01",
+    "korean": "킹받네",
+    "romanization": "kingbatne",
+    "meaning": "An exaggerated \"royally annoyed\" — using \"King\" as an intensifier for irritation.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "beginner",
+    "verified": false
+  },
+  {
+    "id": "daetmangjinchang-01",
+    "korean": "댓망진창",
+    "romanization": "daetmangjinchang",
+    "meaning": "\"The comments are a total mess\" — a comment section that's descended into chaos.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "sabasa-01",
+    "korean": "사바사",
+    "romanization": "sabasa",
+    "meaning": "\"Person by person\" — it varies depending on who you ask.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "beginner",
+    "verified": false
+  },
+  {
+    "id": "kkuankku-01",
+    "korean": "꾸안꾸",
+    "romanization": "kkuankku",
+    "meaning": "\"Looks done-up, but not done-up\" — an effortless-looking style that actually took effort.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "mumul-01",
+    "korean": "무물",
+    "romanization": "mumul",
+    "meaning": "Short for \"ask me anything\" (무엇이든 물어보세요).",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "beginner",
+    "verified": false
+  },
+  {
+    "id": "gilmak-01",
+    "korean": "길막",
+    "romanization": "gilmak",
+    "meaning": "Blocking a path or road.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "beginner",
+    "verified": false
+  },
+  {
+    "id": "jogalnada-01",
+    "korean": "조갈나다",
+    "romanization": "jogalnada",
+    "meaning": "To be parched — your throat or mouth feels dry as if burning.",
+    "nuance": "Unlike most entries in this batch, this is a standard dictionary word (조갈/燥渴), not internet-coined slang — included as-is since it was part of the source list.",
+    "source": "Naver 오픈사전",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "ttingeon-01",
+    "korean": "띵언",
+    "romanization": "ttingeon",
+    "meaning": "A stylized misspelling of \"명언\" (famous/wise quote), popular in meme captions.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "beginner",
+    "verified": false
+  },
+  {
+    "id": "mangwanbu-01",
+    "korean": "많관부",
+    "romanization": "mangwanbu",
+    "meaning": "Short for \"please give this a lot of attention\" (많은 관심 부탁드립니다).",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "beginner",
+    "verified": false
+  },
+  {
+    "id": "byeoldajul-01",
+    "korean": "별다줄",
+    "romanization": "byeoldajul",
+    "meaning": "\"Abbreviating even the most random things\" — poking fun at how much modern slang shortens phrases.",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "jeommechu-01",
+    "korean": "점메추",
+    "romanization": "jeommechu",
+    "meaning": "Short for \"lunch menu recommendation\" (점심 메뉴 추천).",
+    "source": "Naver 오픈사전 (신조어)",
+    "category": "neologism",
+    "difficulty": "beginner",
+    "verified": false
   }
 ]
