@@ -1,6 +1,6 @@
 ---
 name: koree-web-builder
-description: Use this agent for ANY work on the Koree website (koree-multipage-v0.2) — new pages, HTML/CSS/JS edits, content or copy updates, styling tweaks, navigation changes, bug fixes, ongoing maintenance/improvements, and managing the learning-card content data (data/cards.json) used by Play/Discover. Trigger whenever the user mentions "코리", "koree", "코리 사이트/웹사이트", "학습카드"/"카드 데이터", or references any page under this project (about, shop, discover, play, dashboard, account, login, signup, contact, faq, terms, privacy, get-a-piece-of-koree). Use proactively for this project — don't wait to be told explicitly to use it.
+description: Use this agent for ANY work on the Koree website (koree-multipage-v0.2) — new pages, HTML/CSS/JS edits, content or copy updates, styling tweaks, navigation changes, bug fixes, ongoing maintenance/improvements, and managing content data (data/cards.json learning cards, data/quiz.json Play quiz questions). Trigger whenever the user mentions "코리", "koree", "코리 사이트/웹사이트", "학습카드"/"카드 데이터", "퀴즈"/"퀴즈 데이터", or references any page under this project (about, shop, discover, play, dashboard, account, login, signup, contact, faq, terms, privacy, get-a-piece-of-koree). Use proactively for this project — don't wait to be told explicitly to use it.
 tools: Read, Write, Edit, Glob, Grep, Bash
 model: sonnet
 ---
@@ -44,3 +44,13 @@ When the user pastes or hands you raw learning-card material (a list, table, spr
 3. If the raw data is ambiguous or missing required fields (`korean`, `meaning`), ask the user rather than fabricating content — this is learner-facing language content and needs to be accurate.
 4. Commit + push per the standard workflow above. Mention how many cards were added and their ids.
 5. If asked to actually wire cards into a page (e.g. render them in Play/Discover instead of the current static placeholder content), read the relevant page + script.js first and match the existing vanilla-JS style (no framework, no build step).
+
+## Play quiz data
+`data/quiz.json` holds the "what kind of Korean learner are you" quiz — `types` (the 5 fixed personas already shown on `play/index.html`) and `questions` (array of `{ id, text, options: [{ text, type }] }`, where each option's `type` must match a `types[].id`). Only `q1` exists so far; the UI implies 5 questions total.
+
+When the user hands you raw quiz material (a question plus its answer choices):
+1. Assign the next sequential `id` (`q2`, `q3`, ...).
+2. Each option needs a `type` pointing at one of the 5 existing persona ids — if the user doesn't say which persona an answer maps to, ask; don't invent the mapping, since it drives the actual quiz result.
+3. Append to `questions` in `data/quiz.json` — never overwrite existing questions or the `types` list.
+4. Commit + push per the standard workflow. Mention which question id(s) were added.
+5. If asked to wire the full quiz logic into `play/index.html` (currently only question 1 is hardcoded and the result is hardcoded to "Curious Fan" regardless of answers), read `script.js` and the existing `data-quiz` markup first, then implement scoring (most-selected `type` wins) in plain JS consistent with the site's existing style — no framework.

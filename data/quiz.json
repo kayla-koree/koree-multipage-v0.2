@@ -1,0 +1,20 @@
+{
+  "types": [
+    { "id": "curious-fan", "name": "The Curious Fan", "description": "You notice what subtitles leave behind." },
+    { "id": "frustrated-learner", "name": "The Frustrated Learner", "description": "You know the rules, but real Korean keeps surprising you." },
+    { "id": "culture-explorer", "name": "The Culture Explorer", "description": "You want language to make the culture feel closer." },
+    { "id": "low-energy-learner", "name": "The Low-Energy Learner", "description": "You want a tiny connection on days when studying feels like too much." },
+    { "id": "context-collector", "name": "The Context Collector", "description": "You love saving little expressions and noticing patterns." }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "text": "You hear a Korean phrase in a drama. What do you do?",
+      "options": [
+        { "text": "Screenshot it because I need to know what it really means.", "type": "curious-fan" },
+        { "text": "Look up the grammar and try to make my own sentence.", "type": "frustrated-learner" },
+        { "text": "Save it for later… then accidentally watch three more episodes.", "type": "context-collector" }
+      ]
+    }
+  ]
+}
