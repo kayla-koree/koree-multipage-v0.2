@@ -22228,5 +22228,245 @@
     "category": "neologism",
     "difficulty": "advanced",
     "verified": false
+  },
+  {
+    "id": "gamdasal-01",
+    "korean": "감다살",
+    "romanization": "gamdasal",
+    "meaning": "Short for \"the sense/vibe is totally alive\" — said when someone has really good taste or instincts.",
+    "source": "아시아투데이/네이트뉴스: [카드뉴스] 2026 상반기 신조어 총정리",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "gamdadwi-01",
+    "korean": "감다뒤",
+    "romanization": "gamdadwi",
+    "meaning": "Short for \"the sense/vibe totally died\" — said when someone has no taste or poor instincts (the opposite of 감다살).",
+    "source": "아시아투데이/네이트뉴스: [카드뉴스] 2026 상반기 신조어 총정리",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "gidaekeon-01",
+    "korean": "기대컨",
+    "romanization": "gidaekeon",
+    "meaning": "Short for \"expectation control\" — deliberately lowering your expectations in advance to soften potential disappointment.",
+    "source": "아시아투데이/네이트뉴스: [카드뉴스] 2026 상반기 신조어 총정리",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "donggyeolgeonjo-01",
+    "korean": "동결건조",
+    "romanization": "donggyeolgeonjo",
+    "meaning": "Literally \"freeze-dried\" — used to mean wanting to freeze a moment and keep it forever, unchanged.",
+    "source": "아시아투데이/네이트뉴스: [카드뉴스] 2026 상반기 신조어 총정리",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "syagal-01",
+    "korean": "샤갈",
+    "romanization": "syagal",
+    "meaning": "A softened, non-vulgar exclamation used in place of actual profanity.",
+    "source": "아시아투데이/네이트뉴스: [카드뉴스] 2026 상반기 신조어 총정리",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "ajaseu-01",
+    "korean": "아자스",
+    "romanization": "ajaseu",
+    "meaning": "Short for the Japanese \"arigatou gozaimasu\" (thank you very much).",
+    "source": "아시아투데이/네이트뉴스: [카드뉴스] 2026 상반기 신조어 총정리",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "mengomengo-01",
+    "korean": "멘고멘고",
+    "romanization": "mengomengo",
+    "meaning": "Derived from the Japanese \"gomen\" (sorry) — a cutesy way of apologizing.",
+    "source": "아시아투데이/네이트뉴스: [카드뉴스] 2026 상반기 신조어 총정리",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "yaho-suffix-01",
+    "korean": "~야호",
+    "romanization": "-yaho",
+    "meaning": "A casual greeting tacked onto words, popularized by \"gyaru\" fashion/culture.",
+    "source": "아시아투데이/네이트뉴스: [카드뉴스] 2026 상반기 신조어 총정리",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "yareu-01",
+    "korean": "야르",
+    "romanization": "yareu",
+    "meaning": "An exclamation of excitement/happiness.",
+    "source": "아시아투데이/네이트뉴스: [카드뉴스] 2026 상반기 신조어 총정리",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "kkyareu-01",
+    "korean": "꺄르",
+    "romanization": "kkyareu",
+    "meaning": "An exclamation of excitement, blending \"꺅\" (a squeal) with \"야르.\"",
+    "source": "아시아투데이/네이트뉴스: [카드뉴스] 2026 상반기 신조어 총정리",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "hallelyaru-01",
+    "korean": "할렐야루",
+    "romanization": "hallelyaru",
+    "meaning": "An even more intense version of \"야르\"/\"꺄르,\" blending \"할렐루야\" (hallelujah) with \"야르.\"",
+    "source": "아시아투데이/네이트뉴스: [카드뉴스] 2026 상반기 신조어 총정리",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "gaseumegukbapssotem-01",
+    "korean": "가슴에 국밥 쏟음",
+    "romanization": "gaseume gukbap ssotteum",
+    "meaning": "\"Spilled gukbap on my chest\" — describes feeling a sudden rush of warmth from something heartwarming or touching.",
+    "source": "아시아투데이/네이트뉴스: [카드뉴스] 2026 상반기 신조어 총정리",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "bamti-01",
+    "korean": "밤티",
+    "romanization": "bamti",
+    "meaning": "Describes something unappealing, unfashionable, or unattractive.",
+    "source": "아시아투데이/네이트뉴스: [카드뉴스] 2026 상반기 신조어 총정리",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "deureongseun-01",
+    "korean": "드렁슨",
+    "romanization": "deureongseun",
+    "meaning": "A playful term for a snoring sound, adding \"슨\" to the onomatopoeia.",
+    "source": "아시아투데이/네이트뉴스: [카드뉴스] 2026 상반기 신조어 총정리",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "jinjiseukan-01",
+    "korean": "진지스칸",
+    "romanization": "jinjiseukan",
+    "meaning": "Someone who stays overly serious even when everyone else is keeping things light.",
+    "source": "아시아투데이/네이트뉴스: [카드뉴스] 2026 상반기 신조어 총정리",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "hanjigamdoanom-01",
+    "korean": "~한지 감도 안 옴",
+    "romanization": "-hanji gamdo an om",
+    "meaning": "Added after a verb to emphasize just how much/intensely that action applies.",
+    "source": "아시아투데이/네이트뉴스: [카드뉴스] 2026 상반기 신조어 총정리",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "yeongkeukeu-01",
+    "korean": "영크크",
+    "romanization": "yeongkeukeu",
+    "meaning": "Short for \"Young Creator Crew\" — describes a young, trendy, of-the-moment sensibility.",
+    "source": "아시아투데이/네이트뉴스: [카드뉴스] 2026 상반기 신조어 총정리",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "neukkeukeu-01",
+    "korean": "늙크크",
+    "romanization": "neukkeukeu",
+    "meaning": "The opposite of \"영크크\" — an old-fashioned, outdated sensibility (\"영포티\" energy).",
+    "source": "아시아투데이/네이트뉴스: [카드뉴스] 2026 상반기 신조어 총정리",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "tonmangjinchang-01",
+    "korean": "톤망진창",
+    "romanization": "tonmangjinchang",
+    "meaning": "Describes makeup or an outfit whose color tones clash badly and don't suit the person.",
+    "source": "아시아투데이/네이트뉴스: [카드뉴스] 2026 상반기 신조어 총정리",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "jumeokjaro-01",
+    "korean": "주먹자로",
+    "romanization": "jumeokjaro",
+    "meaning": "A joking \"diet\" of punching your own stomach because you can't afford the weight-loss drug Mounjaro (마운자로).",
+    "source": "아시아투데이/네이트뉴스: [카드뉴스] 2026 상반기 신조어 총정리",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "jemmini-01",
+    "korean": "젬민이",
+    "romanization": "jemmini",
+    "meaning": "Someone who relies on the AI Gemini for absolutely everything.",
+    "source": "아시아투데이/네이트뉴스: [카드뉴스] 2026 상반기 신조어 총정리",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "menhera-01",
+    "korean": "멘헤라",
+    "romanization": "menhera",
+    "meaning": "Someone with intense emotional neediness and possessiveness in relationships (from Japanese \"menhera,\" mental-health-related slang).",
+    "source": "아시아투데이/네이트뉴스: [카드뉴스] 2026 상반기 신조어 총정리",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "temuinnagan-01",
+    "korean": "테무인간",
+    "romanization": "temuinganan",
+    "meaning": "\"A Temu person\" — someone who looks fine on the surface but is cheaply/poorly made underneath, referencing the discount shopping app Temu.",
+    "source": "아시아투데이/네이트뉴스: [카드뉴스] 2026 상반기 신조어 총정리",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "gikanobo-01",
+    "korean": "기카노보",
+    "romanization": "gikanobo",
+    "meaning": "Short for \"basic camera, no retouching\" — meaning a completely unedited, original photo.",
+    "source": "아시아투데이/네이트뉴스: [카드뉴스] 2026 상반기 신조어 총정리",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
   }
 ]
