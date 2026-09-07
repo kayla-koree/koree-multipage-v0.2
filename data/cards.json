@@ -23290,5 +23290,139 @@
     "difficulty": "beginner",
     "verified": false,
     "audio_text": "알았어"
+  },
+  {
+    "id": "andwae-01",
+    "korean": "안돼/안 돼",
+    "romanization": "andwae",
+    "meaning": "\"No way!\"/\"don't!\" — a sharp, urgent way to say something shouldn't happen, often shouted in reaction to a shocking or upsetting moment.",
+    "source": "r/kpop community wiki glossary",
+    "category": "nuance",
+    "difficulty": "beginner",
+    "verified": false,
+    "audio_text": "안돼"
+  },
+  {
+    "id": "byuntae-01",
+    "korean": "변태",
+    "romanization": "byeontae",
+    "meaning": "\"Pervert\" — a term for someone with creepy or inappropriate romantic/sexual behavior, used both as a genuine accusation and as an exaggerated joke among friends.",
+    "source": "r/kpop community wiki glossary",
+    "category": "nuance",
+    "difficulty": "intermediate",
+    "verified": false,
+    "audio_text": "변태"
+  },
+  {
+    "id": "daesang-01",
+    "korean": "대상",
+    "romanization": "daesang",
+    "meaning": "The top \"grand prize\" awarded at year-end Korean entertainment award shows — the biggest honor of the night, above regular category awards.",
+    "source": "r/kpop community wiki glossary",
+    "category": "nuance",
+    "difficulty": "intermediate",
+    "verified": false,
+    "nuance": "Not to be confused with the name \"대성 (Daesung)\" — different word, similar sound.",
+    "audio_text": "대상"
+  },
+  {
+    "id": "dugeundugeun-01",
+    "korean": "두근두근",
+    "romanization": "dugeundugeun",
+    "meaning": "Onomatopoeia for a heart pounding — \"thump-thump\" — used to describe nervousness, excitement, or the fluttery feeling of a crush.",
+    "source": "r/kpop community wiki glossary",
+    "category": "nuance",
+    "difficulty": "beginner",
+    "verified": false,
+    "audio_text": "두근두근"
+  },
+  {
+    "id": "hallyu-01",
+    "korean": "한류",
+    "romanization": "hallyu",
+    "meaning": "\"The Korean Wave\" — the global surge in popularity of Korean pop culture (music, dramas, film, food, beauty) since the late 1990s/2000s.",
+    "source": "r/kpop community wiki glossary",
+    "category": "nuance",
+    "difficulty": "beginner",
+    "verified": false,
+    "audio_text": "한류"
+  },
+  {
+    "id": "hanbok-01",
+    "korean": "한복",
+    "romanization": "hanbok",
+    "meaning": "Traditional Korean clothing, characterized by bold colors and flowing lines. Not everyday wear anymore, but commonly worn for holidays like Seollal and Chuseok, weddings, and historical dramas.",
+    "source": "r/kpop community wiki glossary",
+    "category": "nuance",
+    "difficulty": "beginner",
+    "verified": false,
+    "audio_text": "한복"
+  },
+  {
+    "id": "noraebang-01",
+    "korean": "노래방",
+    "romanization": "noraebang",
+    "meaning": "Literally \"singing room\" — a Korean karaoke room rented by a group of friends for private singing, distinct from the Japanese \"karaoke\" bar-style format.",
+    "source": "r/kpop community wiki glossary",
+    "category": "nuance",
+    "difficulty": "beginner",
+    "verified": false,
+    "audio_text": "노래방"
+  },
+  {
+    "id": "nugu-01",
+    "korean": "누구",
+    "romanization": "nugu",
+    "meaning": "Literally \"who,\" but adopted by English-speaking K-pop fandom to mean \"nobody[s]\" — used (often unkindly) for a lesser-known idol or group most fans haven't heard of.",
+    "source": "r/kpop community wiki glossary",
+    "category": "nuance",
+    "difficulty": "intermediate",
+    "verified": false,
+    "nuance": "The original Korean word is completely neutral — the dismissive \"nobody\" meaning is entirely a fandom-English reinterpretation, not how the word is used in actual Korean.",
+    "audio_text": "누구"
+  },
+  {
+    "id": "eoljjang-01",
+    "korean": "얼짱",
+    "romanization": "eoljjang",
+    "meaning": "Short for \"best face\" (얼굴 + 짱) — someone considered extremely good-looking, especially someone who became locally famous online purely for their looks before any other achievement.",
+    "source": "r/kpop community wiki glossary",
+    "category": "nuance",
+    "difficulty": "intermediate",
+    "verified": false,
+    "audio_text": "얼짱"
+  },
+  {
+    "id": "sajaegi-01",
+    "korean": "사재기",
+    "romanization": "sajaegi",
+    "meaning": "Chart manipulation — artificially inflating a song or album's digital chart rankings through bulk/bot purchases rather than genuine popularity. A recurring scandal topic in the K-pop industry.",
+    "source": "r/kpop community wiki glossary",
+    "category": "nuance",
+    "difficulty": "advanced",
+    "verified": false,
+    "audio_text": "사재기"
+  },
+  {
+    "id": "sasaeng-01",
+    "korean": "사생",
+    "romanization": "sasaeng",
+    "meaning": "Short for \"사생팬\" (sasaeng fan) — an obsessive fan who stalks, tracks, or invades the privacy of an idol, going far beyond normal fan behavior. A serious, well-documented problem in the K-pop industry, not just an exaggeration.",
+    "source": "r/kpop community wiki glossary",
+    "category": "nuance",
+    "difficulty": "intermediate",
+    "verified": false,
+    "audio_text": "사생"
+  },
+  {
+    "id": "konglish-01",
+    "korean": "콩글리시",
+    "romanization": "konggeullisi",
+    "meaning": "\"Korean English\" — English loanwords or phrases reshaped by Korean usage into something a native English speaker might not recognize (e.g. \"hand phone\" for cell phone, \"skinship,\" \"fighting\").",
+    "source": "r/kpop community wiki glossary",
+    "category": "nuance",
+    "difficulty": "intermediate",
+    "verified": false,
+    "audio_text": "콩글리시"
   }
 ]
