@@ -23593,5 +23593,18 @@
     "difficulty": "intermediate",
     "verified": false,
     "audio_text": "배신의 아이콘"
+  },
+  {
+    "id": "jinjja-01",
+    "korean": "진짜?",
+    "romanization": "jinjja?",
+    "meaning": "\"Really?\" — a rising-tone question expressing surprise, disbelief, or asking for confirmation.",
+    "nuance": "Said flat as 진짜 (no question mark, flat tone) it just means \"really/genuinely,\" used as a plain intensifier. Add a rising, questioning tone and it becomes a reaction — surprise, disbelief, or checking something is true — in the same family as 그래? and 헐.",
+    "example_ko": "나 이번 시험 만점 받았어. / 진짜?",
+    "example_en": "I got a perfect score on this test. / Really?",
+    "source": "Koree editorial (test-batch gap-fill)",
+    "category": "nuance",
+    "difficulty": "beginner",
+    "verified": false
   }
 ]

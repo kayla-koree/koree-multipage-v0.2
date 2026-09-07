@@ -53,6 +53,12 @@ Key findings from the first pass (regenerate anytime by re-running the classifie
 
 Not yet done (would need more work, flagged rather than faked): semantic keyword-cluster grouping of near-duplicate concepts (e.g. "가게를 내다" vs "가게를 열다"), and a refined human-review queue beyond the basic sensitivity flag.
 
+## `content-briefs/` — Content Brief stage (Keyword → Topic → Master Content pipeline)
+
+Following on from `content-pipeline.csv`'s priority scoring, `content-briefs/batch-01.md` is the first Content Brief batch (per `Koree_Content_Generation_Pipeline.md`'s section 3 format) — 15 test topics, reusing `cards.json` `id`s as Topic IDs (no separate keyword-ID layer exists, since there's no real keyword/search-volume dataset). Each brief proposes representative English search phrasings (explicitly flagged as hypotheses, not measured demand), a content pillar, core question, key insight drawn from the card's own `nuance` field, related expressions for cross-linking, and which formats (Blog/YouTube/Short/Quiz) look viable.
+
+This is Content Brief only — no Master Content (blog drafts, scripts) has been written yet; that's a deliberately separate next stage.
+
 ## `cards.json` — learning cards
 
 Content source for Play/Discover's learning-card & question-bank features. Each entry:
