@@ -22468,5 +22468,100 @@
     "category": "neologism",
     "difficulty": "advanced",
     "verified": false
+  },
+  {
+    "id": "alppano-01",
+    "korean": "알빠노",
+    "romanization": "alppano",
+    "meaning": "Short for \"내 알 바 아님\" — \"not my problem / none of my business.\"",
+    "source": "Reddit r/Korean community discussion",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false,
+    "nuance": "Blunt and dismissive — a variant form \"알빠임\" is also seen. Confirmed as widely-used, still-active slang via r/Korean discussion."
+  },
+  {
+    "id": "bulso-01",
+    "korean": "불소",
+    "romanization": "bulso",
+    "meaning": "Short for \"불타는 소통\" (\"burning communication\") — used mainly by elementary-school-age kids to mean wanting to actively chat/interact and become close friends online.",
+    "source": "Reddit r/Korean community discussion",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false,
+    "nuance": "Specifically kids' slang — native speakers note that an adult using this would get teased as childish. Included as a cultural curiosity, not everyday vocabulary."
+  },
+  {
+    "id": "geunjagam-01",
+    "korean": "근자감",
+    "romanization": "geunjagam",
+    "meaning": "Short for \"groundless confidence\" — being confident about something with no real basis for it.",
+    "source": "Reddit r/Korean community discussion",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "kkadonam-01",
+    "korean": "까도남",
+    "romanization": "kkadonam",
+    "meaning": "A blend meaning \"a prickly, aloof, city-polished guy\" — a cool, slightly cold urban-type man.",
+    "source": "Reddit r/Korean community discussion",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "kaelbak-01",
+    "korean": "캘박",
+    "romanization": "kaelbak",
+    "meaning": "Short for \"calendar taxidermy (캘린더 박제)\" — pinning an appointment onto your calendar so firmly that the date won't be changed no matter what.",
+    "source": "Reddit r/Korean community discussion",
+    "category": "neologism",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "sem-suffix-01",
+    "korean": "-셈",
+    "romanization": "-sem",
+    "meaning": "A blunt, casual internet-speak imperative ending (from a shortened \"-세요\") — e.g. \"가셈\" (go), \"하셈\" (do it), \"자셈\" (go to sleep). Reads as half-polite, half-rude, and has an old-school gamer/messageboard feel by now.",
+    "source": "Reddit r/Korean community discussion",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false,
+    "nuance": "Been around 20+ years in Korean internet culture — still understood today but can come across as dated if overused."
+  },
+  {
+    "id": "bihaenggitaeuda-01",
+    "korean": "비행기 태우다",
+    "romanization": "bihaenggi taeuda",
+    "meaning": "\"To put someone on a plane\" — to flatter or hype someone up excessively, buttering them up with over-the-top praise.",
+    "source": "Reddit r/Korean community discussion",
+    "category": "idiom",
+    "difficulty": "intermediate",
+    "verified": false
+  },
+  {
+    "id": "eogiyadiya-01",
+    "korean": "어기야디야",
+    "romanization": "eogiyadiya",
+    "meaning": "A traditional Korean work-song chant/exclamation, used in folk songs (especially boatmen's and labor songs) to keep rhythm and build camaraderie during hard physical work — roughly equivalent to \"heave-ho.\"",
+    "source": "Reddit r/Korean community discussion",
+    "category": "idiom",
+    "difficulty": "advanced",
+    "verified": false,
+    "nuance": "Traditional/folk expression rather than modern slang — still occasionally appears in song lyrics."
+  },
+  {
+    "id": "ttaemchyon-01",
+    "korean": "땜쵼",
+    "romanization": "ttaemchyon",
+    "meaning": "A cutesy, baby-talk (aegyo) distortion of \"삼촌\" (uncle) — 삼촌 → 땜쵼.",
+    "source": "Reddit r/Korean community discussion",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false,
+    "nuance": "An example of a broader aegyo speech-distortion style rather than one fixed, universally-known word — spotted in a casual social-media caption."
   }
 ]
