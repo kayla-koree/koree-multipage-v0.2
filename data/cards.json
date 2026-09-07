@@ -20844,5 +20844,1389 @@
     "category": "idiom",
     "difficulty": "intermediate",
     "verified": false
+  },
+  {
+    "id": "gaseongbi-01",
+    "korean": "가성비",
+    "romanization": "gaseongbi",
+    "meaning": "\"Price-to-performance ratio\" — the value/benefit gained relative to what something costs.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "gasimbi-01",
+    "korean": "가심비",
+    "romanization": "gasimbi",
+    "meaning": "\"Price-to-heart ratio\" — the psychological satisfaction gained relative to cost, as opposed to pure practical value.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "gajeua-01",
+    "korean": "가즈아",
+    "romanization": "gajeua",
+    "meaning": "An exclamation of hopeful excitement, typically shouted during gambling or investing (\"let's go!!\").",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "gak-suffix-01",
+    "korean": "-각",
+    "romanization": "-gak",
+    "meaning": "A suffix attached to a noun meaning \"looks like [that] is likely/coming\" — signals a probability or situation forming.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "gap-01",
+    "korean": "갑",
+    "romanization": "gap",
+    "meaning": "The best/top person, thing, or phenomenon in a given field.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "gaptuktwi-01",
+    "korean": "갑툭튀",
+    "romanization": "gaptuktwi",
+    "meaning": "Short for \"suddenly popping out of nowhere.\"",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "gangtoe-01",
+    "korean": "강퇴",
+    "romanization": "gangtoe",
+    "meaning": "Short for \"forced expulsion\" — being kicked out of a chat room, game, or (informally) school.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "gaedeurib-01",
+    "korean": "개드립",
+    "romanization": "gaedeurip",
+    "meaning": "Saying something absurd or insincere, not meant to be taken as fact.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "gaeideuk-01",
+    "korean": "개이득",
+    "romanization": "gaeideuk",
+    "meaning": "\"Huge gain/profit\" — a very favorable, lucky outcome.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "gaepittalpi-01",
+    "korean": "개피/딸피",
+    "romanization": "gaepi/ttalpi",
+    "meaning": "In games, a situation where an enemy has taken damage but hasn't died yet, left with very little health.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "gaeng-01",
+    "korean": "갱",
+    "romanization": "gaeng",
+    "meaning": "A sudden, surprise ambush/attack (from English \"gank,\" via gaming culture).",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "gwangubbeong-01",
+    "korean": "광우뻥",
+    "romanization": "gwangubbeong",
+    "meaning": "A dismissive term mocking the 2008 mad-cow-disease (광우병) import controversy as exaggerated fearmongering.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "gwangkeul-01",
+    "korean": "광클",
+    "romanization": "gwangkeul",
+    "meaning": "Frantically, rapidly clicking a mouse button as fast as possible.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "gukppong-01",
+    "korean": "국뽕",
+    "romanization": "gukppong",
+    "meaning": "Excessive national pride, likened to being \"high\" on patriotism.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "geukdaeno-01",
+    "korean": "극대노",
+    "romanization": "geukdaeno",
+    "meaning": "A blend of \"extreme\" and \"rage (怒)\" — being furiously angry.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "geupsikche-01",
+    "korean": "급식체",
+    "romanization": "geupsikche",
+    "meaning": "A speech style/slang popular among Korean teenagers (named after school-lunch-age students).",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "geupsikchung-01",
+    "korean": "급식충",
+    "romanization": "geupsikchung",
+    "meaning": "A derogatory term for school-lunch-age teenagers, mocking their behavior.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false,
+    "nuance": "Derogatory slang aimed at teenagers — documented as common internet usage, but genuinely insulting; use with caution."
+  },
+  {
+    "id": "gireogi-01",
+    "korean": "기레기",
+    "romanization": "gireogi",
+    "meaning": "A blend of \"reporter (기자)\" and \"trash (쓰레기)\" — a derogatory term for journalists seen as dishonest or sensationalist.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false,
+    "nuance": "Derogatory term for journalists — widely used but genuinely insulting."
+  },
+  {
+    "id": "kka-suffix-01",
+    "korean": "-까",
+    "romanization": "-kka",
+    "meaning": "Short for \"까다\" (to bash) — a suffix meaning someone opposes or badmouths a given thing.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "kkilkkippappa-01",
+    "korean": "낄끼빠빠",
+    "romanization": "kkilkkippappa",
+    "meaning": "Short for \"join in when it's your place to, step back when it's not\" — read the room.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "nana-suffix-01",
+    "korean": "나나",
+    "romanization": "nana",
+    "meaning": "Like \"박박,\" a repeated syllable tacked onto the end of \"존나\" (an intensifier) for emphasis/style.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "namsachin-01",
+    "korean": "남사친",
+    "romanization": "namsachin",
+    "meaning": "Short for \"male person friend\" — a close male friend with no romantic involvement.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "neopeu-01",
+    "korean": "너프",
+    "romanization": "neopeu",
+    "meaning": "\"Nerf\" — a weakening/reduction, usually of a character's power in a game.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "neomsabyeok-01",
+    "korean": "넘사벽",
+    "romanization": "neomsabyeok",
+    "meaning": "Short for \"a wall too high to cross into another dimension\" — an insurmountable gap in ability.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "noejeol-01",
+    "korean": "뇌절",
+    "romanization": "noejeol",
+    "meaning": "Repeating the same joke/action so much that it stops being funny and starts annoying people.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "noepisyeol-01",
+    "korean": "뇌피셜",
+    "romanization": "noepisyeol",
+    "meaning": "A blend of \"brain\" and \"official\" — a claim treated as fact purely because the speaker believes it, with no real evidence.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "nugagichimsorireul-naeeosseo-01",
+    "korean": "누가 기침소리를 내었어",
+    "romanization": "nuga gichimsorireul naeeosseo",
+    "meaning": "A catchphrase from the historical drama \"Taejo Wang-geon,\" used jokingly to scold minor interruptions.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "nyuteuro-01",
+    "korean": "뉴트로",
+    "romanization": "nyuteuro",
+    "meaning": "\"New-tro\" — a retro-revival trend popular since the late 2010s, blending old and new styles.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "dagul-01",
+    "korean": "다굴",
+    "romanization": "dagul",
+    "meaning": "Several people ganging up to attack one person (derived from 다구리).",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "danjjan-01",
+    "korean": "단짠",
+    "romanization": "danjjan",
+    "meaning": "Food that has both sweet and salty flavors — \"sweet-salty.\"",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "daekkae-prefix-01",
+    "korean": "대깨-",
+    "romanization": "daekkae-",
+    "meaning": "A prefix labeling someone (or a group) as a blind, uncritical loyalist of a figure/cause.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false,
+    "nuance": "Politically charged term implying blind fanaticism — often used dismissively of the opposing side; can come across as inflammatory."
+  },
+  {
+    "id": "deokdeokhu-01",
+    "korean": "덕/덕후",
+    "romanization": "deok/deokhu",
+    "meaning": "Someone deeply, intensely devoted to a particular hobby or interest — an \"otaku\"-style fan.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "duchang-01",
+    "korean": "두창",
+    "romanization": "duchang",
+    "meaning": "Slang derived from \"monkeypox (원숭이두창).\"",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "deutbojap-01",
+    "korean": "듣보잡",
+    "romanization": "deutbojap",
+    "meaning": "Short for \"never heard of it, never seen it, worthless\" — something/someone completely obscure and unremarkable.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "ttalbabo-01",
+    "korean": "딸바보",
+    "romanization": "ttalbabo",
+    "meaning": "Short for \"a fool who dotes only on his daughter\" — an affectionately doting father.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "ttudda-01",
+    "korean": "뚜따",
+    "romanization": "ttudda",
+    "meaning": "Removing the lid-shaped heat spreader from a CPU (a PC-hardware modding term).",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "deuktem-01",
+    "korean": "득템",
+    "romanization": "deuktem",
+    "meaning": "Obtaining a great item, especially in a game.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "lomlkk-01",
+    "korean": "ㄹㅇㅋㅋ",
+    "romanization": "reoalkeukeu",
+    "meaning": "The initial consonants of \"레알ㅋㅋ\" (\"for real lol\") — used to affirm something enthusiastically.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "ratteneun-marya-01",
+    "korean": "라떼는 말이야",
+    "romanization": "ratteneun mariya",
+    "meaning": "\"Back in my day...\" — mocking older generations for reminiscing about the past (\"라떼\" puns on \"나 때,\" \"my time\").",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "regeno-01",
+    "korean": "레게노",
+    "romanization": "regeno",
+    "meaning": "Originated from a streamer mispronouncing \"legend (레전드)\" — now used jokingly to mean something legendary.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "real-01",
+    "korean": "레알",
+    "romanization": "real",
+    "meaning": "\"For real\" — an emphatic way of saying something is true.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "lopan-01",
+    "korean": "로판",
+    "romanization": "ropan",
+    "meaning": "Short for \"romance fantasy,\" a popular web-novel genre.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "mneor-01",
+    "korean": "ㅁㄴㅇㄹ",
+    "romanization": "mieunieuneoreul",
+    "meaning": "Random consecutive keyboard letters typed to mean \"I have no thoughts/I'm blanking.\"",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "maltal-01",
+    "korean": "말딸",
+    "romanization": "maltal",
+    "meaning": "A nickname for the game \"Uma Musume: Pretty Derby.\"",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "mamchung-01",
+    "korean": "맘충",
+    "romanization": "mamchung",
+    "meaning": "A derogatory term for mothers seen as inconsiderately prioritizing only their own children in public.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false,
+    "nuance": "Derogatory term targeting mothers — widely used online but genuinely insulting; use with caution."
+  },
+  {
+    "id": "meokbang-01",
+    "korean": "먹방",
+    "romanization": "meokbang",
+    "meaning": "Short for \"eating broadcast\" — a video/stream of someone eating, often a large amount.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "momjjang-01",
+    "korean": "몸짱",
+    "romanization": "momjjang",
+    "meaning": "Someone with an impressively fit, toned physique.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "mingaut-suffix-01",
+    "korean": "-밍아웃",
+    "romanization": "-ming-aut",
+    "meaning": "A suffix (from \"coming out\") meaning to openly reveal a certain trait, taste, or affiliation about oneself.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "museun129-meoseon129-01",
+    "korean": "무슨 129/머선 129",
+    "romanization": "museun 129 / meoseon 129",
+    "meaning": "A playful twist on the Gyeongsang-dialect pronunciation of \"무슨 일이고\" (\"what's going on?\").",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "meoktwi-01",
+    "korean": "먹튀",
+    "romanization": "meoktwi",
+    "meaning": "Short for \"eat and run\" — taking a benefit and then disappearing without fulfilling an obligation.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "munjjin-01",
+    "korean": "문찐",
+    "romanization": "munjjin",
+    "meaning": "Short for \"culturally clueless\" — someone out of touch with current cultural trends.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "mildang-01",
+    "korean": "밀당",
+    "romanization": "mildang",
+    "meaning": "Short for \"push and pull\" — the back-and-forth dynamic of playing hard to get in early dating.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "beokachung-01",
+    "korean": "버카충",
+    "romanization": "beokachung",
+    "meaning": "Short for \"topping up a bus (transit) card.\"",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "byeorakgeoji-01",
+    "korean": "벼락거지",
+    "romanization": "byeorakgeoji",
+    "meaning": "\"Overnight pauper\" — someone who feels suddenly poor by comparison after real-estate/asset prices spike around them.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "byeongmat-01",
+    "korean": "병맛",
+    "romanization": "byeongmat",
+    "meaning": "Short for \"nonsensical/absurd flavor\" — describes something so ridiculous it's amusingly bad.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "bonkae-01",
+    "korean": "본캐",
+    "romanization": "bonkae",
+    "meaning": "Short for \"main character\" — a person's primary game character or, more broadly, primary public persona.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "bulgeum-01",
+    "korean": "불금",
+    "romanization": "bulgeum",
+    "meaning": "Short for \"burning Friday\" — Friday night as prime time to go out and have fun.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "byuk-01",
+    "korean": "뷁",
+    "romanization": "byuk",
+    "meaning": "A catch-all exclamation expressing general displeasure or negativity.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "beugeum-01",
+    "korean": "브금",
+    "romanization": "beugeum",
+    "meaning": "Shorthand for \"background music (BGM).\"",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "ppa-suffix-01",
+    "korean": "-빠",
+    "romanization": "-ppa",
+    "meaning": "A suffix (mildly derogatory) for an overzealous fan of someone/something.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "ppangkkuttongkku-01",
+    "korean": "빵꾸똥꾸",
+    "romanization": "ppangkkuttongkku",
+    "meaning": "A nonsense catchphrase from an MBC sitcom, used playfully.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "ppangsyeoteul-01",
+    "korean": "빵셔틀",
+    "romanization": "ppangsyeoteul",
+    "meaning": "A student bullied into fetching snacks/bread for classmates from the school store.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false,
+    "nuance": "References a form of school bullying — used to describe a real social problem, not a lighthearted term."
+  },
+  {
+    "id": "samo-suffix-01",
+    "korean": "-사모",
+    "romanization": "-samo",
+    "meaning": "Short for \"a group of people who love [someone/something]\" — a fan club suffix.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "seongjinguk-01",
+    "korean": "성진국",
+    "romanization": "seongjinguk",
+    "meaning": "A sarcastic nickname for Japan, mocking its highly developed adult-entertainment industry.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false,
+    "nuance": "Crude, joking stereotype about Japan — not a hateful slur, but a mildly vulgar national stereotype."
+  },
+  {
+    "id": "syapjwi-01",
+    "korean": "샵쥐",
+    "romanization": "syapjwi",
+    "meaning": "Slang for one's father-in-law (from a pun on 시아버지).",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "seomin-koseupurae-01",
+    "korean": "서민 코스프레",
+    "romanization": "seomin koseupeurae",
+    "meaning": "\"Commoner cosplay\" — mocking politicians who perform relatability to ordinary citizens for show.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "seoseodo-01",
+    "korean": "서서도",
+    "romanization": "seoseodo",
+    "meaning": "Short for \"let's help each other out.\"",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "selka-01",
+    "korean": "셀카",
+    "romanization": "selka",
+    "meaning": "A blend of \"self\" and \"camera\" — a selfie.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "seupek-01",
+    "korean": "스펙",
+    "romanization": "seupek",
+    "meaning": "One's combined credentials — school, GPA, English scores, etc.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "seungjeom-japangi-01",
+    "korean": "승점 자판기",
+    "romanization": "seungjeom japangi",
+    "meaning": "\"A points vending machine\" — a team so weak that beating them is treated as an automatic win.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "sibalbiyong-01",
+    "korean": "시발비용",
+    "romanization": "sibalbiyong",
+    "meaning": "\"[Expletive] expenses\" — impulsive small purchases made to relieve stress.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false,
+    "nuance": "Contains a mild profanity (시발) in the term itself — a widely used but crude expression."
+  },
+  {
+    "id": "sseom-01",
+    "korean": "썸",
+    "romanization": "sseom",
+    "meaning": "The ambiguous, not-yet-official romantic phase before officially dating someone.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "akpeul-01",
+    "korean": "악플",
+    "romanization": "akpeul",
+    "meaning": "A hostile, malicious online comment.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "eorarapseuta-01",
+    "korean": "어라랍스타??",
+    "romanization": "eorarapseuta",
+    "meaning": "A trendy nonsense phrase popular among social \"insiders.\"",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "ekbak-01",
+    "korean": "엑박",
+    "romanization": "ekbak",
+    "meaning": "The \"X\" box that appears when an image fails to load.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "yeosachin-01",
+    "korean": "여사친",
+    "romanization": "yeosachin",
+    "meaning": "Short for \"female person friend\" — a close female friend with no romantic involvement.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "yeolpok-01",
+    "korean": "열폭",
+    "romanization": "yeolpok",
+    "meaning": "Short for \"an inferiority-complex explosion\" — an outburst driven by jealousy/insecurity.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "oegyeeo-01",
+    "korean": "외계어",
+    "romanization": "oegyeeo",
+    "meaning": "\"Alien language\" — heavily distorted internet-chat spelling that's hard for outsiders to read.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "yongja-01",
+    "korean": "용자",
+    "romanization": "yongja",
+    "meaning": "Short for \"a person of courage\" — someone bold enough to do something risky or unwise.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "utpeuda-01",
+    "korean": "웃프다",
+    "romanization": "utpeuda",
+    "meaning": "A blend of \"funny\" and \"sad\" — something that's comedic on the surface but sad underneath.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "umjjal-01",
+    "korean": "움짤",
+    "romanization": "umjjal",
+    "meaning": "Short for \"moving 짤방 (image macro)\" — a GIF.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "wolgeuprupang-01",
+    "korean": "월급루팡",
+    "romanization": "wolgeuprupang",
+    "meaning": "\"Payday looter\" — an employee who collects a salary while contributing little real work.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "uimunui-1seung-01",
+    "korean": "의문의 1승",
+    "romanization": "uimunui ilseung",
+    "meaning": "\"A mysterious victory\" — unintentionally coming out ahead in a situation.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "imwobyeong-01",
+    "korean": "이뭐병",
+    "romanization": "imwobyeong",
+    "meaning": "Short for an exclamation of disbelief at something absurd or offensive.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "isaengmang-01",
+    "korean": "이생망",
+    "romanization": "isaengmang",
+    "meaning": "Short for \"this life is ruined\" — a dramatic, often joking, expression of despair.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "iljin-01",
+    "korean": "일진",
+    "romanization": "iljin",
+    "meaning": "A student known for bullying/school violence.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false,
+    "nuance": "Refers to actual school-bullying culture — a serious topic, not a lighthearted term."
+  },
+  {
+    "id": "ilko-01",
+    "korean": "일코",
+    "romanization": "ilko",
+    "meaning": "Short for \"posing as an ordinary person\" — hiding one's fandom/hobby identity in public.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "jss-01",
+    "korean": "ㅈㅅ",
+    "romanization": "jasong",
+    "meaning": "The initial consonants of \"죄송\" (\"sorry\").",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "jarani-01",
+    "korean": "자라니",
+    "romanization": "jarani",
+    "meaning": "A blend of \"bicycle\" and \"고라니 (roe deer)\" — mocking reckless cyclists who dart into traffic.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "jaemmini-01",
+    "korean": "잼민이",
+    "romanization": "jaemmini",
+    "meaning": "A derogatory term for young, immature elementary schoolers acting out online.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false,
+    "nuance": "Derogatory slang aimed at young children — widely used but genuinely belittling."
+  },
+  {
+    "id": "jonmat-01",
+    "korean": "존맛",
+    "romanization": "jonmat",
+    "meaning": "Extremely delicious (from an intensifier + \"taste\").",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "jolbu-01",
+    "korean": "졸부",
+    "romanization": "jolbu",
+    "meaning": "Short for \"someone who suddenly became rich\" — nouveau riche, often used with a hint of disdain.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "joeungabongga-01",
+    "korean": "좋은가봉가",
+    "romanization": "joeungabongga",
+    "meaning": "A catchphrase from a 2013 MBC variety show, used playfully.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "jeul-01",
+    "korean": "즐",
+    "romanization": "jeul",
+    "meaning": "\"즐\" flipped upside down reads like \"엌\" — used as a dismissive, negative sign-off.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "jireumsin-01",
+    "korean": "지름신",
+    "romanization": "jireumsin",
+    "meaning": "The \"impulse-buy god\" — a figurative force that makes you want to buy things you don't need.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "jimotmi-01",
+    "korean": "지못미",
+    "romanization": "jimotmi",
+    "meaning": "Short for \"sorry I couldn't protect you.\"",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "jinjichung-01",
+    "korean": "진지충",
+    "romanization": "jinjichung",
+    "meaning": "A mocking term for someone who can't read the room and takes everything too seriously.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false,
+    "nuance": "Mildly derogatory — pokes fun at over-seriousness, not aimed at a protected group."
+  },
+  {
+    "id": "jjalbang-01",
+    "korean": "짤방",
+    "romanization": "jjalbang",
+    "meaning": "Short for \"a photo posted to avoid a thread being deleted\" — an image macro/meme picture.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "jjang-01",
+    "korean": "짱",
+    "romanization": "jjang",
+    "meaning": "A suffix/exclamation meaning \"the best.\"",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "changnyeol-01",
+    "korean": "창렬",
+    "romanization": "changnyeol",
+    "meaning": "Describes a product whose quality is disappointingly poor relative to its appearance/price.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "chineunim-01",
+    "korean": "치느님",
+    "romanization": "chineunim",
+    "meaning": "A affectionate, joking deification of Korean fried chicken (\"chicken-god\").",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "chimaek-01",
+    "korean": "치맥",
+    "romanization": "chimaek",
+    "meaning": "Short for \"chicken and beer (맥주)\" — the classic Korean fried-chicken-and-beer combo.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "kk-01",
+    "korean": "ㅋㅋ",
+    "romanization": "keukeu",
+    "meaning": "Consonants representing laughter, like \"haha\" or \"lol.\"",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "kagongjok-01",
+    "korean": "카공족",
+    "romanization": "kagongjok",
+    "meaning": "Short for \"the café-studying tribe\" — people who study for long hours at cafés.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "kae-prefix-01",
+    "korean": "캐-",
+    "romanization": "kae-",
+    "meaning": "An intensifying prefix, a harder-sounding variant of \"개-.\"",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "kaeri-hadeukaeri-01",
+    "korean": "캐리/하드캐리",
+    "romanization": "kaeri/hadeu kaeri",
+    "meaning": "\"Carry/hard carry\" — single-handedly leading a team to victory through standout performance.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "keodam-01",
+    "korean": "커담",
+    "romanization": "keodam",
+    "meaning": "Short for \"coffee and cigarettes.\"",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "kechyapgobaek-01",
+    "korean": "케찹고백",
+    "romanization": "kechyapgobaek",
+    "meaning": "A \"ketchup confession\" — an offhand admission of something minor, said almost in passing.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "koreongtang-01",
+    "korean": "코렁탕",
+    "romanization": "koreongtang",
+    "meaning": "A crude, invented term for a fictional torture method involving force-feeding soup through the nose.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "kongnain-01",
+    "korean": "콩라인",
+    "romanization": "kongnain",
+    "meaning": "\"Bean line\" — a jokey label for someone who's perpetually the runner-up, never first place.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "kukurupppong-01",
+    "korean": "쿠쿠루삥뽕",
+    "romanization": "kukurupppong",
+    "meaning": "A nonsense phrase that originated from a Twitch donation message, used as a joke.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "king-01",
+    "korean": "킹",
+    "romanization": "king",
+    "meaning": "Used as an intensifier, similar to \"king-sized\" or \"royally.\"",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "kingwangjjang-01",
+    "korean": "킹왕짱",
+    "romanization": "kingwangjjang",
+    "meaning": "\"The best of the best\" — an exaggerated superlative.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "tangjinjaem-01",
+    "korean": "탕진잼",
+    "romanization": "tangjinjaem",
+    "meaning": "A blend of \"blowing your money\" and \"fun\" — the small thrill of splurging.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "teongjang-01",
+    "korean": "텅장",
+    "romanization": "teongjang",
+    "meaning": "Short for \"an empty bank account\" — being broke right after payday.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "tekeuteuri-01",
+    "korean": "테크트리",
+    "romanization": "tekeuteuri",
+    "meaning": "\"Tech tree\" — the sequence, steps, or plan for accomplishing something (from strategy games).",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "twida-01",
+    "korean": "튀다",
+    "romanization": "twida",
+    "meaning": "To flee/run away from a situation.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "teulttakteulttakchung-01",
+    "korean": "틀딱/틀딱충",
+    "romanization": "teulttak/teulttakchung",
+    "meaning": "A derogatory term mocking elderly people (referencing the clacking sound of dentures).",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false,
+    "nuance": "Derogatory slang targeting the elderly — widely used but genuinely disrespectful."
+  },
+  {
+    "id": "ppongppongnam-01",
+    "korean": "퐁퐁남",
+    "romanization": "ppongppongnam",
+    "meaning": "A term for a man caught in an exploitative relationship with a manipulative partner who takes advantage of him.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false,
+    "nuance": "Coined in online men's-rights-adjacent communities and can carry a misogynistic framing depending on context — use with awareness."
+  },
+  {
+    "id": "hannamhannamchung-01",
+    "korean": "한남/한남충",
+    "romanization": "hannam/hannamchung",
+    "meaning": "A derogatory term for Korean men, mocking perceived toxic-masculine behavior.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false,
+    "nuance": "Derogatory term targeting Korean men — widely used in certain online communities but genuinely insulting."
+  },
+  {
+    "id": "haewoejikgu-01",
+    "korean": "해외직구",
+    "romanization": "haewoe jikgu",
+    "meaning": "Buying goods directly from overseas retailers via the internet.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "haek-prefix-01",
+    "korean": "핵-",
+    "romanization": "haek-",
+    "meaning": "An intensifying prefix (\"nuclear-\") meaning something is extremely strong/high-degree.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "hyeonpi-01",
+    "korean": "현피",
+    "romanization": "hyeonpi",
+    "meaning": "Short for \"real-life PvP\" — people who fought online meeting up to physically fight in person.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "hyeoljungmarangongdo-01",
+    "korean": "혈중 마라 농도",
+    "romanization": "hyeoljung mara nongdo",
+    "meaning": "\"Blood mala concentration\" — a joking way of describing how often someone has recently eaten mala (Sichuan spicy) food.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "hongdaebyeong-01",
+    "korean": "홍대병",
+    "romanization": "hongdaebyeong",
+    "meaning": "\"Hongdae disease\" — mocking people who perform an edgy, artsy \"hipster\" persona associated with Seoul's Hongdae district.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "heuksujeo-01",
+    "korean": "흙수저",
+    "romanization": "heuksujeo",
+    "meaning": "\"Dirt spoon\" — someone born into a family without the means to support them financially (opposite of a \"golden spoon\").",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "heumjolmu-01",
+    "korean": "흠좀무",
+    "romanization": "heumjolmu",
+    "meaning": "An exclamation of disbelief used for a story that seems too incredible to be true.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "ildo-01",
+    "korean": "1도",
+    "romanization": "ildo",
+    "meaning": "\"Not one bit\" — an emphatic \"not at all,\" playing on \"1도 없다\" (not even a single degree).",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "ubd-01",
+    "korean": "UBD",
+    "romanization": "yubidi",
+    "meaning": "A unit used to count a specific group of roughly 170,000 people (context-specific fandom usage).",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false,
+    "nuance": "Reading and exact origin uncertain from the source description alone — kept as documented, flagged for confirmation."
+  },
+  {
+    "id": "gallachigi-01",
+    "korean": "갈라치기",
+    "romanization": "gallachigi",
+    "meaning": "Using standard vocabulary (\"dividing\") to specifically mean deliberately splitting a group to weaken their solidarity.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "goguma-02",
+    "korean": "고구마",
+    "romanization": "goguma",
+    "meaning": "Using the everyday word for \"sweet potato\" to mean a stifling, frustrating situation (the opposite of a refreshing \"cider\" moment).",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "beongae-01",
+    "korean": "번개",
+    "romanization": "beongae",
+    "meaning": "Using the word for \"lightning\" to mean an impromptu meetup arranged spontaneously after chatting online.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "bimilbeonho-01",
+    "korean": "비밀번호",
+    "romanization": "bimilbeonho",
+    "meaning": "Using the word for \"password\" to mean a sports team's long losing/rebuilding slump.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "saida-01",
+    "korean": "사이다",
+    "romanization": "saida",
+    "meaning": "Using the word for the soft drink \"cider\" to mean a satisfying, cathartic turn of events (the opposite of frustrating \"고구마\").",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "wanjeon-01",
+    "korean": "완전",
+    "romanization": "wanjeon",
+    "meaning": "Using the word \"complete/total\" as a casual intensifier meaning \"very/super.\"",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "injeung-01",
+    "korean": "인증",
+    "romanization": "injeung",
+    "meaning": "Using the formal word for \"verification/certification\" to mean posting proof of something personal online.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
+  },
+  {
+    "id": "kadeukaepteo-01",
+    "korean": "카드캡터",
+    "romanization": "kadeukaepteo",
+    "meaning": "Punning on the anime \"Cardcaptor\" to mean a soccer player who frequently collects yellow/red cards.",
+    "source": "Wikipedia: 대한민국의 인터넷 신조어 목록",
+    "category": "neologism",
+    "difficulty": "advanced",
+    "verified": false
   }
 ]
