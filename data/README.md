@@ -39,6 +39,20 @@ Notes:
 - If you edit values in the Sheet, those edits live only in Sheets until you tell Claude about them — paste/describe the change and ask to "sync the CSV changes back," same as editing the local CSV directly.
 - If a first-party Google Sheets/Drive connector is ever added to this Claude account, true two-way sync (Claude writing directly into a Sheet) becomes possible — none was available when this was set up.
 
+## `content-pipeline.csv` — editorial strategy layer (not site content)
+
+A separate, non-production file that scores every `cards.json` entry for **content-development priority** — which cards are worth turning into a blog post/YouTube script/quiz/short next, as opposed to which are fine sitting in the raw dataset. It never feeds the live site; it's purely for deciding what to develop.
+
+Important distinction: this is **not** a real search-keyword dataset (no actual search volume/CPC/competition exists for this project), so it does not attempt real keyword clustering or demand-based prioritization. Instead each row scores the *content itself* — its `content_pillar` (P1 Real Korean / P2 Korean Nuance / P3 Slang & Internet Language / P4 K-Content Korean / P5 Korean Culture / P6 Practical Korean), `koree_fit` (0-5, how core to Koree's brand) and `content_potential` (0-5, how much a card could expand into multiple content formats), derived from real structural signals already in the card (its `source`, `category`, and whether it has a `nuance`/`example_ko`) — not fabricated demand data.
+
+Key findings from the first pass (regenerate anytime by re-running the classifier against the current `cards.json`):
+- 85% of all cards (1,999) come from one source (the KNU idiom dictionary) and lack `nuance`/example content — they score as solid "Real Korean" (P1) reference material but not Koree's core differentiator.
+- The richest, highest-priority content is concentrated in the smaller, later batches: Piece of K-ode (P2, all scored 5/5), the r/KDRAMA and r/kpop glossaries and variety-show catchphrases (P4), and neologisms with a real backstory/nuance note.
+- Terms flagged in `cards.json`'s `nuance` field as derogatory/sensitive are deliberately capped below top priority and marked `NEEDS_REVIEW` here — a card scoring well structurally doesn't mean it's safe to rush into content without a human editorial call, especially for sensitive terms. The keyword-based sensitivity check here is a first pass, not exhaustive — recheck manually for topics like bullying/profanity that don't literally say "derogatory" in their nuance text.
+- `priority`: P1 = worth developing now, P2 = next batch, P3 = archive/revisit later — this mirrors the source pipeline doc's own P1/P2/P3 tiers, not to be confused with `content_pillar`'s P1-P6 labels (unfortunate naming overlap in the original spec — kept as specified).
+
+Not yet done (would need more work, flagged rather than faked): semantic keyword-cluster grouping of near-duplicate concepts (e.g. "가게를 내다" vs "가게를 열다"), and a refined human-review queue beyond the basic sensitivity flag.
+
 ## `cards.json` — learning cards
 
 Content source for Play/Discover's learning-card & question-bank features. Each entry:
