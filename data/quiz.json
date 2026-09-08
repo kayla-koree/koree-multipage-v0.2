@@ -15,6 +15,87 @@
         { "text": "Look up the grammar and try to make my own sentence.", "type": "frustrated-learner" },
         { "text": "Save it for later… then accidentally watch three more episodes.", "type": "context-collector" }
       ]
+    },
+    {
+      "id": "q2",
+      "text": "In a K-drama, someone calls a total stranger at a convenience store 언니 — not their actual sister. What's your reaction?",
+      "options": [
+        { "text": "That's so interesting — it's not about family, it's about how Koreans build closeness through what they call each other.", "type": "culture-explorer" },
+        { "text": "Cute detail. I file it away and keep watching.", "type": "low-energy-learner" },
+        { "text": "The subtitle just said 'excuse me' — that completely undersells what's happening.", "type": "curious-fan" }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "You notice a line ending in -다 instead of the -요 you're used to, and the subtitle reads exactly the same either way. What do you do?",
+      "options": [
+        { "text": "Go down a grammar rabbit hole trying to nail down exactly when each one is 'correct.'", "type": "frustrated-learner" },
+        { "text": "Jot both versions down side by side so I can compare them later.", "type": "context-collector" },
+        { "text": "Think about what kind of relationship or setting would make someone switch tone like that.", "type": "culture-explorer" }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "A character says something like \"이 정 때문에\" and the subtitle just gives you \"because I care about you.\" How do you feel about that?",
+      "options": [
+        { "text": "Honestly, 'because I care' is close enough for me today.", "type": "low-energy-learner" },
+        { "text": "That's exactly the kind of thing subtitles flatten — this word deserves its own explanation.", "type": "curious-fan" },
+        { "text": "I want the precise definition, not a vibe — what does this word actually mean, technically?", "type": "frustrated-learner" }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "A variety show host repeats the same goofy catchphrase every single episode. What's your instinct?",
+      "options": [
+        { "text": "I start a running list of catchphrases and which show or host each one is from.", "type": "context-collector" },
+        { "text": "I want to know the story behind it — why did this become the running joke?", "type": "culture-explorer" },
+        { "text": "I just laugh along and don't think about it any further — it's fun as-is.", "type": "low-energy-learner" }
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "You come across an internet slang term that's genuinely common online but pretty harsh — the kind that comes with a \"use with caution\" note. What's your approach?",
+      "options": [
+        { "text": "I want to understand exactly how and when it's used, even if it's an uncomfortable topic.", "type": "curious-fan" },
+        { "text": "I want a clear line for when it's okay to just know it versus when it's okay to actually say it.", "type": "frustrated-learner" },
+        { "text": "I file it under 'internet slang, handle carefully' for future reference.", "type": "context-collector" }
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "A drama shows a tense 회식 (mandatory-feeling company dinner) scene. What draws you into it?",
+      "options": [
+        { "text": "The social dynamics — why does everyone act like attendance isn't optional when it clearly is?", "type": "culture-explorer" },
+        { "text": "Honestly I just want the vocabulary for ordering food and drinks — nothing deeper today.", "type": "low-energy-learner" },
+        { "text": "The subtitle says 'company dinner,' but it completely misses the hierarchy tension in the room.", "type": "curious-fan" }
+      ]
+    },
+    {
+      "id": "q8",
+      "text": "Someone in a drama gets surprisingly serious about being addressed correctly as 선배. Why does that stick with you?",
+      "options": [
+        { "text": "I want to know exactly who counts as 선배 versus 후배 in every setting — school, work, sports, all of it.", "type": "frustrated-learner" },
+        { "text": "I add it to my growing list of relationship terms I'm collecting.", "type": "context-collector" },
+        { "text": "It shows how much respect and hierarchy is baked into just addressing someone by name.", "type": "culture-explorer" }
+      ]
+    },
+    {
+      "id": "q9",
+      "text": "You spot an old-school internet slang ending in a chat, and it doesn't match anything from your textbook. What now?",
+      "options": [
+        { "text": "I shrug, guess from context, and keep scrolling.", "type": "low-energy-learner" },
+        { "text": "I stop everything to figure out exactly where this even came from.", "type": "curious-fan" },
+        { "text": "I get a little frustrated that no textbook prepared me for this.", "type": "frustrated-learner" }
+      ]
+    },
+    {
+      "id": "q10",
+      "text": "After a week of K-dramas, you realize you've saved a dozen little expressions in your notes app and never reviewed a single one. How do you feel about that?",
+      "options": [
+        { "text": "Thrilled — the collecting itself is half the fun.", "type": "context-collector" },
+        { "text": "I want to trace how they connect to bigger cultural patterns before I even think about reviewing.", "type": "culture-explorer" },
+        { "text": "No guilt — even glancing at the list later still counts as progress.", "type": "low-energy-learner" }
+      ]
     }
   ]
 }
