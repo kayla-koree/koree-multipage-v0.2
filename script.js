@@ -43,3 +43,23 @@ if(quiz){
     result.hidden=false;
   }));
 }
+const heroStage=document.getElementById('heroStage');
+if(heroStage && !window.matchMedia('(prefers-reduced-motion: reduce)').matches){
+  const layers=[...heroStage.querySelectorAll('[data-depth]')];
+  heroStage.addEventListener('mousemove',e=>{
+    const rect=heroStage.getBoundingClientRect();
+    const cx=(e.clientX-rect.left)/rect.width-.5;
+    const cy=(e.clientY-rect.top)/rect.height-.5;
+    layers.forEach(el=>{
+      const depth=parseFloat(el.dataset.depth)||1;
+      el.style.setProperty('--px',(-cx*14*depth).toFixed(1)+'px');
+      el.style.setProperty('--py',(-cy*10*depth).toFixed(1)+'px');
+    });
+  });
+  heroStage.addEventListener('mouseleave',()=>{
+    layers.forEach(el=>{
+      el.style.setProperty('--px','0px');
+      el.style.setProperty('--py','0px');
+    });
+  });
+}
