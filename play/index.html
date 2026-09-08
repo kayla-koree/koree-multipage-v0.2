@@ -26,17 +26,20 @@
   <h1>What kind of Korean learner are <i>you</i>?</h1>
   <p class="lead">No grades. No “wrong” personality. Just a few questions to find a more natural starting point.</p>
 </div></section>
-<section class="section alt"><div class="container" data-quiz>
+<section class="section alt"><div class="container" data-quiz data-quiz-src="../data/quiz.json">
   <div class="card" style="max-width:820px;margin:auto">
-    <div class="mini">Question 01 · 05</div>
-    <h2 style="font-size:38px;margin-top:20px">You hear a Korean phrase in a drama. What do you do?</h2>
-    <div class="grid" style="margin-top:24px">
-      <button class="btn light" data-option>A. Screenshot it because I need to know what it really means.</button>
-      <button class="btn light" data-option>B. Look up the grammar and try to make my own sentence.</button>
-      <button class="btn light" data-option>C. Save it for later… then accidentally watch three more episodes.</button>
+    <div class="quiz-progress">
+      <div class="quiz-progress-bar"><div class="quiz-progress-fill" data-progress-fill></div></div>
+      <div class="mini" data-progress-label>Question 01 · 10</div>
     </div>
-    <div data-result hidden class="notice" style="margin-top:22px"><strong>That curiosity is useful.</strong><br>For this prototype, your result points toward <b>The Curious Fan</b>. The full version can use a question bank and rotate questions on each visit.</div>
-    <div class="btn-row"><a class="btn dark" href="../play/result.html">See a sample result →</a></div>
+    <div class="quiz-question" data-quiz-question>
+      <h2 class="quiz-q-text" data-question-text style="font-size:38px;margin-top:16px">Loading your questions…</h2>
+      <div class="grid" style="margin-top:24px" data-options></div>
+    </div>
+    <div data-result hidden class="quiz-result">
+      <div class="notice" style="margin-top:22px"><strong data-result-name></strong><br><span data-result-desc></span></div>
+      <div class="btn-row"><a class="btn dark" href="../play/index.html">Take it again →</a></div>
+    </div>
   </div>
 </div></section>
 <section class="section"><div class="container"><div class="section-head"><div><div class="eyebrow">Five types</div><h2>Designed around how people actually discover Korean.</h2></div></div>

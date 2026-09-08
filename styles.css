@@ -232,6 +232,23 @@ label{font-size:13px;font-weight:700;display:block;margin:0 0 7px}
 .checklist{display:grid;gap:10px;margin:25px 0}
 .check{display:flex;gap:10px;align-items:flex-start}
 .check b{font-size:14px}
+/* ---------- Play quiz ---------- */
+.quiz-progress{margin-bottom:4px}
+.quiz-progress-bar{height:6px;border-radius:999px;background:var(--line);overflow:hidden;margin-bottom:14px}
+.quiz-progress-fill{height:100%;width:0%;border-radius:999px;background:linear-gradient(90deg,var(--mint),var(--peri));transition:width .45s cubic-bezier(.4,0,.2,1)}
+.quiz-question{animation:quizIn .38s ease}
+.quiz-question.leaving{animation:quizOut .22s ease forwards}
+@keyframes quizIn{from{opacity:0;transform:translateX(18px)}to{opacity:1;transform:translateX(0)}}
+@keyframes quizOut{from{opacity:1;transform:translateX(0)}to{opacity:0;transform:translateX(-18px)}}
+[data-option]{transition:.16s transform,.16s background,.16s box-shadow}
+[data-option]:disabled{cursor:default}
+[data-option].selected{background:var(--lime);border-color:var(--lime);transform:scale(.97);box-shadow:0 6px 16px rgba(54,60,67,.14)}
+.quiz-result{animation:resultIn .5s cubic-bezier(.2,.8,.3,1.15)}
+@keyframes resultIn{from{opacity:0;transform:scale(.92) translateY(10px)}to{opacity:1;transform:scale(1) translateY(0)}}
+@media (prefers-reduced-motion: reduce){
+  .quiz-question,.quiz-question.leaving,.quiz-result{animation:none!important}
+  .quiz-progress-fill,[data-option]{transition:none!important}
+}
 .site-footer{background:var(--charcoal);color:#fff;padding:62px 0 28px}
 .footer-grid{display:grid;grid-template-columns:1.5fr repeat(3,1fr);gap:30px}
 .footer-brand img{width:130px}
