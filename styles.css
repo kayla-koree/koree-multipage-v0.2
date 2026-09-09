@@ -163,6 +163,56 @@ h3{font-size:22px}
 @media (prefers-reduced-motion: reduce){
   .float-card{animation:none!important;transform:rotate(var(--base-rot,0deg))!important}
 }
+/* ---------- Today's Discovery ---------- */
+.discovery-top{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:24px;margin-bottom:24px}
+.discovery-word{font-size:clamp(48px,7vw,84px);margin:0}
+.discovery-roman{font-size:14px;opacity:.6;margin-top:6px;font-weight:600}
+.discovery-twist{font-size:18px;font-weight:700;max-width:320px;margin:0}
+.truth-inline{list-style:none;margin:0 0 34px;padding:0;display:flex;flex-wrap:wrap;gap:10px 22px}
+.truth-inline li{font-size:13.5px;font-weight:700;opacity:.65;position:relative;padding-left:16px}
+.truth-inline li:before{content:"";position:absolute;left:0;top:6px;width:7px;height:7px;border-radius:50%;background:var(--lime)}
+.context-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;scroll-margin-top:100px}
+.context-card{border-radius:22px;padding:24px;min-height:180px;display:flex;flex-direction:column;justify-content:space-between}
+.context-tag{font-size:11px;font-weight:800;text-transform:uppercase;letter-spacing:.08em;opacity:.6}
+.context-line{font-size:17px;font-weight:700;margin:16px 0}
+.context-arrow{font-size:14px;font-weight:700;margin:0}
+.context-a{background:var(--peri)}
+.context-b{background:var(--mint)}
+.context-b .context-line{font-size:19px}
+.context-c{background:var(--charcoal);color:#fff}
+.context-c .context-tag{opacity:.55}
+.context-pause{color:var(--coral);font-weight:900;font-size:1.3em;letter-spacing:0}
+
+/* ---------- Why Korean is fun ---------- */
+.truth-heading{margin-top:16px;max-width:640px}
+.truth-stack{margin-top:36px}
+.truth-row{display:grid;grid-template-columns:1fr 1fr;gap:30px;align-items:center;padding:34px 0;border-top:1px solid var(--line)}
+.truth-row:first-child{border-top:0}
+.truth-row.truth-reverse .truth-text{order:2}
+.truth-text{font-size:clamp(26px,3.4vw,42px);font-weight:900;letter-spacing:-.03em;line-height:1.12;margin:0}
+.truth-text i{font-family:'Instrument Serif',serif;font-style:italic;font-weight:400;color:var(--charcoal)}
+.truth-context{font-size:14.5px;line-height:1.5;padding:16px 18px;border-radius:16px;font-weight:600}
+.truth-chip-lime{background:var(--lime)}
+.truth-chip-mint{background:var(--mint)}
+.truth-chip-peri{background:var(--peri)}
+
+/* ---------- Explore by curiosity ---------- */
+.curiosity-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px}
+.curiosity-card{display:block;padding:26px;border-radius:22px;min-height:170px;position:relative}
+.curiosity-card h3{margin-top:46px;font-size:19px}
+.curiosity-drama{background:var(--peri)}
+.curiosity-kpop{background:var(--coral)}
+.curiosity-everyday{background:var(--mint)}
+.curiosity-fan{background:var(--lime)}
+.curiosity-culture{background:var(--charcoal);color:#fff}
+.curiosity-culture .mini{opacity:.6}
+
+/* ---------- Email preview chips ---------- */
+.expression-preview{display:flex;flex-wrap:wrap;gap:10px;margin-top:20px}
+.expression-chip{background:var(--paper);border:1px solid var(--line);border-radius:999px;padding:10px 15px;font-size:13.5px;font-weight:700}
+.expression-chip em{font-style:normal;font-weight:500;color:var(--muted)}
+.consent-note{font-size:12.5px;color:var(--muted);margin-top:14px}
+
 .piece-grid{display:grid;grid-template-columns:1fr 1fr;gap:14px}
 .piece{padding:22px;border-radius:20px;min-height:160px;display:flex;flex-direction:column;justify-content:space-between}
 .piece:nth-child(1){background:var(--lime)}
@@ -268,6 +318,9 @@ label{font-size:13px;font-weight:700;display:block;margin:0 0 7px}
   .hero-stage{height:auto;display:flex;flex-direction:column;gap:16px;padding:8px 0 0}
   .float-card{position:static!important;transform:none!important;animation:none!important;width:100%!important;top:auto!important;left:auto!important}
   .badge-ring,.pill-tag{display:none}
+  .context-grid{grid-template-columns:1fr}
+  .truth-row{grid-template-columns:1fr}
+  .truth-row.truth-reverse .truth-text{order:0}
 }
 @media(max-width:600px){
   .container{width:min(calc(100% - 28px),var(--max))}
