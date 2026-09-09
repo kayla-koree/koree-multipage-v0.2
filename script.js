@@ -129,6 +129,40 @@ if(quiz){
       questionText.textContent='Couldn\'t load the quiz right now — please refresh.';
     });
 }
+const filterBar=document.querySelector('[data-article-filters]');
+if(filterBar){
+  const filterButtons=[...filterBar.querySelectorAll('[data-filter]')];
+  const validFilters=filterButtons.map(b=>b.dataset.filter);
+  const filterCards=[...document.querySelectorAll('[data-category]')];
+  const filterEmpty=document.querySelector('[data-filter-empty]');
+
+  function applyArticleFilter(value){
+    filterButtons.forEach(btn=>{
+      const active=btn.dataset.filter===value;
+      btn.classList.toggle('active',active);
+      btn.setAttribute('aria-pressed',active?'true':'false');
+    });
+    let visible=0;
+    filterCards.forEach(card=>{
+      const show=value==='all'||card.dataset.category===value;
+      card.hidden=!show;
+      if(show) visible++;
+    });
+    if(filterEmpty) filterEmpty.hidden=visible>0;
+  }
+
+  filterButtons.forEach(btn=>{
+    btn.addEventListener('click',()=>{
+      const value=btn.dataset.filter;
+      applyArticleFilter(value);
+      const url=value==='all' ? location.pathname+location.search : '#'+value;
+      history.replaceState(null,'',url);
+    });
+  });
+
+  const initial=(location.hash||'').replace('#','').toLowerCase();
+  applyArticleFilter(validFilters.includes(initial)?initial:'all');
+}
 const heroStage=document.getElementById('heroStage');
 if(heroStage && !window.matchMedia('(prefers-reduced-motion: reduce)').matches){
   const layers=[...heroStage.querySelectorAll('[data-depth]')];
