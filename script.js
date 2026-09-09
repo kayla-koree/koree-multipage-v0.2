@@ -160,8 +160,12 @@ if(filterBar){
     });
   });
 
-  const initial=(location.hash||'').replace('#','').toLowerCase();
-  applyArticleFilter(validFilters.includes(initial)?initial:'all');
+  function applyFromHash(){
+    const value=(location.hash||'').replace('#','').toLowerCase();
+    applyArticleFilter(validFilters.includes(value)?value:'all');
+  }
+  window.addEventListener('hashchange',applyFromHash);
+  applyFromHash();
 }
 const heroStage=document.getElementById('heroStage');
 if(heroStage && !window.matchMedia('(prefers-reduced-motion: reduce)').matches){
