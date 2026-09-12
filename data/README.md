@@ -15,7 +15,6 @@ Ask for a single stage directly ("카드 모아줘" → collector, "검수해줘
 `.json` files are what the site code reads — not meant for hand-browsing. Alongside each one is a **CSV mirror** you can open in Excel/Numbers/Google Sheets to review, sort, filter, and mark things up:
 
 - `cards.csv` ↔ `cards.json`
-- `quiz-questions.csv` ↔ `quiz.json` (`questions` only — `types`, the 5 fixed personas, rarely change and are listed in the table below)
 
 The JSON stays the source of truth the site actually uses; the CSV is regenerated from it every time an agent adds/changes cards or questions, so it's always safe to just re-open and re-check. If you edit the CSV directly (e.g. correct a typo, flip `verified` to `TRUE`), tell Claude to "sync the CSV changes back into the JSON" and the agent will reconcile them.
 
@@ -27,11 +26,7 @@ There's no Google account connected to this project, so there's no fully automat
 =IMPORTDATA("https://raw.githubusercontent.com/kayla-koree/koree-multipage-v0.2/main/data/cards.csv")
 ```
 
-Put that in cell A1 of one sheet/tab, and the same pattern with `quiz-questions.csv` in another tab:
-
-```
-=IMPORTDATA("https://raw.githubusercontent.com/kayla-koree/koree-multipage-v0.2/main/data/quiz-questions.csv")
-```
+Put that in cell A1 of a sheet/tab.
 
 Notes:
 - This is **read-only from Sheets' side** — it re-pulls from GitHub, it doesn't push edits back. Google Sheets refreshes `IMPORTDATA` automatically every couple hours, or force it sooner via the sheet's *Data → Data connectors → Refresh all* (or delete/retype the formula).
@@ -80,11 +75,6 @@ Content source for Play/Discover's learning-card & question-bank features. Each 
 
 Cards get added by `koree-content-collector` (whether you hand it raw data or ask it to research/draft new content), always as `verified: false`. `koree-content-reviewer` then checks the batch and flips entries to `true` once you confirm. Only `verified: true` cards get wired onto the live site by `koree-content-publisher`.
 
-## `quiz.json` — Play "what kind of Korean learner are you" quiz
+## `quick-quiz.json` — Play "Context Check"
 
-Two top-level keys:
-
-- `types` — the 5 result personas (`id`, `name`, `description`). Fixed set, taken from the type-cards already on `play/index.html`; only edit if the user explicitly wants to change the personas themselves.
-- `questions` — array of `{ id, text, options: [{ text, type }] }`. Each option's `type` must match a `types[].id` — that's how an answer counts toward a result. The prototype currently ships only `q1`; the quiz UI implies 5 questions total (2-3 options each), so more need to be collected.
-
-To add quiz questions: paste raw data (question + its answer choices, and which persona each choice should point to), or ask `koree-content-collector` to draft new ones — it appends to `questions` in this schema. If an option's persona isn't specified, it asks rather than guessing, since that mapping drives the actual quiz result. `koree-content-reviewer` checks new questions before they're treated as final; `koree-content-publisher` wires the confirmed set into `play/index.html`'s actual quiz logic.
+The 5-question context quiz on `play/index.html`. Each question: `{ id, dialogue: [{speaker, korean, roman}], question, explanation, options: [{text, correct}] }`. `quick-quiz.js` mirrors the same data as a `window.KoreeQuickQuiz` global for `file://` previews. Keep both in sync when editing.

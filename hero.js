@@ -1,12 +1,12 @@
 (()=>{
  const data=window.KoreeDailyDiscoveries?.discoveries||[];
- const today=new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Seoul',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
+ const today=new Intl.DateTimeFormat('en-CA',{timeZone:'America/Los_Angeles',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
  const entry=data.find(d=>d.date===today&&d.status==='published')||data.find(d=>d.status==='published');
  if(!entry)return;
  const $=id=>document.getElementById(id),scene=document.querySelector('.character-scene');
  $('hero-expression').textContent=entry.expression;$('hero-roman').textContent=entry.romanization;
  $('bubble-date').textContent=entry.date===today?'TODAY’S KOREAN':'FROM THE DISCOVERY ARCHIVE';
- $('hero-date').textContent=new Intl.DateTimeFormat('en-US',{timeZone:'Asia/Seoul',month:'short',day:'numeric',year:'numeric'}).format(new Date()).toUpperCase();
+ $('hero-date').textContent=new Intl.DateTimeFormat('en-US',{timeZone:'America/Los_Angeles',month:'short',day:'numeric',year:'numeric'}).format(new Date()).toUpperCase();
  $('nuance-hook').textContent=entry.nuance_hook;$('context-explore').href=entry.explore_url;
  let contexts=entry.contexts.map((c,i)=>({...c,mood:i}));
  if(entry.expression==='괜찮아')contexts=[{...entry.contexts[1],mood:0,button:'Just checking in',note:'A friend checks in. This time, you really are okay.'},{...entry.contexts[0],mood:1,button:'A little no, thanks',note:'An invitation. A gentle way to say “No, thanks.”'},{...entry.contexts[2],mood:2,button:'Not quite okay',note:'In this scene, the pause may suggest more than the words. It is not a fixed meaning.'}];
