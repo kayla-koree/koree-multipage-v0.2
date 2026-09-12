@@ -1,0 +1,21 @@
+(()=>{
+ const data=window.KoreeDailyDiscoveries?.discoveries||[];
+ const today=new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Seoul',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
+ const entry=data.find(d=>d.date===today&&d.status==='published')||data.find(d=>d.status==='published');
+ if(!entry)return;
+ const $=id=>document.getElementById(id),scene=document.querySelector('.character-scene');
+ $('hero-expression').textContent=entry.expression;$('hero-roman').textContent=entry.romanization;
+ $('bubble-date').textContent=entry.date===today?'TODAY’S KOREAN':'FROM THE DISCOVERY ARCHIVE';
+ $('hero-date').textContent=new Intl.DateTimeFormat('en-US',{timeZone:'Asia/Seoul',month:'short',day:'numeric',year:'numeric'}).format(new Date()).toUpperCase();
+ $('nuance-hook').textContent=entry.nuance_hook;$('context-explore').href=entry.explore_url;
+ let contexts=entry.contexts.map((c,i)=>({...c,mood:i}));
+ if(entry.expression==='괜찮아')contexts=[{...entry.contexts[1],mood:0,button:'Just checking in',note:'A friend checks in. This time, you really are okay.'},{...entry.contexts[0],mood:1,button:'A little no, thanks',note:'An invitation. A gentle way to say “No, thanks.”'},{...entry.contexts[2],mood:2,button:'Not quite okay',note:'In this scene, the pause may suggest more than the words. It is not a fixed meaning.'}];
+ const holder=$('discovery-contexts');
+ contexts.forEach(c=>{const a=document.createElement('article');a.className='context-card context-'+['a','b','c'][c.mood];const tag=document.createElement('span');tag.className='context-tag';tag.textContent=c.label;const line=document.createElement('p');line.className='context-line';line.lang='ko';line.style.whiteSpace='pre-line';line.textContent=c.dialogue;if(c.romanization){line.textContent='';c.dialogue.split('\n').forEach((text,i)=>{const row=document.createElement('span');row.className='context-dialogue-row';row.textContent=text;const roman=document.createElement('small');roman.className='korean-roman roman-line';roman.lang='ko-Latn';roman.textContent=c.romanization.split('\n')[i]||'';row.append(roman);line.append(row)})}const interpretation=document.createElement('p');interpretation.className='context-arrow';interpretation.textContent='→ '+c.interpretation;a.append(tag,line,interpretation);holder.append(a)});
+ const reveal=$('hero-reveal'),uncover=$('hero-uncover');let selected=0;
+ const render=()=>{const c=contexts[selected];scene.dataset.mood=String(c.mood);$('hero-meaning').textContent=c.interpretation;$('hero-nuance').textContent=c.note||c.label;document.querySelectorAll('[data-mood-choice]').forEach((b,i)=>{b.textContent=contexts[i].button||contexts[i].label;b.setAttribute('aria-pressed',String(i===selected))});holder.querySelectorAll('article').forEach((a,i)=>a.classList.toggle('is-selected',i===selected))};
+ const open=state=>{reveal.hidden=!state;uncover.setAttribute('aria-expanded',String(state));uncover.firstChild.textContent=state?'Hide the meaning ':'See what it means ';document.querySelector('.speech-bubble').classList.toggle('is-open',state)};
+ document.querySelectorAll('[data-mood-choice]').forEach((b,i)=>b.addEventListener('click',()=>{selected=i;render();open(true)}));
+ uncover.addEventListener('click',()=>open(reveal.hidden));
+ const listen=$('hero-listen');listen.addEventListener('click',()=>{if(!('speechSynthesis' in window)){listen.querySelector('span').textContent='Audio unavailable';return}if(listen.getAttribute('aria-pressed')==='true'){speechSynthesis.cancel();listen.setAttribute('aria-pressed','false');listen.querySelector('span').textContent='Listen';return}speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(entry.expression);u.lang='ko-KR';u.rate=.85;const reset=()=>{listen.setAttribute('aria-pressed','false');listen.querySelector('span').textContent='Listen'};u.onend=reset;u.onerror=reset;listen.setAttribute('aria-pressed','true');listen.querySelector('span').textContent='Playing';speechSynthesis.speak(u)});render();
+})();

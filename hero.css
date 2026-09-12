@@ -1,0 +1,103 @@
+/* KOREE: a central character, a real speech bubble, and the supplied color field. */
+:root{--hero-ink:#363C43;--hero-yellow:#E9FF6B}
+body:has(.koree-stage){background:#fff}
+body:has(.koree-stage)::before{display:none}
+.site-header{background:#fff;backdrop-filter:none}
+.koree-stage{position:relative;isolation:isolate;color:#363C43;padding:0 24px;overflow:hidden;background:#c8f4e8 url("assets/hero-blue-mint-background.jpg") center center/100% 100% no-repeat}
+.stage-topline{display:none}
+.stage-grid{width:min(1120px,100%);margin:auto;display:flex;flex-direction:column;align-items:center;padding:44px 0 0}
+.stage-copy{width:100%;text-align:center;position:relative;z-index:2}
+.stage-copy h1{font-family:'Outfit',sans-serif;font-size:clamp(50px,6.9vw,100px);line-height:1.12;letter-spacing:-.06em;font-weight:800;max-width:none;margin:0;text-wrap:balance}
+.title-bold{font-weight:850}
+.stage-copy h1 .title-editorial{font-family:'Instrument Serif',Georgia,serif;font-weight:400;font-size:1.1em;letter-spacing:-.04em;padding:0 .08em;font-style:italic}
+.stage-intro{font-size:18px;line-height:1.6;margin:15px auto 0;max-width:650px}
+.stage-link{display:none}
+.mood-panel{position:relative;z-index:3;width:100%;text-align:center;padding:25px 0 22px}
+.mood-heading{display:block;font-size:14px;line-height:1.5;font-weight:500;margin-bottom:10px}
+.mood-options{display:flex;flex-wrap:wrap;justify-content:center;gap:8px}
+.mood-options button{font-size:14px;line-height:1.4;min-height:44px;padding:10px 16px;border:1px solid #363C4338;border-radius:999px;background:#ffffff85;color:#363C43;cursor:pointer;transition:background .2s,color .2s}
+.mood-options button[aria-pressed=true]{background:#363C43;color:white;border-color:#363C43}
+.mood-options button:hover{border-color:#363C43}
+.mood-hint{display:none}
+.character-scene{position:relative;display:flex;flex-direction:column;align-items:center;width:100%;isolation:isolate}
+.speech-bubble{position:relative;z-index:3;width:min(520px,100%);padding:22px 30px 20px;background:#fff;border:1px solid #363C4326;border-radius:28px;box-shadow:0 14px 40px -20px #363C4340}
+.speech-bubble::after{content:"";position:absolute;bottom:-15px;left:calc(50% - 15px);width:28px;height:28px;background:#fff;transform:rotate(45deg);border-right:1px solid #363C4326;border-bottom:1px solid #363C4326}
+.bubble-meta{display:flex;justify-content:center;font-size:12px;line-height:1.5;font-weight:600;letter-spacing:.08em;color:#626970}
+.bubble-number{display:none}
+.bubble-expression{display:block;text-align:center;font-family:'Pretendard Variable',sans-serif;font-size:clamp(48px,5.2vw,72px);font-weight:800;letter-spacing:-.045em!important;line-height:1.25;margin:12px 0 0;overflow-wrap:anywhere}
+.bubble-roman{display:block;text-align:center;font-size:15px;color:#626970;margin:2px 0 16px}
+.bubble-controls{position:relative;z-index:1;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px;border-top:1px solid #363C431a;padding-top:12px}
+.bubble-controls button{display:inline-flex;align-items:center;gap:8px;border:0;background:transparent;color:#363C43;font-size:14px;font-weight:550;min-height:44px;padding:10px 0;cursor:pointer}
+.bubble-controls #hero-uncover{background:#E9FF6B;border-radius:999px;padding:10px 16px}
+.bubble-controls #hero-uncover:hover{box-shadow:inset 0 0 0 1px #363C43}
+.bubble-controls #hero-listen[aria-pressed=true]{text-decoration:underline}
+.bubble-reveal{text-align:center;padding:0 0 18px}
+.bubble-reveal p{font-size:24px;font-weight:650;line-height:1.35;margin:0 0 8px}
+.bubble-reveal>span{display:block;font-size:16px;line-height:1.5;max-width:440px;margin:auto}
+.hero-character{position:relative;z-index:1;width:min(760px,100%);height:300px;margin:22px auto 0;overflow:hidden;pointer-events:none}
+.hero-character img{display:block;width:100%;height:auto;max-width:none;transform-origin:50% 80%}
+.stage-foot{position:relative;z-index:4;width:min(1120px,100%);margin:auto;display:flex;justify-content:center;padding:12px 0 16px;font-size:12px;letter-spacing:.06em;border-top:1px solid #363C4326}
+.stage-foot>span{display:none}
+.stage-foot a{display:flex;align-items:center;gap:12px;min-height:40px}
+.why-section{padding-top:72px}.context-card.is-selected{box-shadow:0 0 0 3px #E9FF6B}
+@keyframes koree-title-arrive{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
+@keyframes koree-character-arrive{from{opacity:0;transform:translateY(140px) scale(.97)}to{opacity:1;transform:translateY(0) scale(1)}}
+@keyframes koree-bubble-arrive{from{opacity:0;transform:translateY(18px) scale(.96)}to{opacity:1;transform:translateY(0) scale(1)}}
+@keyframes koree-meaning-arrive{from{opacity:.3;transform:translateY(5px)}to{opacity:1;transform:translateY(0)}}
+@media(prefers-reduced-motion:no-preference){.stage-copy{animation:koree-title-arrive .6s ease both}.hero-character img{animation:koree-character-arrive .85s cubic-bezier(.2,.8,.25,1) .12s both}.speech-bubble{animation:koree-bubble-arrive .55s cubic-bezier(.2,.8,.25,1) .7s backwards}.bubble-reveal:not([hidden]){animation:koree-meaning-arrive .25s ease both}.hero-character{transition:transform .3s ease}.character-scene:has(#hero-uncover[aria-expanded=true]) .hero-character{transform:translateY(-5px)}}
+@media(max-width:760px){.koree-stage{padding:0 20px}.stage-grid{padding-top:30px}.stage-copy h1{font-size:clamp(48px,11.4vw,76px)}.title-bold,.stage-copy h1 .title-editorial{display:block}.stage-copy h1 .title-editorial{font-size:1.05em;line-height:1.1}.stage-intro{font-size:16px;max-width:360px;margin-top:13px}.mood-panel{padding:22px 0 18px}.mood-options{gap:6px}.mood-options button{padding:9px 12px}.speech-bubble{padding:20px;border-radius:24px;max-width:460px}.bubble-expression{font-size:clamp(48px,14vw,70px)}.hero-character{width:min(560px,115%);max-width:none;flex-shrink:0;height:240px;margin-top:20px}.stage-foot{padding-bottom:12px}}
+@media(max-width:420px){.hero-character{height:190px}.bubble-controls button{font-size:14px}.bubble-controls #hero-uncover{padding:10px 12px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.koree-stage *, .koree-stage *::before, .koree-stage *::after{animation:none!important;transition:none!important}}
+
+/* Mask the asset’s non-transparent outer canvas at display time. */
+.hero-character img{clip-path:polygon(16.824% 63.101%,16.888% 50.735%,18.410% 39.987%,21.580% 31.712%,25.702% 24.863%,30.648% 19.537%,36.356% 14.780%,43.267% 11.547%,50.242% 9.739%,57.408% 8.788%,64.003% 8.883%,70.153% 10.595%,75.289% 13.354%,79.855% 18.395%,82.709% 24.672%,84.738% 31.426%,85.880% 38.655%,86.070% 46.835%,85.562% 54.349%,84.231% 61.007%,82.138% 66.715%,79.221% 71.376%,75.417% 74.799%,70.977% 77.368%,65.652% 78.985%,58.423% 79.936%,51.764% 79.936%,44.472% 79.270%,37.496% 78.319%,31.853% 77.558%,29.887% 77.653%,27.604% 78.605%,24.878% 80.697%,21.961% 83.360%,18.663% 86.594%,15.113% 90.018%,15.873% 84.501%,16.444% 78.034%,16.761% 71.185%);width:125%;margin-left:-12.5%}
+
+@media(max-width:420px){.stage-grid{padding-top:24px}.stage-copy h1{font-size:46px}.stage-intro{font-size:15px;line-height:1.5;margin-top:10px}.mood-heading{display:none}.mood-panel{padding:17px 0 15px}.speech-bubble{padding:16px 20px}.bubble-expression{font-size:54px;margin-top:8px}.bubble-roman{margin-bottom:12px}.hero-character{margin-top:12px}}
+
+/* User-supplied book character artwork. The PNG alpha and colors stay intact. */
+.koree-stage{background-color:#AFC9FF;background-image:radial-gradient(ellipse at 12% 80%,#99EDD6 0%,transparent 65%),linear-gradient(145deg,#AFC9FF 0%,#AFC9FF 25%,#99EDD6 100%);background-size:auto;background-repeat:no-repeat}
+.stage-grid{padding-top:42px;width:min(1194px,100%)}
+.stage-intro{margin-bottom:28px}
+.character-scene{width:100%;}
+.speech-bubble{width:min(660px,100%);border-radius:60px;padding:22px 32px 20px;box-shadow:0 10px 34px -26px #363C4333;border:0}
+.speech-bubble::after{left:72%;width:46px;height:35px;bottom:-24px;border:0;transform:skew(-30deg,-20deg)}
+.bubble-question{font-size:16px;line-height:1.4;text-align:center;font-weight:550;margin:0 0 8px}
+.bubble-meta{position:absolute;width:1px;height:1px;padding:0;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+.bubble-wordline{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:10px 22px;margin:0 0 12px}
+.bubble-expression{font-size:clamp(58px,6.8vw,94px);margin:0;line-height:1.15}
+.bubble-roman{font-size:clamp(18px,2vw,24px);font-weight:500;margin:0;color:#526275}
+.bubble-roman::before{content:'['}.bubble-roman::after{content:']'}
+.bubble-controls{max-width:470px;margin:auto;gap:16px;padding-top:9px}
+.mood-panel{padding:12px 0 0}
+.mood-heading{font-size:13px;margin-bottom:7px}
+.mood-options button{font-size:13px;min-height:40px;padding:8px 13px;background:white}
+.mood-options button[aria-pressed=true]{background:#AFC9FF;color:#363C43;border-color:#AFC9FF}
+.hero-character{width:max(100vw,780px);max-width:1600px;height:auto;aspect-ratio:1194 / 400;flex-shrink:0;margin:4px 0 0;overflow:visible;align-self:center}
+.hero-character img{position:absolute;bottom:0;left:0;width:100%;height:auto;max-width:none;margin:0;clip-path:none;transform:none;animation:none!important;opacity:0}
+.character-scene[data-gaze="center"] .pose-center,.character-scene[data-gaze="left"] .pose-left,.character-scene[data-gaze="down"] .pose-down,.character-scene[data-gaze="right"] .pose-right{opacity:1}
+.stage-foot{background:#99EDD6;width:calc(100% + 48px);max-width:none;margin:0 -24px;border-color:#363C4326}
+@media(prefers-reduced-motion:no-preference){.hero-character{animation:koree-character-arrive .8s cubic-bezier(.2,.8,.25,1) .12s both;transition:none}.character-scene:has(#hero-uncover[aria-expanded=true]) .hero-character{transform:none}}
+@media(max-width:760px){.stage-grid{padding-top:28px}.stage-intro{margin-bottom:23px}.speech-bubble{padding:20px 20px 17px;border-radius:36px}.bubble-question{font-size:14px}.bubble-wordline{gap:4px 13px}.bubble-expression{font-size:60px}.bubble-roman{font-size:18px}.bubble-controls{gap:10px}.mood-options{gap:6px}.mood-options button{font-size:12px;padding:8px 10px;min-height:40px}.hero-character{height:auto;width:max(100vw,780px);margin-top:10px}.stage-foot{width:calc(100% + 40px);margin:0 -20px}}
+@media(max-width:420px){.mood-panel{padding:10px 0 0}.mood-heading{display:block}.hero-character{height:auto;margin-top:10px}.bubble-expression{font-size:56px}}
+/* Keep the eyes in the first composition instead of pushing them below the fold. */
+.stage-grid{padding-top:26px}
+.stage-copy h1{font-size:clamp(50px,6.4vw,88px)}
+.stage-intro{margin-top:12px;margin-bottom:20px}
+.speech-bubble{padding-top:18px;padding-bottom:16px}
+.bubble-expression{font-size:clamp(56px,6vw,78px)}
+.bubble-wordline{margin-bottom:8px}
+.hero-character{height:clamp(230px,24vw,320px);aspect-ratio:auto;overflow:hidden}
+.hero-character img{top:0;bottom:auto;transform:translateY(-52.494%)}
+@media(max-width:760px){.stage-copy h1{font-size:clamp(46px,10.8vw,72px)}.stage-grid{padding-top:24px}.bubble-expression{font-size:56px}.hero-character{height:230px}}
+/* Leave room for the tallest supplied pose so its silhouette is never clipped. */
+.hero-character{margin-top:-50px;height:clamp(260px,28vw,370px)}
+.hero-character img{transform:translateY(-45%)}
+@media(max-width:760px){.hero-character{margin-top:-35px;height:260px}}
+
+/* Brighter brand tints and a static grain layer behind all foreground content. */
+.koree-stage{background-color:#e3eefb;background-image:linear-gradient(rgba(255,255,255,.58),rgba(255,255,255,.58)),radial-gradient(ellipse at 12% 80%,#99EDD6 0%,transparent 65%),linear-gradient(145deg,#AFC9FF 0%,#AFC9FF 25%,#99EDD6 100%)}
+.koree-stage::before{content:"";position:absolute;inset:0;z-index:0;pointer-events:none;opacity:.085;filter:grayscale(1);mix-blend-mode:multiply;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");;background-size:180px 180px}
+.stage-grid{position:relative;z-index:1}
+
+/* Original Illustrator vectors: scale without raster blur, track pupils independently. */
+.hero-character .book-character-svg{position:absolute;top:0;left:0;display:block;width:100%;height:auto;max-width:none;transform:translateY(-45%);overflow:hidden}

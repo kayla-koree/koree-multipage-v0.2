@@ -1,0 +1,27 @@
+/* A functional quiz preview replaces the decorative word card. */
+.play-teaser{scroll-margin-top:96px}
+.play-teaser .play-teaser-grid{grid-template-columns:1fr 1fr;gap:64px}
+.play-preview{background:#AFC9FF;padding:26px;border-radius:16px;min-width:0}
+.play-preview-card{background:#fff;border:1px solid #363C4320;border-radius:12px;padding:24px}
+.play-preview-top{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px;font-size:13px;font-weight:600;line-height:1.4}
+.play-preview-label{background:#E9FF6B;padding:5px 9px;border-radius:4px}
+.play-preview-scene{margin:23px 0;padding:20px 0;border-top:1px solid #363C431a;border-bottom:1px solid #363C431a}
+.play-scene-caption{font-size:14px;line-height:1.5;color:#626970;margin:0 0 15px}
+.play-dialogue{font-size:clamp(26px,3vw,38px);font-weight:750;line-height:1.25;margin:0 0 5px}
+.play-translation{font-size:16px;color:#626970;line-height:1.5;margin:0}
+.play-reaction{font-size:16px;line-height:1.5;margin:16px 0 0}.play-reaction strong{font-size:23px;margin-left:8px;font-weight:750}
+.play-preview-answers{padding:0;margin:0;border:0;min-width:0}
+.play-preview-answers legend{font-size:18px;font-weight:650;line-height:1.4;margin-bottom:13px;padding:0}
+.play-preview-answers button{display:flex;align-items:center;gap:12px;width:100%;min-height:48px;padding:10px 12px;margin-top:8px;background:#fff;color:#363C43;border:1px solid #363C4330;border-radius:7px;text-align:left;cursor:pointer;font-size:16px;line-height:1.4;transition:background .15s,border-color .15s}
+.answer-letter{font-size:13px;display:grid;place-items:center;flex:0 0 24px;height:24px;border:1px solid #363C4335;border-radius:50%}
+.play-preview-answers button:hover{border-color:#363C43;background:#f3f7ff}
+.play-preview-answers button[aria-pressed=true]{border-color:#363C43}
+.play-preview-answers button.is-correct{background:#99EDD6;border-color:#363C43}
+.play-preview-answers button.is-incorrect{background:#ffe9ec}
+.answer-result{margin-left:auto;font-size:14px;font-weight:650}
+.play-preview-feedback{font-size:14px;line-height:1.6;color:#626970;margin:18px 0 0;min-height:3.2em}
+.play-preview-feedback.is-revealed{color:#363C43}
+.play-teaser .btn{margin-top:26px}
+@media(max-width:900px){.play-teaser .play-teaser-grid{grid-template-columns:1fr;gap:34px}.play-preview{max-width:540px;width:100%;margin:auto}.play-teaser-grid>div:last-child{max-width:620px}}
+@media(max-width:560px){.play-preview{padding:18px;border-radius:12px}.play-preview-card{padding:20px}.play-preview-top{font-size:12px}.play-dialogue{font-size:30px}.play-preview-answers legend{font-size:17px}}
+@media(prefers-reduced-motion:reduce){.play-preview-answers button{transition:none}}

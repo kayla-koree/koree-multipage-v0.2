@@ -1,0 +1,7 @@
+/* Small pronunciation companions for Korean learning examples. */
+.korean-roman{font-size:.8125rem;font-weight:400;letter-spacing:0;line-height:1.5;color:#626970}
+.roman-line{display:block;margin:4px 0 8px}
+.context-dialogue-row{display:block}
+.context-line .roman-line{white-space:normal;margin:3px 0 12px}
+.play-reaction .korean-roman{display:inline-block}
+.play-preview-feedback .korean-roman{white-space:nowrap}

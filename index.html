@@ -1,239 +1,45 @@
 <!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Koree — Learn Korean Through K-Pop, K-Drama &amp; Real Culture</title>
-<meta name="description" content="Discover real Korean — the slang, nuance, and expressions behind the K-pop and K-dramas you already love. A new way of learning Korean, one small discovery a day.">
-<link rel="stylesheet" href="styles.css">
-
-</head>
-<body>
-<a class="skip" href="#main">Skip to content</a>
-<header class="site-header">
-  <div class="container">
-    <nav class="nav" aria-label="Primary">
-      <a class="brand" href="index.html"><img src="assets/koree-logo.png" alt="Koree"></a>
-      <div class="nav-links"><a class="active" href="index.html">Home</a><a class="" href="play/index.html">Play</a><a class="" href="shop/index.html">Shop</a><a class="" href="discover/index.html">Discover</a><a class="" href="about/index.html">About</a><a class="nav-cta" href="get-a-piece-of-koree/index.html">Get a Piece</a></div>
-      <button class="menu" aria-label="Open menu" aria-expanded="false">☰</button>
-    </nav>
-    <div class="mobile-nav"><a href="index.html">Home</a><a href="play/index.html">Play</a><a href="shop/index.html">Shop</a><a href="discover/index.html">Discover</a><a href="about/index.html">About</a><a href="get-a-piece-of-koree/index.html">Get a Piece of Koree</a><a href="login/index.html">Log in</a></div>
-  </div>
-</header>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Koree — A little Korean. A little surprise.</title><meta name="description" content="Discover a small piece of real Korean today, through the culture and context you already love."><link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="hero.css"><link rel="stylesheet" href="home-shop.css"><link rel="stylesheet" href="home-discover.css"><link rel="stylesheet" href="home-play.css"><link rel="stylesheet" href="home-romanization.css"></head><body>
+<a class="skip" href="#main">Skip to content</a><header class="site-header"><div class="container"><nav class="nav" aria-label="Primary"><a class="brand" href="index.html"><img src="assets/koree-logo.png" alt="Koree"></a><div class="nav-links"><a class="active" href="index.html">Home</a><a href="play/index.html">Play</a><a href="shop/index.html">Shop</a><a href="discover/index.html">Discover</a><a href="about/index.html">About</a><a class="nav-cta" href="get-a-piece-of-koree/index.html">Get a Piece</a></div><button class="menu" aria-label="Open menu" aria-expanded="false">☰</button></nav><div class="mobile-nav"><a href="index.html">Home</a><a href="play/index.html">Play</a><a href="shop/index.html">Shop</a><a href="discover/index.html">Discover</a><a href="about/index.html">About</a><a href="get-a-piece-of-koree/index.html">Get a Piece of Koree</a></div></div></header>
 <main id="main">
-<section class="hero-home">
-  <div class="container hero-grid">
-    <div class="hero-copy">
-      <div class="eyebrow">Korean × Culture × Context</div>
-      <h1>You know the words. But do you know what they really <i>mean</i>?</h1>
-      <p class="lead">Discover the Korean behind K-pop, K-dramas and everyday conversations — one small discovery at a time.</p>
-      <div class="btn-row"><a class="btn dark hero-cta" href="#today">Discover today's Korean →</a><a class="btn light" href="play/index.html">What kind of Korean learner are you? →</a></div>
-    </div>
-    <div class="hero-stage" id="heroStage">
+<section class="koree-stage" aria-labelledby="hero-title">
+<div class="stage-topline"><span>KOREAN, WITH A LITTLE CONTEXT.</span><span id="hero-date">ONE SMALL DISCOVERY, TODAY</span></div>
+<div class="stage-grid">
+<div class="stage-copy"><h1 id="hero-title"><span class="title-bold">Curiosity,</span> <em class="title-editorial">in context<span class="headline-dot">.</span></em></h1><p class="stage-intro">Understand Korean beyond the words. One small discovery at a time.</p><a class="stage-link" href="#why">Look a little closer <span aria-hidden="true">↗</span></a></div>
 
-      <div class="pill-tag pill-dark"><span class="pill-dot"></span>4 ways into Korean</div>
-
-      <article class="float-card card-gwaenchana" data-depth="1.1" style="--base-rot:-3deg;--dur:8s;--delay:0s">
-        <div class="fc-inner">
-          <span class="fc-mini">Everyday Korean</span>
-          <div class="fc-word" lang="ko">괜찮아</div>
-          <div class="fc-roman">gwaen-chan-a</div>
-          <p class="fc-note">“It’s okay” — but the tone changes everything.</p>
-          <button class="audio" data-audio="괜찮아" aria-label="Play Korean pronunciation">◉ Hear it</button>
-        </div>
-      </article>
-
-      <div class="float-card card-kode" style="--base-rot:4deg;--dur:9s;--delay:.4s" data-depth="0.6">
-        <div class="fc-inner">
-          <span class="fc-mini"><span class="dot">●</span> Piece of K-ODE</span>
-          <div class="fc-title">Signature<br>Nuance Pack</div>
-          <p class="fc-note" style="opacity:.75">Understand what subtitles miss.</p>
-        </div>
-      </div>
-
-      <div class="badge-ring" data-depth="1.4" style="animation:floatY 6.5s ease-in-out infinite .8s"><span>new discovery daily</span></div>
-
-      <article class="float-card card-daebak" data-depth="0.9" style="--base-rot:2.5deg;--dur:7.5s;--delay:.2s">
-        <div class="fc-inner">
-          <span class="fc-mini">K-pop fan Korean</span>
-          <div class="fc-word" lang="ko">대박</div>
-          <div class="fc-roman">dae-bak</div>
-          <p class="fc-note">Not just “wow” — hear it in context.</p>
-        </div>
-      </article>
-
-      <div class="float-card card-wonder" data-depth="1.2" style="--base-rot:-1.5deg;--dur:8.5s;--delay:.6s">
-        <div class="fc-inner">
-          <span class="fc-mini">Ever wondered</span>
-          <p class="fc-note" style="font-weight:700;font-size:15px;color:var(--charcoal);max-width:180px">“Why do they say it like that?”</p>
-        </div>
-      </div>
-
-      <article class="float-card card-hwaiting" data-depth="1" style="--base-rot:-2deg;--dur:7s;--delay:.3s">
-        <div class="fc-inner">
-          <span class="fc-mini">Fan letter Korean</span>
-          <div class="fc-word" lang="ko">화이팅!</div>
-          <div class="fc-roman">hwa-i-ting</div>
-          <p class="fc-note">Cheer someone on, the Korean way.</p>
-        </div>
-      </article>
-
-      <div class="pill-tag pill-lime" data-depth="1.3">Real Korean, not textbook Korean</div>
-
-      <article class="float-card card-eonni" data-depth="0.8" style="--base-rot:3.5deg;--dur:9.5s;--delay:.5s">
-        <div class="fc-inner">
-          <span class="fc-mini">Relationships &amp; tone</span>
-          <div class="fc-word" lang="ko">언니</div>
-          <div class="fc-roman">eon-ni</div>
-        </div>
-      </article>
-
-      <div class="pill-tag pill-white" data-depth="1.1"><span class="pill-dot"></span>Level 01 · Discover</div>
-
-    </div>
-  </div>
+<div class="character-scene" data-mood="0" data-gaze="center"><div class="speech-bubble"><p class="bubble-question">What does this mean in Korean?</p><div class="bubble-meta"><span id="bubble-date">TODAY’S KOREAN</span><span class="bubble-number">01 / A SMALL DISCOVERY</span></div><div class="bubble-wordline"><strong class="bubble-expression" id="hero-expression" lang="ko">괜찮아</strong><span class="bubble-roman" id="hero-roman">gwaen-chan-a</span></div><div class="bubble-reveal" id="hero-reveal" aria-live="polite" hidden><p id="hero-meaning">“I’m fine.”</p><span id="hero-nuance">A little context changes everything.</span></div><div class="bubble-controls"><button type="button" id="hero-listen" aria-pressed="false"><svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><path d="M11 5 6 9H3v6h3l5 4V5Z"/><path d="M15 8a6 6 0 0 1 0 8m3-11a10 10 0 0 1 0 14"/></svg><span>Listen</span></button><button type="button" id="hero-uncover" aria-expanded="false" aria-controls="hero-reveal">See what it means <span aria-hidden="true">↗</span></button></div><div class="mood-panel"><span class="mood-heading">Pick a moment to find out.</span><div class="mood-options" role="group" aria-label="Choose a context"><button type="button" data-mood-choice="0" aria-pressed="true">Just checking in</button><button type="button" data-mood-choice="1" aria-pressed="false">A little no, thanks</button><button type="button" data-mood-choice="2" aria-pressed="false">Not quite okay</button></div><p class="mood-hint">Choose a moment to discover what’s behind the words.</p></div></div><div class="hero-character" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" class="book-character-svg" viewBox="0 0 1193.28 841.89" width="1193.28" height="841.89" aria-hidden="true" focusable="false"><defs><clipPath id="koree-eye-left"><path fill="#ffffff" d="M605.58530 578.48810 C605.58530 622.01210 579.78530 657.29510 547.95830 657.29510 C516.13230 657.29510 490.33230 622.01210 490.33230 578.48810 C490.33230 534.96410 516.13230 499.68110 547.95830 499.68110 C579.78530 499.68110 605.58530 534.96410 605.58530 578.48810 Z"/></clipPath><clipPath id="koree-eye-right"><path fill="#ffffff" d="M732.92880 578.48810 C732.92880 622.01210 707.12880 657.29510 675.30180 657.29510 C643.47580 657.29510 617.67580 622.01210 617.67580 578.48810 C617.67580 534.96410 643.47580 499.68110 675.30180 499.68110 C707.12880 499.68110 732.92880 534.96410 732.92880 578.48810 Z"/></clipPath></defs><g class="character-body"><path fill="#99edd6" d="M1193.28210 841.89000 C1193.28210 1059.11000 926.15710 1235.20100 596.64110 1235.20100 C267.12510 1235.20100 0.00010 1059.11000 0.00010 841.89000 C0.00010 624.67000 267.12510 448.57900 596.64110 448.57900 C926.15710 448.57900 1193.28210 624.67000 1193.28210 841.89000 Z"/></g><path fill="#ffffff" d="M605.58530 578.48810 C605.58530 622.01210 579.78530 657.29510 547.95830 657.29510 C516.13230 657.29510 490.33230 622.01210 490.33230 578.48810 C490.33230 534.96410 516.13230 499.68110 547.95830 499.68110 C579.78530 499.68110 605.58530 534.96410 605.58530 578.48810 Z"/><path fill="#ffffff" d="M732.92880 578.48810 C732.92880 622.01210 707.12880 657.29510 675.30180 657.29510 C643.47580 657.29510 617.67580 622.01210 617.67580 578.48810 C617.67580 534.96410 643.47580 499.68110 675.30180 499.68110 C707.12880 499.68110 732.92880 534.96410 732.92880 578.48810 Z"/><g clip-path="url(#koree-eye-left)"><g class="pupil-group" data-offset-x="17.6529" data-offset-y="-4.8272"><path fill="#302f31" d="M597.58640 573.66090 C597.58640 591.31990 583.27040 605.63590 565.61140 605.63590 C547.95140 605.63590 533.63640 591.31990 533.63640 573.66090 C533.63640 556.00190 547.95140 541.68590 565.61140 541.68590 C583.27040 541.68590 597.58640 556.00190 597.58640 573.66090 Z"/><path fill="#ffffff" d="M565.61120 566.37610 C565.61120 573.47110 559.86020 579.22210 552.76520 579.22210 C545.67120 579.22210 539.91920 573.47110 539.91920 566.37610 C539.91920 559.28110 545.67120 553.53010 552.76520 553.53010 C559.86020 553.53010 565.61120 559.28110 565.61120 566.37610 Z"/></g></g><g clip-path="url(#koree-eye-right)"><g class="pupil-group" data-offset-x="18.7917" data-offset-y="-4.8272"><path fill="#302f31" d="M726.06850 573.66090 C726.06850 591.31990 711.75250 605.63590 694.09350 605.63590 C676.43350 605.63590 662.11850 591.31990 662.11850 573.66090 C662.11850 556.00190 676.43350 541.68590 694.09350 541.68590 C711.75250 541.68590 726.06850 556.00190 726.06850 573.66090 Z"/><path fill="#ffffff" d="M694.09340 566.37610 C694.09340 573.47110 688.34240 579.22210 681.24740 579.22210 C674.15340 579.22210 668.40140 573.47110 668.40140 566.37610 C668.40140 559.28110 674.15340 553.53010 681.24740 553.53010 C688.34240 553.53010 694.09340 559.28110 694.09340 566.37610 Z"/></g></g></svg></div></div>
+</div><div class="stage-foot"><span>A PIECE OF REAL KOREAN, EVERY DAY.</span><a href="#why" aria-label="Read the context below">SCROLL TO DISCOVER <span aria-hidden="true">↓</span></a></div>
 </section>
+<section class="section why-section" id="why" aria-labelledby="why-heading"><div class="container"><div class="section-head"><div><p class="eyebrow">A small clue</p><h2 id="why-heading">Why did they say it like <span class="highlight">that</span>?</h2></div><p id="nuance-hook">The word stays the same. The moment around it changes.</p></div><div class="context-grid" id="discovery-contexts" aria-live="polite"></div><div class="discovery-bottom"><p>Same word. Different relationship.<br>Same sentence. Different tone.<br>Same translation. Different feeling.</p><a class="btn light" id="context-explore" href="discover/when-gwaenchanha-isnt-okay.html">Explore this expression →</a></div></div></section>
+<section class="section home-discover" id="discover" aria-labelledby="home-discover-title"><div class="container">
+<div class="discovery-heading"><div><p class="eyebrow">Discover</p><h2 id="home-discover-title">Keep following your curiosity.</h2><p class="discovery-intro">Short reads on the expressions, scenes, and everyday moments that make you wonder.</p></div><a class="discovery-all" href="discover/index.html">Browse all stories <span aria-hidden="true">↗</span></a></div>
+<div class="discovery-stories">
+<a class="discovery-feature" href="discover/subtitles-vs-real-korean.html"><span class="story-topic">K-Drama</span><h3>What do subtitles<br>leave out?</h3><p>You got the translation. But did you catch the relationship? Explore the clues between the lines.</p><span class="story-action">Read the story <span aria-hidden="true">↗</span></span></a>
+<div class="discovery-reading-list">
+<a class="discovery-story" href="discover/when-gwaenchanha-isnt-okay.html"><span class="story-topic">Nuance</span><h3>When does “I’m okay” mean something else?</h3><p>A closer look at <span lang="ko">괜찮아</span> <small class="korean-roman" lang="ko-Latn">(gwaen-chan-a)</small> — and how the moment changes its meaning.</p><span class="story-action">Read the story <span aria-hidden="true">↗</span></span></a>
+<a class="discovery-story" href="discover/korean-learning-without-homework.html"><span class="story-topic">Everyday Korean</span><h3>Can you learn Korean without daily homework?</h3><p>Small ways to stay connected to Korean, even when your energy is low.</p><span class="story-action">Read the story <span aria-hidden="true">↗</span></span></a>
+</div></div></div></section>
+<section class="section alt play-teaser" id="play-preview" aria-labelledby="play-preview-heading"><div class="container play-teaser-grid"><div class="play-preview"><div class="play-preview-card"><div class="play-preview-top"><span>A quick try</span><span class="play-preview-label">Context quiz</span></div><div class="play-preview-scene"><p class="play-scene-caption">Your friend shares some good news.</p><p class="play-dialogue" lang="ko">나 합격했어!</p><p class="korean-roman roman-line" lang="ko-Latn">na hapgyeokhaesseo!</p><p class="play-translation">“I passed!”</p><p class="play-reaction">You reply: <strong lang="ko">대박!</strong> <small class="korean-roman" lang="ko-Latn">(dae-bak!)</small></p></div><fieldset class="play-preview-answers"><legend>What are you saying here?</legend><button type="button" data-preview-answer="correct" aria-pressed="false"><span class="answer-letter" aria-hidden="true">A</span><span>That’s amazing!</span><span class="answer-result" aria-hidden="true"></span></button><button type="button" data-preview-answer="incorrect" aria-pressed="false"><span class="answer-letter" aria-hidden="true">B</span><span>I disagree.</span><span class="answer-result" aria-hidden="true"></span></button><button type="button" data-preview-answer="incorrect" aria-pressed="false"><span class="answer-letter" aria-hidden="true">C</span><span>Please wait.</span><span class="answer-result" aria-hidden="true"></span></button></fieldset><p class="play-preview-feedback" role="status" aria-live="polite" aria-atomic="true">Pick an answer. A little context goes a long way.</p></div></div><div><p class="eyebrow">Play</p><h2 id="play-preview-heading">How much Korean do you really <i>catch</i>?</h2><p class="lead">A few real moments. No grades — just see what the context lets you notice.</p><a class="btn dark" href="play/index.html">Try a quick quiz →</a></div></div></section>
+<section class="section home-shop" id="shop" aria-labelledby="home-shop-title"><div class="container">
+<div class="home-shop-heading"><div><p class="eyebrow">The Koree shop</p><h2 id="home-shop-title">Find your next piece of Korean.</h2><p class="home-shop-intro">Digital flashcards and guides for the Korean you want to read, use, and understand.</p></div><a class="home-shop-all" href="shop/index.html">Browse all products <span aria-hidden="true">↗</span></a></div>
+<div class="home-product-grid">
+<article class="home-product home-product-mint">
+<a class="home-product-image" href="shop/flashcards.html" tabindex="-1" aria-hidden="true"><img src="assets/products/flashcards.jpg" alt="" width="1000" height="1000" loading="lazy"></a>
+<div class="home-product-body"><p class="home-product-goal">Start reading</p><h3><a href="shop/flashcards.html">My First Korean Alphabet Flashcards</a></h3><p class="home-product-description">Recognize Korean letters and practice writing them, one card at a time.</p><dl class="home-product-facts"><div><dt>What you get</dt><dd>12-page printable PDF + printing guide</dd></div><div><dt>Good for</dt><dd>Complete beginners</dd></div></dl><a class="home-product-link" href="shop/flashcards.html" aria-label="View details for My First Korean Alphabet Flashcards">View product <span aria-hidden="true">↗</span></a></div>
+</article>
+<article class="home-product home-product-peri">
+<a class="home-product-image" href="shop/k-talk.html" tabindex="-1" aria-hidden="true"><img src="assets/products/k-talk.jpg" alt="" width="1000" height="1000" loading="lazy"></a>
+<div class="home-product-body"><p class="home-product-goal">Use Korean in real life</p><h3><a href="shop/k-talk.html">Piece of K-Talk</a></h3><p class="home-product-description">Practice everyday dialogues for cafés, travel, and the K-pop experiences you love.</p><dl class="home-product-facts"><div><dt>What you get</dt><dd>Digital guide · 15 days of dialogues</dd></div><div><dt>Good for</dt><dd>Beginners who know Hangul</dd></div></dl><a class="home-product-link" href="shop/k-talk.html" aria-label="View details for Piece of K-Talk">View product <span aria-hidden="true">↗</span></a></div>
+</article>
+<article class="home-product home-product-coral">
+<a class="home-product-image" href="shop/fan-letter.html" tabindex="-1" aria-hidden="true"><img src="assets/products/fan-letter.jpg" alt="" width="1000" height="1000" loading="lazy"></a>
+<div class="home-product-body"><p class="home-product-goal">Write a fan letter</p><h3><a href="shop/fan-letter.html">Korean Fan Letter Guidebook</a></h3><p class="home-product-description">Find the words for birthday wishes, concert memories, and messages to your favorite artist.</p><dl class="home-product-facts"><div><dt>What you get</dt><dd>Digital guide · 30 pages</dd></div><div><dt>Good for</dt><dd>Fans who want to write in Korean</dd></div></dl><a class="home-product-link" href="shop/fan-letter.html" aria-label="View details for Korean Fan Letter Guidebook">View product <span aria-hidden="true">↗</span></a></div>
+</article>
+<article class="home-product home-product-lime">
+<a class="home-product-image" href="shop/k-ode.html" tabindex="-1" aria-hidden="true"><img src="assets/products/k-ode.jpg" alt="" width="1000" height="1000" loading="lazy"></a>
+<div class="home-product-body"><p class="home-product-goal">Understand the nuance</p><h3><a href="shop/k-ode.html">Piece of K-ODE</a></h3><p class="home-product-description">Explore how tone, relationships, and context change what familiar Korean expressions mean.</p><dl class="home-product-facts"><div><dt>What you get</dt><dd>Digital guide · 30 lessons</dd></div><div><dt>Good for</dt><dd>Learners who know some Korean</dd></div></dl><a class="home-product-link" href="shop/k-ode.html" aria-label="View details for Piece of K-ODE">View product <span aria-hidden="true">↗</span></a></div>
+</article>
+</div></div></section>
 
-<section class="section discovery-section" id="today">
-  <div class="container">
-    <div class="discovery-top">
-      <div>
-        <div class="eyebrow">Today's Discovery</div>
-        <h2 class="discovery-word korean-word" lang="ko">괜찮아</h2>
-        <div class="discovery-roman">gwaen-chan-a · “I'm okay.”</div>
-      </div>
-      <p class="discovery-twist">But sometimes… <span class="highlight">it really doesn't mean that</span>.</p>
-    </div>
-    <ul class="truth-inline">
-      <li>Same word. Different relationship.</li>
-      <li>Same sentence. Different tone.</li>
-      <li>Same translation. Different feeling.</li>
-    </ul>
-    <div class="context-grid" id="discovery-contexts">
-      <article class="context-card context-a">
-        <span class="context-tag">Context A · a friend asks you along</span>
-        <p class="context-line" lang="ko">친구: 같이 갈래?<br>나: 괜찮아.</p>
-        <p class="context-arrow">→ “No, thanks.”</p>
-      </article>
-      <article class="context-card context-b">
-        <span class="context-tag">Context B · a friend checks in</span>
-        <p class="context-line" lang="ko">친구: 너 진짜 괜찮아?<br>나: 괜찮아!</p>
-        <p class="context-arrow">→ “I'm okay. Don't worry.”</p>
-      </article>
-      <article class="context-card context-c">
-        <span class="context-tag">Context C · something's clearly wrong</span>
-        <p class="context-line" lang="ko">친구: 너 왜 그래?<br>나: <span class="context-pause">…</span>괜찮아.</p>
-        <p class="context-arrow">→ “I'm really not okay.”</p>
-      </article>
-    </div>
-    <div class="btn-row">
-      <button class="audio" data-audio="괜찮아" aria-label="Hear 괜찮아 pronounced aloud">◉ Hear it</button>
-      <a class="btn light" href="#discovery-contexts">See the context</a>
-      <a class="btn dark" href="discover/when-gwaenchanha-isnt-okay.html">Explore this expression →</a>
-    </div>
-  </div>
-</section>
-
-<section class="section alt">
-  <div class="container">
-    <div class="eyebrow">Why Korean is fun</div>
-    <h2 class="truth-heading">The same words can carry <span class="highlight">a different weight</span>.</h2>
-    <div class="truth-stack">
-      <div class="truth-row">
-        <div class="truth-text">Same words.<br><i>Different relationship.</i></div>
-        <div class="truth-context truth-chip-lime"><span lang="ko">언니</span> to a close friend's older sister feels warm. To a stranger, the same word can feel forced.</div>
-      </div>
-      <div class="truth-row truth-reverse">
-        <div class="truth-text">Same sentence.<br><i>Different tone.</i></div>
-        <div class="truth-context truth-chip-mint">“너 진짜 괜찮아?” said quickly brushes off worry. Said slowly, it's real concern.</div>
-      </div>
-      <div class="truth-row">
-        <div class="truth-text">Same translation.<br><i>Different feeling.</i></div>
-        <div class="truth-context truth-chip-peri">“괜찮아” translates to “I'm okay” every time — but it doesn't always feel okay.</div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section class="section">
-  <div class="container">
-    <div class="eyebrow">Explore by curiosity</div>
-    <h2>What are you curious about?</h2>
-    <p class="lead" style="margin-top:12px">Pick the door that matches how you already love Korean.</p>
-    <div class="curiosity-grid" style="margin-top:30px">
-      <a class="curiosity-card curiosity-drama" href="discover/index.html#k-drama"><span class="mini">K-Drama</span><h3>Why did she say <span lang="ko">괜찮아</span> like <i>that</i>?</h3></a>
-      <a class="curiosity-card curiosity-kpop" href="discover/index.html#k-pop"><span class="mini">K-Pop</span><h3>What does <span lang="ko">대박</span> actually sound like?</h3></a>
-      <a class="curiosity-card curiosity-everyday" href="discover/index.html#everyday-korean"><span class="mini">Everyday Korean</span><h3>Why does <span lang="ko">됐어</span> mean more than “done”?</h3></a>
-      <a class="curiosity-card curiosity-fan" href="discover/index.html#fan-korean"><span class="mini">Fan Korean</span><h3>How do Koreans actually write to someone they admire?</h3></a>
-      <a class="curiosity-card curiosity-culture" href="discover/index.html#korean-culture"><span class="mini">Korean Culture</span><h3>What does a familiar phrase reveal about everyday life?</h3></a>
-    </div>
-  </div>
-</section>
-
-<section class="section alt">
-  <div class="container">
-    <div class="section-head"><div><div class="eyebrow">Play</div><h2>What kind of Korean learner are you?</h2></div><p>No grades. No “wrong” personality — just a playful starting point.</p></div>
-    <div class="grid grid-3">
-      <div class="type-card"><div class="number">TYPE 01</div><h3>The Curious Fan</h3><p>“The subtitles say this… but why does it feel different?”</p></div>
-      <div class="type-card"><div class="number">TYPE 02</div><h3>The Frustrated Learner</h3><p>“I learned it in a book. Why doesn't real Korean work like that?”</p></div>
-      <div class="type-card"><div class="number">TYPE 03+</div><h3>Three more to discover</h3><p>Take the full Korean Type Check and get a starting point for your next discovery.</p></div>
-    </div>
-    <div class="btn-row"><a class="btn dark" href="play/index.html">Take the Korean Type Check →</a></div>
-  </div>
-</section>
-
-<section class="section">
-  <div class="container">
-    <div class="section-head"><div><div class="eyebrow">Shop</div><h2>Learn through something you actually want to read.</h2></div><a class="btn light" href="shop/index.html">View all products</a></div>
-    <div class="grid grid-4">
-      <a class="card product-card" href="shop/fan-letter.html"><div class="product-cover cover-coral"><span class="mini">Level 02 · Use</span><strong lang="ko" style="font-size:32px;line-height:1">생일 축하해<br>♡</strong><span>Fan Letter Guidebook</span></div><div class="title">Korean Fan Letter Guidebook</div><div class="meta">Write what you really mean.</div></a>
-      <a class="card product-card" href="shop/k-talk.html"><div class="product-cover cover-peri"><span class="mini">Level 02 · Use</span><strong style="font-size:30px;line-height:1">K-TALK</strong><span>K-pop × Travel Korean</span></div><div class="title">Piece of K-Talk</div><div class="meta">Real expressions for real moments.</div></a>
-      <a class="card product-card" href="shop/flashcards.html"><div class="product-cover cover-lime"><span class="mini">Level 01 · Discover</span><strong lang="ko" style="font-size:38px;line-height:1">가 나<br>다 라</strong><span>Hangul Flashcards</span></div><div class="title">My First Korean Alphabet Flashcards</div><div class="meta">Meet Hangul without pressure.</div></a>
-      <a class="card product-card" href="shop/k-ode.html"><div class="product-cover cover-dark"><span class="mini">Level 03 · Understand</span><strong lang="ko" style="font-size:36px;line-height:1">괜찮아?</strong><span>Real Korean Nuance</span></div><div class="title">Piece of K-ODE</div><div class="meta">Read the feeling behind the words.</div></a>
-    </div>
-  </div>
-</section>
-
-<section class="section">
-  <div class="container">
-    <div class="section-head"><div><div class="eyebrow">Discover</div><h2>Korean you noticed but never understood.</h2></div><a class="btn light" href="discover/index.html">View all →</a></div>
-    <div class="article-grid grid grid-3">
-      <a class="card article" href="discover/when-gwaenchanha-isnt-okay.html"><span class="tag">Nuance</span><h3>When “<span lang="ko">괜찮아</span>” isn't really “I'm okay.”</h3><p>One phrase, several temperatures. Start noticing what context changes.</p><span class="mini">Read →</span></a>
-      <a class="card article" href="discover/subtitles-vs-real-korean.html"><span class="tag">K-Drama</span><h3>What subtitles leave out.</h3><p>Translation gets you the sentence. Context can get you the relationship.</p><span class="mini">Read →</span></a>
-      <a class="card article" href="discover/korean-learning-without-homework.html"><span class="tag">Everyday Korean</span><h3>Can you learn Korean without “studying” every day?</h3><p>A gentler way to stay connected when your energy is low.</p><span class="mini">Read →</span></a>
-    </div>
-  </div>
-</section>
-
-<section class="section alt">
-  <div class="container form-card card">
-    <div class="eyebrow">Get a Piece of Koree</div><h2 style="font-size:42px">5 Korean expressions you've probably heard before. <span class="highlight">But maybe never understood quite right.</span></h2>
-    <p class="muted">A short expression, a little context, and something worth noticing. No homework.</p>
-    <div class="expression-preview">
-      <span class="expression-chip"><span lang="ko">괜찮아</span> <em>— not always “I'm fine.”</em></span>
-      <span class="expression-chip"><span lang="ko">됐어</span> <em>— more than just “done.”</em></span>
-      <span class="expression-chip"><span lang="ko">대박</span> <em>— tone tells you which kind of surprise.</em></span>
-    </div>
-    <form data-newsletter style="margin-top:24px"><div class="field"><label for="home-email">Email</label><input id="home-email" type="email" required placeholder="you@example.com"></div><button class="btn dark" type="submit">Send them to me →</button></form>
-    <p class="consent-note">By subscribing, you agree to receive occasional Korean discoveries from Koree. Unsubscribe anytime — every email has a link.</p>
-    <p class="success-msg notice" hidden style="margin-top:16px">You're on the list. Your first piece is on its way.</p>
-  </div>
-</section>
-</main>
-<footer class="site-footer">
-  <div class="container">
-    <div class="footer-grid">
-      <div class="footer-brand">
-        <img src="assets/koree-logo-white.png" alt="Koree">
-        <p>Understand Korean beyond the words — through the culture, context and expressions you already care about.</p>
-      </div>
-      <div class="footer-col"><h4>Explore</h4><a href="play/index.html">Play</a><a href="shop/index.html">Shop</a><a href="discover/index.html">Discover</a><a href="get-a-piece-of-koree/index.html">Get a Piece</a></div>
-      <div class="footer-col"><h4>Koree</h4><a href="about/index.html">About</a><a href="faq/index.html">FAQ</a><a href="contact/index.html">Contact</a><a href="login/index.html">Log in</a></div>
-      <div class="footer-col"><h4>Legal</h4><a href="privacy/index.html">Privacy</a><a href="terms/index.html">Terms</a></div>
-    </div>
-    <div class="copyright">© 2026 Koree. Korean language & culture, one small discovery at a time.</div>
-  </div>
-</footer>
-<script src='script.js'></script>
-</body>
-</html>
+<section class="section piece-section"><div class="container form-card card"><p class="eyebrow">Get a Piece of Koree</p><h2 style="font-size:42px">5 Korean expressions you’ve probably heard before. <span class="highlight">But maybe never understood quite right.</span></h2><p class="muted">A short expression, a little context, and something worth noticing. No homework.</p><div class="expression-preview"><span class="expression-chip"><span lang="ko">괜찮아</span> <small class="korean-roman" lang="ko-Latn">(gwaen-chan-a)</small> <em>— not always “I’m fine.”</em></span><span class="expression-chip"><span lang="ko">됐어</span> <small class="korean-roman" lang="ko-Latn">(dwaesseo)</small> <em>— more than just “done.”</em></span><span class="expression-chip"><span lang="ko">대박</span> <small class="korean-roman" lang="ko-Latn">(dae-bak)</small> <em>— tone tells you which kind of surprise.</em></span></div><form data-newsletter style="margin-top:24px"><div class="field"><label for="home-email">Email</label><input id="home-email" type="email" required placeholder="you@example.com"></div><button class="btn dark" type="submit">Get the next piece →</button></form><p class="consent-note">By subscribing, you agree to receive occasional Korean discoveries from Koree. Unsubscribe anytime — every email has a link.</p><p class="success-msg notice" hidden style="margin-top:16px">You’re on the list. Your first piece is on its way.</p></div></section>
+</main><footer class="site-footer"><div class="container"><div class="footer-grid"><div class="footer-brand"><img src="assets/koree-logo-white.png" alt="Koree"><p>Understand Korean beyond the words — through the culture, context and expressions you already care about.</p></div><div class="footer-col"><h4>Explore</h4><a href="play/index.html">Play</a><a href="shop/index.html">Shop</a><a href="discover/index.html">Discover</a><a href="get-a-piece-of-koree/index.html">Get a Piece</a></div><div class="footer-col"><h4>Koree</h4><a href="about/index.html">About</a><a href="faq/index.html">FAQ</a><a href="contact/index.html">Contact</a></div><div class="footer-col"><h4>Legal</h4><a href="privacy/index.html">Privacy</a><a href="terms/index.html">Terms</a></div></div><div class="copyright">© 2026 Koree. Korean language &amp; culture, one small discovery at a time.</div></div></footer><script src="data/daily-discoveries.js"></script><script src="script.js"></script><script src="hero.js"></script><script src="hero-gaze.js"></script><script src="home-play.js"></script></body></html>
