@@ -60,6 +60,18 @@ a:focus-visible,button:focus-visible,input:focus-visible,textarea:focus-visible{
 .nav-cta:active{transform:translateY(0) scale(.96)}
 .menu{display:none;border:0;background:none;font-size:26px;cursor:pointer}
 .page-hero{padding:100px 0 72px}
+/* Illustrated page hero (Play/Shop/About/Discover): copy ~58% + right-aligned character art ~42%, stacks on mobile */
+.page-hero--illustrated .container{display:grid;grid-template-columns:minmax(0,1.4fr) minmax(0,1fr);gap:5vw;align-items:center}
+.page-hero--illustrated .page-hero__copy{min-width:0}
+.page-hero--illustrated .page-hero__copy h1{max-width:620px}
+.page-hero--illustrated .page-hero__art{display:flex;justify-content:flex-end;align-items:center;min-width:0}
+.page-hero--illustrated .page-hero__art img{width:100%;max-width:400px;height:auto}
+@media(max-width:767px){
+  .page-hero--illustrated .container{grid-template-columns:1fr;gap:28px}
+  .page-hero--illustrated .page-hero__copy h1{max-width:none}
+  .page-hero--illustrated .page-hero__art{justify-content:center}
+  .page-hero--illustrated .page-hero__art img{max-width:220px}
+}
 .eyebrow{font-size:12px;letter-spacing:.14em;text-transform:uppercase;font-weight:800;opacity:.58;margin-bottom:16px}
 h1,h2,h3{line-height:1.08;letter-spacing:-.04em;margin:0;text-wrap:balance}
 h1 i{
@@ -297,9 +309,12 @@ label{font-size:13px;font-weight:700;display:block;margin:0 0 7px}
 .filter{border:1px solid var(--line);background:#fff;color:var(--charcoal);border-radius:999px;padding:9px 16px;font-weight:700;font-size:13px;cursor:pointer;transition:.16s background,.16s color,.16s border-color}
 .filter:hover{border-color:var(--charcoal)}
 .filter.active{background:var(--charcoal);color:#fff;border-color:var(--charcoal)}
-.filter-empty{margin-top:8px}
+.filter-empty{margin-top:8px;display:flex;flex-wrap:wrap;align-items:center;gap:8px}
+.filter-empty-reset{background:none;border:0;padding:0;cursor:pointer;font:inherit;font-size:12px;font-weight:800;letter-spacing:.1em;text-transform:uppercase;text-decoration:underline;text-underline-offset:3px;color:var(--charcoal);opacity:.75;transition:.16s opacity}
+.filter-empty-reset:hover{opacity:1}
 .article-grid .article{min-height:250px}
 .article .tag{font-size:11px;font-weight:800;text-transform:uppercase;letter-spacing:.1em;opacity:.5}
+.article .tag-secondary{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;opacity:.38;margin-left:8px}
 .article h3{margin-top:42px}
 .article p{font-size:14px;color:var(--muted)}
 .article-page{max-width:820px}
